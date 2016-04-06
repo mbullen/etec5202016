@@ -1,0 +1,36 @@
+title: 'ETEC 520'
+author:
+  name: 'John Appleseed'
+  email: john@email.com
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'A short description of your course would go here'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+redirects:
+  /redirect-test: /
+  '/old/(.*)': /new/$1
+routes:
+  /something/else: /blog/sample-3
+  '/new/(.*)': /blog/$1
+blog:
+  route: /blog
+displaymenuentries:
+  enabled: true
+menu:
+  -
+    text: Grav
+    icon: arrow-circle-right
+    url: 'http://getgrav.org/'
+icon:
+  post: calendar-o
+github:
+  location: page
+  tree: 'https://github.com/hibbitts-design/grav-skeleton-course-hub/edit/master/'
+rssbutton:
+  display: true
