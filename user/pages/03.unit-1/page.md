@@ -15,3 +15,5 @@ fontawesome: use_global
 
 ##### Understanding E-Learning
 This is a test page for Unit 1 of ETEC 520.
+
+Possible student change.
