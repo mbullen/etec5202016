@@ -1,6 +1,6 @@
 ---
 title: Syllabus
-published: false
+published: true
 external_links:
     process: true
     title: false
