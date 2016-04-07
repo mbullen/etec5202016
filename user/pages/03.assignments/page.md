@@ -13,7 +13,7 @@ There are <strong>three</strong> assignments for this course. The grade breakdow
 </ul>
 You will need to submit all three assignments to pass.
 #### Collaboration
-There is a collaborative option for Assignments 2 and 3. You can do one or both assignments in a group. Use the <em><strong>Assignment Group</strong></em>s tool on Blackboard Connect to sign up for a group.
+There is a collaborative option for Assignments 2 and 3. You can do one or both assignments in a group. Use the Assignment Groups tool on Blackboard Connect to sign up for a group.
 #### Participation Grade
 Ten per cent of your final grade is for participation in the discussion forums. To earn the full 10%  you need to contribute <strong>at least two messages to each unit discussion.
 #### Assignment Deadlines(January 2016)
