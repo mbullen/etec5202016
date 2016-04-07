@@ -4,7 +4,7 @@ This <strong>Introduction</strong> provides a general overview of the course and
 * [Overview of the Course](#overview-of-the-course)
 * [Learning Outcomes](#learning-outcomes)
 * [Course Schedule](#course-schedule)
-* [Teaching & Learning Approach](#teaching-&-learing-approach)
+* [Teaching & Learning Approach](#teaching-&-learning-approach)
 
 ### Overview of the Course <a name="overview-of-the-course"></a>
 The purpose of this course is to prepare you to plan and manage e-learning effectively in your institutions and organizations. We will do this through readings and discussions of some of the key issues. The assignments will also give you an opportunity to apply some of these ideas to practical planning activities.
