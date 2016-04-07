@@ -3,7 +3,6 @@ This <strong>Introduction</strong> provides a general overview of the course and
 ### Table of Contents
 * [Overview of the Course](#overview-of-the-course)
 * [Learning Outcomes](#learning-outcomes)
-* [Course Schedule](#course-schedule)
 * [Teaching & Learning Approach](#teaching-&-learning-approach)
 * [Readings & Resources](#readings-&-resources)
 * [Resources & Support](#resources-&-support)
@@ -52,82 +51,7 @@ Upon successful completion of this course we expect you will be able to:
 	<li>Discuss some of the social, economic and political factors that are influencing the planning and management of e-learning in higher education;</li>
 	<li>Discuss the key principles of the open education movement and how they might be integrated into institutional planning for e-learning.</li>
 </ol>
-### Course Schedule <a name="course-schedule"></a>
-<table>
-<tbody>
-<tr>
-<td><strong>Unit</strong></td>
-<td><strong>Dates</strong></td>
-<td><strong>Topic</strong></td>
-<td><strong>Assignments/Activities</strong></td>
-</tr>
-<tr>
-<td>Introduction</td>
-<td>Jan. 4-10 (week 1)</td>
-<td>Introduction
-to the Course</td>
-<td>Review the resources, readings and the Online Code of Conduct.
-Post your bio.</td>
-</tr>
-<tr>
-<td>Unit 1</td>
-<td>Jan. 11-24 (weeks 2, 3)</td>
-<td>Understanding E-Learning</td>
-<td>Discussion:
-The Meaning of E-Learning, <strong>Jan. 11-24</strong></td>
-</tr>
-<tr>
-<td>Unit 2</td>
-<td>Jan. 25-Feb. 7 (weeks 4, 5 )</td>
-<td>E-Learning Readiness</td>
-<td>Discussion:
-E-Learning Readiness, <strong>Jan. 25-Feb. 7</strong>
-<strong>Assignment 1 due: Feb. 7</strong></td>
-</tr>
-<tr>
-<td> Unit 3</td>
-<td>Feb. 8-14 (week 6)</td>
-<td>Institutional Organization &amp; Support</td>
-<td>Discussion:
-Models of Support, <strong>Feb. 17-28</strong> (Guest Moderator)</td>
-</tr>
-<tr>
-<td></td>
-<td>Feb. 15-21</td>
-<td>Reading Break</td>
-<td></td>
-</tr>
-<tr>
-<td>Unit 3</td>
-<td>Feb. 22-28 (week 8)</td>
-<td>Institutional Organization &amp; Support</td>
-<td></td>
-</tr>
-<tr>
-<td>Unit 4</td>
-<td>Feb. 29 – Mar. 13 (weeks 9, 10)</td>
-<td>Institutional Planning for E-Learning</td>
-<td>Discussion:
-Institutional Planning, <strong>Feb. 29 – Mar. 13</strong>
-<strong>Assignment 2 due: March 6</strong></td>
-</tr>
-<tr>
-<td>Unit 5</td>
-<td>Mar. 14 – 27 (weeks 11, 12)</td>
-<td>Government Planning for E-Learning</td>
-<td>Discussion:
-Government Strategies<strong>, Mar. 14-27 –</strong></td>
-</tr>
-<tr>
-<td>Unit 6</td>
-<td>Mar. 28 – April 8 (weeks 13, 14)</td>
-<td>Implementing E-Learning</td>
-<td>Discussion:
-Implementing E-Learning, <strong>Mar. 28 – April 8
-Assignment 3 due: April 3.</strong></td>
-</tr>
-</tbody>
-</table>
+
 ### Teaching & Learning Approach <a name="teaching-&-learning-approach"></a>
 There are no right and wrong answers to the questions about how to effectively plan and manage e-learning. While there is some basic knowledge you need to have about planning and managing e-learning in higher education, this course is about ideas and issues that are influenced by personal values, ideologies, and world views and it is based primarily on the experience of the course authors, and on reports and articles by managers from other institutions with fairly recent experience of planning and managing e-learning in higher education.  Many of you will have other, equally relevant experiences, and we want to be able to draw on, share and discuss this varied set of experiences.
 
