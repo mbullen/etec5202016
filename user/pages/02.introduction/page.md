@@ -1,12 +1,12 @@
 #### Table of Contents
-* [Overview of the Course](#Overview of the Course)
+* [Purpose of the Course](#Purpose of the Course)
 * [Learning Outcomes](#Learning Outcomes)
 * [Course Schedule](#Course Schedule)
-#### Overview of the Course <a name="Overview of the Course"></a>
+### Purpose of the Course <a name="Overview of the Course"></a>
 The purpose of this course is to prepare you to plan and manage e-learning effectively in your institutions and organizations. We will do this through readings and discussions of some of the key issues. The assignments will also give you an opportunity to apply some of these ideas to practical planning activities.
 
 As the title indicates, the course is focused on the use of technology in <strong>higher education</strong> and it is aimed primarily at people with management responsibilities working in this sector or those who aspire to work as educational managers. If you don't fit this profile, you can still benefit from this course but you might have to work a bit harder to make sense of some of material and concepts.
-<h3>Terminology</h3>
+### Terminology
 As you begin working through the course you will notice that we use a number of different terms somewhat interchangeably: e-Learning, learning technology, educational technology, online learning and so on. This is perhaps a bit sloppy because these aren't synonyms, but then there aren't any clear and commonly-accepted definitions of the many terms that are used to describe the use of technology in teaching and learning. In practice you will find teachers, instructors and administrators using these and other terms, often to mean different things. This is a problem with our field. We do try to clarify the terminology issue in Unit 1 when we discuss the meaning of e-learning.
 <h3><strong>Evolving Thinking About Planning for E-Learning
 </strong></h3>
