@@ -45,7 +45,7 @@ We expect you to use APA documentation standards in the work that you submit for
 <a href="http://www.apastyle.org/elecref.html" target="_blank">APA's Style guidelines for citing Electronic sources</a><br>
 #### Plagiarism
 Copying material without the author’s permission or without proper reference can lead to cancellation of a student's registration or expulsion from the program. For more information on UBC's policies on Plagiarism, please read the following: <br>
-<a href="http://www.library.ubc.ca/home/plagiarism/" target="_blank">UBC Plagiarism Guidelines for Students</a>
+<a href="http://www.library.ubc.ca/home/plagiarism/" target="_blank">UBC Plagiarism Guidelines for Students</a><br>
 Plagiarism is a very serious disciplinary issue, and students will be given a zero grade for this course if found using someone else's work (including other students’ work) without proper acknowledgement.
 
 #### Use of Quotations
