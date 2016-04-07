@@ -1,7 +1,10 @@
+This <strong>Introduction</strong> provides a general overview of the course and all the logistical and administrative details including information about readings, resources, assignments, due dates, instructor information and more.
+
 ### Table of Contents
 * [Overview of the Course](#Overview of the Course)
 * [Learning Outcomes](#Learning Outcomes)
 * [Course Schedule](#Course Schedule)
+
 ### Overview of the Course <a name="Overview of the Course"></a>
 The purpose of this course is to prepare you to plan and manage e-learning effectively in your institutions and organizations. We will do this through readings and discussions of some of the key issues. The assignments will also give you an opportunity to apply some of these ideas to practical planning activities.
 
@@ -17,8 +20,7 @@ When I started teaching this course, I subscribed wholeheartedly to the view tha
 I will have more to say about this later in the course and in our discussions but I wanted to raise this issue at the outset because I think you will find there is a very strong bias in favour of the centrally-planned approach to e-learning in many of the readings. Certainly the main text by Bates &amp; Sangrà makes a strong case for this approach. I don't think we should be rejecting this approach but we do need to be much more mindful of the contexts in which we are working.
 
 My hope is that as you work through this course you will develop your own perspective on this issue and determine what you think is the best approach for the context in which you work. Regardless of the approach we adopt, institutions need to be ready for e-learning and this course is primarily about institutional readiness for e-learning and attempts to answer the question, what are the key factors that are needed in order to effectively implement e-learning in a higher education institution?
-#### Overview
-This <strong>Introduction</strong> provides a general overview of the course and all the logistical and administrative details including information about readings, resources, assignments, due dates, instructor information and more.
+#### Course Content
 
 The course content is divided into six units:
 
