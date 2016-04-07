@@ -3,6 +3,7 @@
 * [Assignment 1](#assignment1)
 * [Assignment 2](#assignment2)
 * [Assignment 3](#assignment3)
+
 ### Overview <a name="overview"></a>
 There are <strong>three</strong> assignments for this course. The grade breakdown is as follows:
 <ul>
