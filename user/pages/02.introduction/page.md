@@ -1,3 +1,9 @@
+### Introduction
+#### Table of Contents
+* [Overview of the Course](#Overview of the Course)
+* [Learning Outcomes](#Learning Outcomes)
+* [Course Schedule](#Course Schedule)
+#### Overview of the Course <a name="Overview of the Course"></a>
 The purpose of this course is to prepare you to plan and manage e-learning effectively in your institutions and organizations. We will do this through readings and discussions of some of the key issues. The assignments will also give you an opportunity to apply some of these ideas to practical planning activities.
 
 As the title indicates, the course is focused on the use of technology in <strong>higher education</strong> and it is aimed primarily at people with management responsibilities working in this sector or those who aspire to work as educational managers. If you don't fit this profile, you can still benefit from this course but you might have to work a bit harder to make sense of some of material and concepts.
@@ -31,3 +37,93 @@ The course content is divided into six units:
 <h3><strong>Background to the Course
 </strong></h3>
 This course was originally developed by Tony Bates for the graduate certificate in Technology-based Distributed Learning (TBDL) that was offered by the UBC Distance Education &amp; Technology department from 1997-2002. The course was revised  in 2002 when the TBDL  was turned into the Master of Educational Technology and taken over by the Faculty of Education. Then in 2003 Mark Bullen took over responsibility for the course and made further revisions. Since then the course has been revised and updated on an annual basis. In 2014 Mark Bullen completed a major revision to the course.
+#### Learning Outcomes <a name="Learning Outcomes"></a>
+Upon successful completion of this course we expect you will be able to:
+<ol>
+	<li>Discuss the different meanings of e-learning.</li>
+	<li>Discuss and critique the key rationales for using e-learning in higher education.</li>
+	<li>Analyze different approaches to planning and supporting e-learning in higher education.</li>
+	<li>Determine the appropriate approach to planning and supporting e-learning in your institution or organization.</li>
+	<li>Develop an appropriate strategy for planning and managing e-learning in our institution or organization;</li>
+	<li>Discuss some of the social, economic and political factors that are influencing the planning and management of e-learning in higher education;</li>
+	<li>Discuss the key principles of the open education movement and how they might be integrated into institutional planning for e-learning.</li>
+</ol>
+#### Course Schedule <a name="Course Schedule"></a>
+<table>
+<tbody>
+<tr>
+<td><strong>Unit</strong></td>
+<td><strong>Dates</strong></td>
+<td><strong>Topic</strong></td>
+<td><strong>Assignments/Activities</strong></td>
+</tr>
+<tr>
+<td>Introduction</td>
+<td>Jan. 4-10 (week 1)</td>
+<td>Introduction
+to the Course</td>
+<td>Review the resources, readings and the Online Code of Conduct.
+Post your bio.</td>
+</tr>
+<tr>
+<td>Unit 1</td>
+<td>Jan. 11-24 (weeks 2, 3)</td>
+<td>Understanding E-Learning</td>
+<td>Discussion:
+The Meaning of E-Learning, <strong>Jan. 11-24</strong></td>
+</tr>
+<tr>
+<td>Unit 2</td>
+<td>Jan. 25-Feb. 7 (weeks 4, 5 )</td>
+<td>E-Learning Readiness</td>
+<td>Discussion:
+E-Learning Readiness, <strong>Jan. 25-Feb. 7</strong>
+<strong>Assignment 1 due: Feb. 7</strong></td>
+</tr>
+<tr>
+<td> Unit 3</td>
+<td>Feb. 8-14 (week 6)</td>
+<td>Institutional Organization &amp; Support</td>
+<td>Discussion:
+Models of Support, <strong>Feb. 17-28</strong> (Guest Moderator)</td>
+</tr>
+<tr>
+<td></td>
+<td>Feb. 15-21</td>
+<td>Reading Break</td>
+<td></td>
+</tr>
+<tr>
+<td>Unit 3</td>
+<td>Feb. 22-28 (week 8)</td>
+<td>Institutional Organization &amp; Support</td>
+<td></td>
+</tr>
+<tr>
+<td>Unit 4</td>
+<td>Feb. 29 – Mar. 13 (weeks 9, 10)</td>
+<td>Institutional Planning for E-Learning</td>
+<td>Discussion:
+Institutional Planning, <strong>Feb. 29 – Mar. 13</strong>
+<strong>Assignment 2 due: March 6</strong></td>
+</tr>
+<tr>
+<td>Unit 5</td>
+<td>Mar. 14 – 27 (weeks 11, 12)</td>
+<td>Government Planning for E-Learning</td>
+<td>Discussion:
+Government Strategies<strong>, Mar. 14-27 –</strong></td>
+</tr>
+<tr>
+<td>Unit 6</td>
+<td>Mar. 28 – April 8 (weeks 13, 14)</td>
+<td>Implementing E-Learning</td>
+<td>Discussion:
+Implementing E-Learning, <strong>Mar. 28 – April 8
+Assignment 3 due: April 3.</strong></td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+
+&nbsp;
