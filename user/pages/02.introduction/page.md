@@ -177,7 +177,7 @@ If you have problems in getting your readings, please contact your instructor.
 [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-3?count=30" num="30"]
 
 [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-4?count=30" num="30"]
-#### Additional Readings & Resources
+##### Additional Readings & Resources
 <ul>
 	<li>Bullen, M. &amp; Janes, D.P. (2007). Preface. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies and Issues</em>, pp. vii-xvi, Hershey, PA: Information Science Publishing.</li>
 </ul>
@@ -189,7 +189,7 @@ If you have problems in getting your readings, please contact your instructor.
 
 [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-4R?count=30" num="30"]
 #### Unit 2
-#### Recommended Readings & Resources
+##### Recommended Readings & Resources
 <ul>
 	<li>Bates, A.W. &amp; Sangrà, A.  (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, pp. 71-75; Chapter 7 and Chapter 8, pp. 182-208<strong><em>.</em></strong></li>
 	<li>Bates, A.W. (2001). <span style="text-decoration: underline;"><a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em>National strategies for e-learning in post-secondary education and training. </em></a></span>Chapter 5. Paris: UNESCO/International Institute for Educational Planning.</li>
@@ -201,27 +201,27 @@ If you have problems in getting your readings, please contact your instructor.
 [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-2-5-2?count=30" num="30"]
 
 [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-2-8?count=30" num="30"]
-#### Additional Readings & Resources
+##### Additional Readings & Resources
 <ul>
 	<li>Haughey, M. (2007). Organizational Models for Faculty Support: The Response of Canadian Universities. In M. Bullen &amp; D.P. Janes (Eds.)<em> Making the Transition to E-Learning: Strategies &amp; Issues</em> (pp. 17-32). Hershey, PA: Information Science Publishing.</li>
 	<li>Wilson, G. (2007). New Skills and Ways of Working: Faculty Development for E-Learning. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies &amp; Issues </em>(pp. 121-138). Hershey, PA: Information Science Publishing.</li>
 </ul>
 [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-2-1R?count=30" num="30"]
 #### Unit 3
-#### Recommended Readings & Resources
+##### Recommended Readings & Resources
 <ul>
 	<li>Bates, A.W. &amp; Sangrà, A.  (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, chapter 5 (pp. 110-129).</li>
 </ul>
 [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-3?count=30" num="30"]
 #### Unit 4
-#### Recommended Readings & Resources
+##### Recommended Readings & Resources
 <ul>
 	<li>Bates, A.W. &amp; Sangrà, A. (2011). <em>Managing Technology: Strategies for Transforming Higher Education.</em>San Francisco: Jossey Bass, pp. 71-74; 102-121; 137-142; 190-20</li>
 </ul>
 [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-4-1?count=30" num="30"]
 
 [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-4-2?count=30" num="30"]
-#### Additional Readings & Resources
+##### Additional Readings & Resources
 <ul>
 	<li>Bates, A.W. (2007). Strategic Planning for E-Learning in a Polytechnic. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies &amp; Issues </em>(pp. 47-65). Hershey, PA: Information Science Publishing.</li>
 	<li>Fritz, R. (1989). <em>The Path of Least Resistance</em>. New York: Columbine, pp.122-138.</li>
@@ -229,14 +229,14 @@ If you have problems in getting your readings, please contact your instructor.
 </ul>
 [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-4-2R?count=30" num="30"]
 #### Unit 5
-#### Recommended Readings & Resources
+##### Recommended Readings & Resources
 <ul>
 	<li>Bates, A.W. (2001). <span style="text-decoration: underline;"><a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em>National strategies for e-learning in post-secondary education and training.</em></a> </span>Paris: UNESCO/International Institute for Educational Planning.</li>
 	<li>Bates, A.W. &amp; Sangrà, A. (2011). <em>Managing Technology: Strategies for Transforming Higher Education.</em> San Francisco: Jossey Bass. pp. 228-232</li>
 </ul>
 [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-5?count=30" num="30"]
 #### Unit 6
-#### Recommended Readings &amp; Resources
+##### Recommended Readings &amp; Resources
 [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-6-1?count=30" num="30"]
 
 [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-6-2?count=30" num="30"]
@@ -244,7 +244,7 @@ If you have problems in getting your readings, please contact your instructor.
 [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-6-2a?count=30" num="30"]
 
 [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-6-6?count=30" num="30"]
-#### Additional Reading
+##### Additional Reading
 <ul>
 	<li>Kelly, O. (2007). Moving to Blended Delivery in a Polytechnic: Shifting the Mindset of Faculty and Institutions. In M. Bullen and D.P. Janes (Eds.), <em>Making the Transition to E-Learning: Strategies and Issues</em>, pp. 33-46, Hershey, PA: Information Science Publishing.</li>
 </ul>
