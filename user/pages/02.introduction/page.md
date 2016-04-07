@@ -142,7 +142,8 @@ We aim to prepare you for this in the following ways:
 	<li>by getting you to reflect on your own views, and to step back from these to understand some of your own underlying, and possibly unquestioned, assumptions;</li>
 	<li>by having you work collaboratively with other students through the discussion groups and assignments, in order to get a wider range of perspectives on the various issues that arise in this course.</li>
 </ol>
-### Readings & Resources <a name="Readings-&-Resources"></a>
+
+### Readings & Resources <a name="readings-&-resources"></a>
 There are two textbooks for this course and a number online readings and resources.
 
 The readings that are listed as "Recommended" are the core readings for the course. The readings that are listed as "Additional" are references you may want to pursue depending on your particular interests. They will allow you explore certain topics in more detail.
