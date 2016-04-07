@@ -23,6 +23,8 @@ fontawesome: use_global
 
 ##### Course Resources
 [Planning Ed Tech Bookmarks](https://www.diigo.com/user/markbullen/planning_ed_tech)  
+[Course Schedule](/grav-skeleton-course-hub-site/admin/pages/course-schedule)
+
   
 
 
