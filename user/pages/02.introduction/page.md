@@ -33,8 +33,8 @@ The course content is divided into six units:
 <strong>Unit 5 - Planning for E-Learning </strong>looks at institutional planning for e-learning and the strategic planning process as well as government planning and policy as it affects e-learning.
 
 <strong>Unit 6 - Implementing E-Learning</strong> discusses different approaches to course and program development, learner and faculty support issues and faculty development.
-<h3><strong>Background to the Course
-</strong></h3>
+### Background to the Course
+
 This course was originally developed by Tony Bates for the graduate certificate in Technology-based Distributed Learning (TBDL) that was offered by the UBC Distance Education &amp; Technology department from 1997-2002. The course was revised  in 2002 when the TBDL  was turned into the Master of Educational Technology and taken over by the Faculty of Education. Then in 2003 Mark Bullen took over responsibility for the course and made further revisions. Since then the course has been revised and updated on an annual basis. In 2014 Mark Bullen completed a major revision to the course.
 #### Learning Outcomes <a name="Learning Outcomes"></a>
 Upon successful completion of this course we expect you will be able to:
@@ -47,7 +47,7 @@ Upon successful completion of this course we expect you will be able to:
 	<li>Discuss some of the social, economic and political factors that are influencing the planning and management of e-learning in higher education;</li>
 	<li>Discuss the key principles of the open education movement and how they might be integrated into institutional planning for e-learning.</li>
 </ol>
-#### Course Schedule <a name="Course Schedule"></a>
+### Course Schedule <a name="Course Schedule"></a>
 <table>
 <tbody>
 <tr>
