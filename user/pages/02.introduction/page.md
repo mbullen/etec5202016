@@ -258,8 +258,10 @@ Once again, we wish to emphasize that with so many resources available to you, y
 #### Technical Support
 If you are having problems accessing the course website or using some of its tools or features, you should contact the <a href="http://support.olt.ubc.ca/de/" target="_blank">CTLT Help Desk</a> (also on the menu on the right).
 #### Other Resources
-<a href="http://delicious.com/" target="_blank">Delicious social bookmarking</a>
-<a href="http://www.box.net/shared/l93djkxy48">Using Quotations Appropriately</a><a href="http://media.elearning.ubc.ca/det/ACCULT/2005-T1.mov" target="_blank">
-</a><a href="http://www.youtube.com/watch?v=0klgLsSxGsU" target="_blank">Introductory Video on RSS</a>
+<a href="http://delicious.com/" target="_blank">Delicious social bookmarking</a><br>
+<a href="http://www.box.net/shared/l93djkxy48">Using Quotations Appropriately</a><br>
+<a href="http://media.elearning.ubc.ca/det/ACCULT/2005-T1.mov" target="_blank">
+</a><br>
+<a href="http://www.youtube.com/watch?v=0klgLsSxGsU" target="_blank">Introductory Video on RSS</a>
 
 You do need to familiarize yourself with how to use this environment, so take a few minutes to move around the course and try out various links or tools. If you need help with any feature, click on Help at the top of this page.
