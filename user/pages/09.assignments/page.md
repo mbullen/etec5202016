@@ -16,7 +16,7 @@ You will need to submit all three assignments to pass.
 There is a collaborative option for Assignments 2 and 3. You can do one or both assignments in a group. Use the <em><strong>Assignment Group</strong></em>s tool on Blackboard Connect to sign up for a group.
 #### Participation Grade
 Ten per cent of your final grade is for participation in the discussion forums. To earn the full 10%  you need to contribute <strong>at least two messages to each unit discussion</strong>.
-#### Assignment Deadlines</strong> ( January 2016)
+#### Assignment Deadlines(January 2016)
 Assignment #1: Feb. 7
 Assignment #2: March 6
 Assignment #3: April 3
