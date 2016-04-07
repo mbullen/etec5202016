@@ -1,14 +1,14 @@
-#### Table of Contents
-* [Purpose of the Course](#Purpose of the Course)
+### Table of Contents
+* [Overview of the Course](#Overview of the Course)
 * [Learning Outcomes](#Learning Outcomes)
 * [Course Schedule](#Course Schedule)
-### Purpose of the Course <a name="Overview of the Course"></a>
+### Overview of the Course <a name="Overview of the Course"></a>
 The purpose of this course is to prepare you to plan and manage e-learning effectively in your institutions and organizations. We will do this through readings and discussions of some of the key issues. The assignments will also give you an opportunity to apply some of these ideas to practical planning activities.
 
 As the title indicates, the course is focused on the use of technology in <strong>higher education</strong> and it is aimed primarily at people with management responsibilities working in this sector or those who aspire to work as educational managers. If you don't fit this profile, you can still benefit from this course but you might have to work a bit harder to make sense of some of material and concepts.
-### Terminology
+#### Terminology
 As you begin working through the course you will notice that we use a number of different terms somewhat interchangeably: e-Learning, learning technology, educational technology, online learning and so on. This is perhaps a bit sloppy because these aren't synonyms, but then there aren't any clear and commonly-accepted definitions of the many terms that are used to describe the use of technology in teaching and learning. In practice you will find teachers, instructors and administrators using these and other terms, often to mean different things. This is a problem with our field. We do try to clarify the terminology issue in Unit 1 when we discuss the meaning of e-learning.
-### Evolving Thinking About Planning for E-Learning
+#### Evolving Thinking About Planning for E-Learning
 
 My thinking about how to plan effectively for e-learning has evolved over the 12 years that I have been involved in this course. And it has evolved along with my career as I moved from a relatively marginal, but central, Distance Education support unit in a research-intensive university (UBC) to a much larger, more diverse and central Learning &amp; Teaching support unit at a large technical institute (BCIT) to an intergovernmental agency (Commonwealth of Learning) where I provide support to higher education institutions around the world.
 
@@ -17,7 +17,7 @@ When I started teaching this course, I subscribed wholeheartedly to the view tha
 I will have more to say about this later in the course and in our discussions but I wanted to raise this issue at the outset because I think you will find there is a very strong bias in favour of the centrally-planned approach to e-learning in many of the readings. Certainly the main text by Bates &amp; Sangrà makes a strong case for this approach. I don't think we should be rejecting this approach but we do need to be much more mindful of the contexts in which we are working.
 
 My hope is that as you work through this course you will develop your own perspective on this issue and determine what you think is the best approach for the context in which you work. Regardless of the approach we adopt, institutions need to be ready for e-learning and this course is primarily about institutional readiness for e-learning and attempts to answer the question, what are the key factors that are needed in order to effectively implement e-learning in a higher education institution?
-### Overview
+#### Overview
 This <strong>Introduction</strong> provides a general overview of the course and all the logistical and administrative details including information about readings, resources, assignments, due dates, instructor information and more.
 
 The course content is divided into six units:
@@ -33,10 +33,10 @@ The course content is divided into six units:
 <strong>Unit 5 - Planning for E-Learning </strong>looks at institutional planning for e-learning and the strategic planning process as well as government planning and policy as it affects e-learning.
 
 <strong>Unit 6 - Implementing E-Learning</strong> discusses different approaches to course and program development, learner and faculty support issues and faculty development.
-### Background to the Course
+#### Background to the Course
 
 This course was originally developed by Tony Bates for the graduate certificate in Technology-based Distributed Learning (TBDL) that was offered by the UBC Distance Education &amp; Technology department from 1997-2002. The course was revised  in 2002 when the TBDL  was turned into the Master of Educational Technology and taken over by the Faculty of Education. Then in 2003 Mark Bullen took over responsibility for the course and made further revisions. Since then the course has been revised and updated on an annual basis. In 2014 Mark Bullen completed a major revision to the course.
-#### Learning Outcomes <a name="Learning Outcomes"></a>
+### Learning Outcomes <a name="Learning Outcomes"></a>
 Upon successful completion of this course we expect you will be able to:
 <ol>
 	<li>Discuss the different meanings of e-learning.</li>
