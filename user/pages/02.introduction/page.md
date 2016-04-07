@@ -1,4 +1,3 @@
-### Introduction
 #### Table of Contents
 * [Overview of the Course](#Overview of the Course)
 * [Learning Outcomes](#Learning Outcomes)
