@@ -40,14 +40,14 @@ Assignments without this information will <strong>not</strong> be marked.
 
 #### Documentation Standards
 We expect you to use APA documentation standards in the work that you submit for evaluation. For more information APA standards, please read the following links:
-<a href="http://www.library.ubc.ca/pubs/apastyle.pdf">APA Style guidelines </a>(PDF)
-<a href="http://www.library.ubc.ca/home/about/instruct/apastyle.html" target="_blank">APA Style guidelines (html)
-</a><a href="http://www.apastyle.org/elecref.html" target="_blank">APA's Style guidelines for citing Electronic sources</a>
+<a href="http://www.library.ubc.ca/pubs/apastyle.pdf">APA Style guidelines </a>(PDF)<br>
+<a href="http://www.library.ubc.ca/home/about/instruct/apastyle.html" target="_blank">APA Style guidelines </a><br>
+<a href="http://www.apastyle.org/elecref.html" target="_blank">APA's Style guidelines for citing Electronic sources</a><br>
 #### Plagiarism
-Copying material without the author’s permission or without proper reference can lead to cancellation of a student's registration or expulsion from the program. For more information on UBC's policies on Plagiarism, please read the following:
+Copying material without the author’s permission or without proper reference can lead to cancellation of a student's registration or expulsion from the program. For more information on UBC's policies on Plagiarism, please read the following: <br>
 <a href="http://www.library.ubc.ca/home/plagiarism/" target="_blank">UBC Plagiarism Guidelines for Students</a>
-
 Plagiarism is a very serious disciplinary issue, and students will be given a zero grade for this course if found using someone else's work (including other students’ work) without proper acknowledgement.
+
 #### Use of Quotations
 Quotations should be used sparingly and only if they add value to the paper by making a point in a way that you could not do just as effectively by paraphrasing and citing. Please read the document, <a href="http://www.box.net/shared/l93djkxy48"><em>Quotations: How to Pick Fruit from the Knowledge Tree</em>.</a>
 
@@ -78,7 +78,7 @@ In assessing your assignment your instructor will be applying the following crit
 	<li>Have you provided direct evidence of your analysis and conclusions about the rationales for e-learning?</li>
 	<li>How well does the assignment draw on material in Units 1?</li>
 </ol>
-<h3><strong>Submitting the Assignment</strong></h3>
+#### Submitting the Assignment
 <strong>Maximum</strong> length for the assignment is<strong> 2</strong><strong>,500 words.</strong>
 
 Upload your assignment to the Blackboard Connect assignment dropbox. It should be in Word format.
@@ -112,10 +112,10 @@ In assessing your assignment your instructor will be applying the following crit
 	<li>To what extent have the recommendations for planning and implementation been justified and supported with evidence from the audit?</li>
 	<li>How well does the assignment draw on material from the course, particularly Unit 2.</li>
 </ol>
-<strong>Group Assignment Information </strong>
+#### Group Assignment Information
 
 Groups must be no larger than four and each group member will receive the same mark for the assignment.  Sign up for a group using the <em><strong>Assignment Groups</strong></em> tool in Blackboard Connect.
-<h3><strong>Submitting the Assignment</strong></h3>
+#### Submitting the Assignment
 <strong>Maximum</strong> length for this assignment is <strong>3000 words.</strong>
 
 Upload your assignment to the Blackboard Connect assignment dropbox. It should be in Word format.
@@ -125,16 +125,14 @@ Upload your assignment to the Blackboard Connect assignment dropbox. It should b
 
 There are three options for this assignment:
 
-Option 1: Institutional/organizational e-learning strategies
-
-Option 2: Institutional/organizational approaches to implementation of e-learning
-
-Option 3: Government approaches to planning e-learning.
+* Option 1: Institutional/organizational e-learning strategies
+* Option 2: Institutional/organizational approaches to implementation of e-learning
+* Option 3: Government approaches to planning e-learning.
 
 Depending on the option you choose, your task in this assignment is to select two institutional/organizational e-learning strategies, two institutional/organizational approaches to the implementation of e-learning or two government approaches to planning e-learning and review, analyze and compare them and provide your overall assessment of their merit. You should draw on the material in units 4, 5 and 6 for this assignment.
 
 The first step is to find the plans or strategies to analyze and compare. Institutional or organizational e-learning strategies for option 1 are probably the easiest to find. If universities or colleges have e-learning strategies they are usually available from their websites. Researching option 2 may be a bit more difficult as you will need to examine how the institutions appear to be implementing e-learning based on information on their websites, your personal knowledge or experience, or from contacts you have within these organizations. In some cases, you may be able to find implementation plans that are publicly available. For Option 3, you would be looking for at a state/provincial, regional or national plans or initiatives. They could be a stand-alone e-learning strategies or initiatives or an e-learning strategies or initiatives that are embedded within a broader strategy (educational, ICT etc).
-<h3>Option 1</h3>
+#### Option 1
 For Option 1 we want you to continue exercising your analytical skills by conducting a broader analysis and comparison of two e-learning strategies. You can choose a school, school board, university, college or training organization or department. <strong>One of the organizations can the the one you used for assignment 2.</strong>
 
 Ideally the organizations you choose will have clear plans for e-learning that are either stand-alone or embedded within other educational or organizational plans. The organizations should be similar, i.e two schools, two higher education institutions etc.
@@ -158,7 +156,7 @@ In assessing your assignment instructors will be applying the following criteria
 	<li>To what extent is the analysis supported by direct evidence from the strategies or plans?</li>
 	<li>To what extent have the recommendations for strengthening the plans been justified?</li>
 </ol>
-<h3>Option 2</h3>
+#### Option 2
 For option 2 we want you to select two institutional/organizational approaches to the <strong>implementation of e-learning</strong> and analyze and compare them with a focus on how the plans are either <strong>being implemented or are expected to be implemented</strong>. You can use the strategies you examined for assignment #1 as the basis for this assignment but remember, the focus of this assignment is on <strong>the implementation of e-learning</strong>. This means the strategies you analyze should contain specific details about <strong>the implementation of e-learning</strong> within the organizations (i.e., implementation plans) or, if they don't,  you must be able to gather evidence of how the plans are being implemented. <strong>One of the organizations can the the one you used for assignment 2.</strong>
 
 In conducting your analysis, consider the following questions:
@@ -181,7 +179,7 @@ In assessing your assignment instructors will be applying the following criteria
 	<li>To what extent have the recommendations for strengthening the strategies and implementation plans been justified?</li>
 	<li>How well does the assignment draw on material and ideas from the course, particularly Units 2, 3, 4 and 6.</li>
 </ol>
-<h3> Option 3</h3>
+#### Option 3
 For option 3 we want you to turn your attention to the government level and conduct an analysis and comparison of two national, provincial/state or regional plans for and/or approaches to e-learning.
 
 The first step is to find two plans to analyze. These could be at a state/provincial, regional or national level and they could be stand-alone e-learning strategies or an e-learning strategies that are embedded within broader strategies (educational, ICT etc).
@@ -206,13 +204,13 @@ In assessing your assignment instructors will be applying the following criteria
 	<li>How well does the assignment identify issues in the education systems that might be addressed by the use of e-learning?</li>
 	<li>How well does the assignment draw on material and ideas from the course, particularly Unit 5?</li>
 </ol>
-<h3><strong>Group Assignment Information </strong></h3>
+#### Group Assignment Information
 Groups must be no larger than four and each group member will receive the same mark for the assignment. Sign up for a group using the <em><strong>Assignment Groups</strong></em> tool in Blackboard Connect.
 
-<strong>Submitting the Assignment</strong>
+#### Submitting the Assignment
 
 <strong>Maximum</strong> length for the assignment is <strong>3500 words</strong>.
 
-<span style="text-decoration: underline;"><strong>Please indicate which option you have chosen on the assignment.</strong></span>
+<strong>Please indicate which option you have chosen on the assignment.</strong>
 
 Upload your assignment to the Blackboard Connect assignment dropbox. It should be in Word format.
