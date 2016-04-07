@@ -1,3 +1,16 @@
+---
+external_links:
+    process: true
+    title: false
+    no_follow: true
+    mode: active
+    target: _blank
+google_prettify: use_global
+wow_js: use_global
+animate_css: use_global
+fontawesome: use_global
+---
+
 ### Table of Contents
 * [Overview](#overview)
 * [Assignment 1](#assignment1)
@@ -11,17 +24,17 @@ There are <strong>three</strong> assignments for this course. The grade breakdow
 	<li>Assignment #3: 35%</li>
 </ul>
 You will need to submit all three assignments to pass.
-#### Collaboration
+<h3>Collaboration</h3>
 There is a collaborative option for Assignments 2 and 3. You can do one or both assignments in a group. Use the <em><strong>Assignment Group</strong></em>s tool on Blackboard Connect to sign up for a group.
-#### Participation Grade
+<h3><strong>Participation Grade</strong></h3>
 Ten per cent of your final grade is for participation in the discussion forums. To earn the full 10%  you need to contribute <strong>at least two messages to each unit discussion</strong>.
-#### Assignment Deadlines</strong> ( January 2016)
+<h3><strong>Assignment Deadlines</strong> ( January 2016)</h3>
 Assignment #1: Feb. 7
 Assignment #2: March 6
 Assignment #3: April 3
 
 Please note that the assignment due dates are <strong>FIRM</strong>. <strong>Extensions will only be granted in the case of personal or medical emergencies.</strong>
-#### Submitting Your Assignments
+<h3><strong>Submitting Your Assignments</strong></h3>
 You should submit your assignment to your instructor by uploading it to the Blackboard Connect assignment dropbox. Please use the following file naming convention for your assignment file:
 
 <em>lastnameassignment#.doc</em>
@@ -39,7 +52,7 @@ For example: <em>bullen1.doc</em>
 </li>
 </ol>
 Assignments without this information will <strong>not</strong> be marked.
-#### Documentation Standards
+<h3><strong>Documentation Standards</strong></h3>
 We expect you to use APA documentation standards in the work that you submit for evaluation. For more information APA standards, please read the following links:
 <a href="http://www.library.ubc.ca/pubs/apastyle.pdf">APA Style guidelines </a>(PDF)
 <a href="http://www.library.ubc.ca/home/about/instruct/apastyle.html" target="_blank">APA Style guidelines (html)
