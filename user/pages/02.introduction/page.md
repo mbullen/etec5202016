@@ -4,6 +4,7 @@ This <strong>Introduction</strong> provides a general overview of the course and
 * [Overview of the Course](#overview-of-the-course)
 * [Learning Outcomes](#learning-outcomes)
 * [Course Schedule](#course-schedule)
+* [Teaching & Learning Approach](#teaching-&-learing-approach)
 
 ### Overview of the Course <a name="overview-of-the-course"></a>
 The purpose of this course is to prepare you to plan and manage e-learning effectively in your institutions and organizations. We will do this through readings and discussions of some of the key issues. The assignments will also give you an opportunity to apply some of these ideas to practical planning activities.
@@ -125,3 +126,18 @@ Assignment 3 due: April 3.</strong></td>
 </tr>
 </tbody>
 </table>
+### Teaching & Learning Approach <a name="teaching-&-learning-approach"></a>
+There are no right and wrong answers to the questions about how to effectively plan and manage e-learning. While there is some basic knowledge you need to have about planning and managing e-learning in higher education, this course is about ideas and issues that are influenced by personal values, ideologies, and world views and it is based primarily on the experience of the course authors, and on reports and articles by managers from other institutions with fairly recent experience of planning and managing e-learning in higher education.  Many of you will have other, equally relevant experiences, and we want to be able to draw on, share and discuss this varied set of experiences.
+
+Our aim then is not to pontificate but to direct you to sources of information and to perspectives you may not have considered. It will be up to you to decide what is most relevant and appropriate to you and your situation. This means you will need to use your information seeking, analysis and interpretation skills, and be ready and willing to critique the planning and management examples that you will read about.
+
+We aim to prepare you for this in the following ways:
+<ol>
+	<li>by providing you with different perspectives on planning and managing e-learning in higher education;</li>
+	<li>by providing you with an introduction to some basic principles and ideas of planning and management in this field, such as visioning, resource allocation, project management, etc.;</li>
+	<li>by providing you with analytical frameworks that will get you started in critiquing different approaches to planning and management in this field;</li>
+	<li>by helping you to find your own references and sources of information on research in this field, and by helping you assess the value of the information you collect;</li>
+	<li>through discussion groups and assignments to analyze and evaluate what you have learned;</li>
+	<li>by getting you to reflect on your own views, and to step back from these to understand some of your own underlying, and possibly unquestioned, assumptions;</li>
+	<li>by having you work collaboratively with other students through the discussion groups and assignments, in order to get a wider range of perspectives on the various issues that arise in this course.</li>
+</ol>
