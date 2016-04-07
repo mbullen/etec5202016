@@ -17,9 +17,9 @@ There is a collaborative option for Assignments 2 and 3. You can do one or both 
 #### Participation Grade
 Ten per cent of your final grade is for participation in the discussion forums. To earn the full 10%  you need to contribute <strong>at least two messages to each unit discussion</strong>.
 #### Assignment Deadlines(January 2016)
-Assignment #1: Feb. 7
-Assignment #2: March 6
-Assignment #3: April 3
+Assignment 1: Feb. 7
+Assignment 2: March 6
+Assignment 3: April 3
 
 Please note that the assignment due dates are <strong>FIRM</strong>. <strong>Extensions will only be granted in the case of personal or medical emergencies.</strong>
 #### Submitting Your Assignments
