@@ -163,8 +163,8 @@ One of the two textbooks is freely available online and the other must be purcha
 	<li>Bates, A.W. &amp; Sangrà, A. (2011). <em><em>Managing Technology in Higher Education: Strategies for Transforming Teaching &amp; Learning</em>.</em> San Francisco: Jossey Bass.</li>
 </ul>
 If you have problems in getting your readings, please contact your instructor.
-<h2>Unit 1</h2>
-#### Recommended Readings
+#### Unit 1
+##### Recommended Readings
 <ul>
 	<li>Bates, A.W. &amp; Sangrà, A. (2011.) <em>Managing Technology in Higher Education: Strategies for Transforming Teaching &amp; Learning. </em>San Francisco: Jossey-Bass. Chapters 1 &amp; 2.</li>
 </ul>
@@ -188,7 +188,7 @@ If you have problems in getting your readings, please contact your instructor.
 [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-3R?count=30" num="30"]
 
 [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-4R?count=30" num="30"]
-<h2>Unit 2</h2>
+#### Unit 2
 #### Recommended Readings & Resources
 <ul>
 	<li>Bates, A.W. &amp; Sangrà, A.  (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, pp. 71-75; Chapter 7 and Chapter 8, pp. 182-208<strong><em>.</em></strong></li>
@@ -207,13 +207,13 @@ If you have problems in getting your readings, please contact your instructor.
 	<li>Wilson, G. (2007). New Skills and Ways of Working: Faculty Development for E-Learning. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies &amp; Issues </em>(pp. 121-138). Hershey, PA: Information Science Publishing.</li>
 </ul>
 [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-2-1R?count=30" num="30"]
-<h2>Unit 3</h2>
+#### Unit 3
 #### Recommended Readings & Resources
 <ul>
 	<li>Bates, A.W. &amp; Sangrà, A.  (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, chapter 5 (pp. 110-129).</li>
 </ul>
 [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-3?count=30" num="30"]
-<h2>Unit 4</h2>
+#### Unit 4
 #### Recommended Readings & Resources
 <ul>
 	<li>Bates, A.W. &amp; Sangrà, A. (2011). <em>Managing Technology: Strategies for Transforming Higher Education.</em>San Francisco: Jossey Bass, pp. 71-74; 102-121; 137-142; 190-20</li>
@@ -228,14 +228,14 @@ If you have problems in getting your readings, please contact your instructor.
 	<li>Kaufman, R. and Herman, J. (1997). ‘Strategic Planning, Schooling, and the Curriculum for Tomorrow’ in Dijkstra, S. et al. <em>Instructional Design: International Perspectives.</em> New York: Lawrence Erlbaum.</li>
 </ul>
 [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-4-2R?count=30" num="30"]
-<h2>Unit 5</h2>
+#### Unit 5
 #### Recommended Readings & Resources
 <ul>
 	<li>Bates, A.W. (2001). <span style="text-decoration: underline;"><a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em>National strategies for e-learning in post-secondary education and training.</em></a> </span>Paris: UNESCO/International Institute for Educational Planning.</li>
 	<li>Bates, A.W. &amp; Sangrà, A. (2011). <em>Managing Technology: Strategies for Transforming Higher Education.</em> San Francisco: Jossey Bass. pp. 228-232</li>
 </ul>
 [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-5?count=30" num="30"]
-<h2>Unit 6</h2>
+#### Unit 6
 #### Recommended Readings &amp; Resources
 [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-6-1?count=30" num="30"]
 
