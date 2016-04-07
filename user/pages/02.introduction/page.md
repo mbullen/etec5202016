@@ -255,9 +255,9 @@ If you have problems in getting your readings, please contact your instructor.
 All MET students have access to the full resources and support of the UBC library. The UBC library has extensive online resources such as research journals, databases and full-text resources. As well, you have limited access to print-based document delivery of materials that are not available online, but which are held by the library. This access will enable you to greatly extend the depth of your research in all of your MET courses.
 
 Once again, we wish to emphasize that with so many resources available to you, you will need to use them <strong>selectively</strong>. We suggest that you follow the guidelines on the Web site for each unit, that you cover the required readings, participate actively in the discussion forums, then use whatever remaining time you have on some of the other readings and resources, allowing time, of course, to do your assignments. <strong>Time managemen</strong>t then is going to be important.
-<h3><strong>Technical Support</strong></h3>
+#### Technical Support
 If you are having problems accessing the course website or using some of its tools or features, you should contact the <a href="http://support.olt.ubc.ca/de/" target="_blank">CTLT Help Desk</a> (also on the menu on the right).
-<h3>Other Resources</h3>
+#### Other Resources
 <a href="http://delicious.com/" target="_blank">Delicious social bookmarking</a>
 <a href="http://www.box.net/shared/l93djkxy48">Using Quotations Appropriately</a><a href="http://media.elearning.ubc.ca/det/ACCULT/2005-T1.mov" target="_blank">
 </a><a href="http://www.youtube.com/watch?v=0klgLsSxGsU" target="_blank">Introductory Video on RSS</a>
