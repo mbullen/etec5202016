@@ -1,11 +1,11 @@
 This <strong>Introduction</strong> provides a general overview of the course and all the logistical and administrative details including information about readings, resources, assignments, due dates, instructor information and more.
 
 ### Table of Contents
-* [Overview of the Course](#Overview of the Course)
-* [Learning Outcomes](#Learning Outcomes)
-* [Course Schedule](#Course Schedule)
+* [Overview of the Course](#overview-of-the-course)
+* [Learning Outcomes](#learning-outcomes)
+* [Course Schedule](#course-schedule)
 
-### Overview of the Course <a name="#Overview of the Course"></a>
+### Overview of the Course <a name="overview-of-the-course"></a>
 The purpose of this course is to prepare you to plan and manage e-learning effectively in your institutions and organizations. We will do this through readings and discussions of some of the key issues. The assignments will also give you an opportunity to apply some of these ideas to practical planning activities.
 
 As the title indicates, the course is focused on the use of technology in <strong>higher education</strong> and it is aimed primarily at people with management responsibilities working in this sector or those who aspire to work as educational managers. If you don't fit this profile, you can still benefit from this course but you might have to work a bit harder to make sense of some of material and concepts.
@@ -38,7 +38,7 @@ The course content is divided into six units:
 #### Background to the Course
 
 This course was originally developed by Tony Bates for the graduate certificate in Technology-based Distributed Learning (TBDL) that was offered by the UBC Distance Education &amp; Technology department from 1997-2002. The course was revised  in 2002 when the TBDL  was turned into the Master of Educational Technology and taken over by the Faculty of Education. Then in 2003 Mark Bullen took over responsibility for the course and made further revisions. Since then the course has been revised and updated on an annual basis. In 2014 Mark Bullen completed a major revision to the course.
-### Learning Outcomes <a name="Learning Outcomes"></a>
+### Learning Outcomes <a name="learning-outcomes"></a>
 Upon successful completion of this course we expect you will be able to:
 <ol>
 	<li>Discuss the different meanings of e-learning.</li>
@@ -49,7 +49,7 @@ Upon successful completion of this course we expect you will be able to:
 	<li>Discuss some of the social, economic and political factors that are influencing the planning and management of e-learning in higher education;</li>
 	<li>Discuss the key principles of the open education movement and how they might be integrated into institutional planning for e-learning.</li>
 </ol>
-### Course Schedule <a name="Course Schedule"></a>
+### Course Schedule <a name="course-schedule"></a>
 <table>
 <tbody>
 <tr>
