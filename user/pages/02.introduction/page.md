@@ -5,7 +5,7 @@ This <strong>Introduction</strong> provides a general overview of the course and
 * [Learning Outcomes](#Learning Outcomes)
 * [Course Schedule](#Course Schedule)
 
-### Overview of the Course <a name="Overview of the Course"></a>
+### Overview of the Course <a name="#Overview of the Course"></a>
 The purpose of this course is to prepare you to plan and manage e-learning effectively in your institutions and organizations. We will do this through readings and discussions of some of the key issues. The assignments will also give you an opportunity to apply some of these ideas to practical planning activities.
 
 As the title indicates, the course is focused on the use of technology in <strong>higher education</strong> and it is aimed primarily at people with management responsibilities working in this sector or those who aspire to work as educational managers. If you don't fit this profile, you can still benefit from this course but you might have to work a bit harder to make sense of some of material and concepts.
