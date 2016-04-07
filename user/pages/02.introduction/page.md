@@ -5,6 +5,7 @@ This <strong>Introduction</strong> provides a general overview of the course and
 * [Learning Outcomes](#learning-outcomes)
 * [Course Schedule](#course-schedule)
 * [Teaching & Learning Approach](#teaching-&-learning-approach)
+* [Readings & Resources](#readings-&-resources)
 
 ### Overview of the Course <a name="overview-of-the-course"></a>
 The purpose of this course is to prepare you to plan and manage e-learning effectively in your institutions and organizations. We will do this through readings and discussions of some of the key issues. The assignments will also give you an opportunity to apply some of these ideas to practical planning activities.
@@ -141,3 +142,110 @@ We aim to prepare you for this in the following ways:
 	<li>by getting you to reflect on your own views, and to step back from these to understand some of your own underlying, and possibly unquestioned, assumptions;</li>
 	<li>by having you work collaboratively with other students through the discussion groups and assignments, in order to get a wider range of perspectives on the various issues that arise in this course.</li>
 </ol>
+### Readings & Resources <a name="Readings-&-Resources"></a>
+There are two textbooks for this course and a number online readings and resources.
+
+The readings that are listed as "Recommended" are the core readings for the course. The readings that are listed as "Additional" are references you may want to pursue depending on your particular interests. They will allow you explore certain topics in more detail.
+
+There are far too many readings and resources in this course for you to possibly read them all in the time allocated. This means you will need to be very selective in what you choose to read in depth. We suggest that you follow the guidelines on the Web site for each unit, that you cover the recommended readings, participate actively in the discussion forums, then use whatever remaining time you have on some of the other readings and resources, allowing time, of course, to do your assignments. Time management then is going to be important.
+
+We have tried to provide a varied selection of readings in recognition of the fact you will have different interests. Our aim is also to provide resources that may be useful to you after you have finished the formal study of this course, as well as during the course.
+<h2>Textbooks</h2>
+One of the two textbooks is freely available online and the other must be purchased from the UBC bookstore or as an e-book.
+
+<em><strong>Available online for free download:</strong></em>
+<ul>
+	<li>Bates, A.W. (2001) <em><a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank">National Strategies for e-Learning in Post-Secondary Education and Training</a></em> Paris: UNESCO/International Institute for Educational Planning<em><strong>.</strong></em></li>
+</ul>
+<em><strong>Available from the bookstore or as en e-book</strong></em>:
+<ul>
+	<li>Bates, A.W. &amp; Sangrà, A. (2011). <em><em>Managing Technology in Higher Education: Strategies for Transforming Teaching &amp; Learning</em>.</em> San Francisco: Jossey Bass.</li>
+</ul>
+If you have problems in getting your readings, please contact your instructor.
+<h2>Unit 1</h2>
+<h3>Recommended Readings &amp; Resources</h3>
+<ul>
+	<li>Bates, A.W. &amp; Sangrà, A. (2011.) <em>Managing Technology in Higher Education: Strategies for Transforming Teaching &amp; Learning. </em>San Francisco: Jossey-Bass. Chapters 1 &amp; 2.</li>
+</ul>
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-1?count=30" num="30"]
+
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-2-1?count=30" num="30"]
+
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-2?count=30" num="30"]
+
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-3?count=30" num="30"]
+
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-4?count=30" num="30"]
+<h3><strong>Additional Readings &amp; Resources
+</strong></h3>
+<ul>
+	<li>Bullen, M. &amp; Janes, D.P. (2007). Preface. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies and Issues</em>, pp. vii-xvi, Hershey, PA: Information Science Publishing.</li>
+</ul>
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-1R?count=30" num="30"]
+
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-2R?count=30" num="30"]
+
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-3R?count=30" num="30"]
+
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-4R?count=30" num="30"]
+<h2>Unit 2</h2>
+<h3>Recommended Readings &amp; Resources</h3>
+<ul>
+	<li>Bates, A.W. &amp; Sangrà, A.  (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, pp. 71-75; Chapter 7 and Chapter 8, pp. 182-208<strong><em>.</em></strong></li>
+	<li>Bates, A.W. (2001). <span style="text-decoration: underline;"><a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em>National strategies for e-learning in post-secondary education and training. </em></a></span>Chapter 5. Paris: UNESCO/International Institute for Educational Planning.</li>
+</ul>
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-2-4?count=30" num="30"]
+
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-2-5?count=30" num="30"]
+
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-2-5-2?count=30" num="30"]
+
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-2-8?count=30" num="30"]
+<h3>Additional Readings &amp; Resources</h3>
+<ul>
+	<li>Haughey, M. (2007). Organizational Models for Faculty Support: The Response of Canadian Universities. In M. Bullen &amp; D.P. Janes (Eds.)<em> Making the Transition to E-Learning: Strategies &amp; Issues</em> (pp. 17-32). Hershey, PA: Information Science Publishing.</li>
+	<li>Wilson, G. (2007). New Skills and Ways of Working: Faculty Development for E-Learning. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies &amp; Issues </em>(pp. 121-138). Hershey, PA: Information Science Publishing.</li>
+</ul>
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-2-1R?count=30" num="30"]
+<h2>Unit 3</h2>
+<h3>Recommended Readings &amp; Resources</h3>
+<ul>
+	<li>Bates, A.W. &amp; Sangrà, A.  (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, chapter 5 (pp. 110-129).</li>
+</ul>
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-3?count=30" num="30"]
+<h2>Unit 4</h2>
+<h3>Recommended Readings &amp; Resources</h3>
+<ul>
+	<li>Bates, A.W. &amp; Sangrà, A. (2011). <em>Managing Technology: Strategies for Transforming Higher Education.</em>San Francisco: Jossey Bass, pp. 71-74; 102-121; 137-142; 190-20</li>
+</ul>
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-4-1?count=30" num="30"]
+
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-4-2?count=30" num="30"]
+<h3><strong>Additional Readings &amp; Resources
+</strong></h3>
+<ul>
+	<li>Bates, A.W. (2007). Strategic Planning for E-Learning in a Polytechnic. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies &amp; Issues </em>(pp. 47-65). Hershey, PA: Information Science Publishing.</li>
+	<li>Fritz, R. (1989). <em>The Path of Least Resistance</em>. New York: Columbine, pp.122-138.</li>
+	<li>Kaufman, R. and Herman, J. (1997). ‘Strategic Planning, Schooling, and the Curriculum for Tomorrow’ in Dijkstra, S. et al. <em>Instructional Design: International Perspectives.</em> New York: Lawrence Erlbaum.</li>
+</ul>
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-4-2R?count=30" num="30"]
+<h2>Unit 5</h2>
+<h3>Recommended Readings &amp; Resources</h3>
+<ul>
+	<li>Bates, A.W. (2001). <span style="text-decoration: underline;"><a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em>National strategies for e-learning in post-secondary education and training.</em></a> </span>Paris: UNESCO/International Institute for Educational Planning.</li>
+	<li>Bates, A.W. &amp; Sangrà, A. (2011). <em>Managing Technology: Strategies for Transforming Higher Education.</em> San Francisco: Jossey Bass. pp. 228-232</li>
+</ul>
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-5?count=30" num="30"]
+<h2>Unit 6</h2>
+<h3>Recommended Readings &amp; Resources</h3>
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-6-1?count=30" num="30"]
+
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-6-2?count=30" num="30"]
+
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-6-2a?count=30" num="30"]
+
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-6-6?count=30" num="30"]
+<h3>Additional Reading</h3>
+<ul>
+	<li>Kelly, O. (2007). Moving to Blended Delivery in a Polytechnic: Shifting the Mindset of Faculty and Institutions. In M. Bullen and D.P. Janes (Eds.), <em>Making the Transition to E-Learning: Strategies and Issues</em>, pp. 33-46, Hershey, PA: Information Science Publishing.</li>
+</ul>
