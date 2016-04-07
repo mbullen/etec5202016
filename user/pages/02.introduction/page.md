@@ -125,5 +125,3 @@ Assignment 3 due: April 3.</strong></td>
 </tr>
 </tbody>
 </table>
-
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-2-1?count=30" num="30"]
