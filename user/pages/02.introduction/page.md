@@ -6,6 +6,7 @@ This <strong>Introduction</strong> provides a general overview of the course and
 * [Course Schedule](#course-schedule)
 * [Teaching & Learning Approach](#teaching-&-learning-approach)
 * [Readings & Resources](#readings-&-resources)
+* [Resources & Support](#resources-&-support)
 
 ### Overview of the Course <a name="overview-of-the-course"></a>
 The purpose of this course is to prepare you to plan and manage e-learning effectively in your institutions and organizations. We will do this through readings and discussions of some of the key issues. The assignments will also give you an opportunity to apply some of these ideas to practical planning activities.
@@ -248,3 +249,17 @@ If you have problems in getting your readings, please contact your instructor.
 <ul>
 	<li>Kelly, O. (2007). Moving to Blended Delivery in a Polytechnic: Shifting the Mindset of Faculty and Institutions. In M. Bullen and D.P. Janes (Eds.), <em>Making the Transition to E-Learning: Strategies and Issues</em>, pp. 33-46, Hershey, PA: Information Science Publishing.</li>
 </ul>
+### Resources & Support <a name="resources-&-support"></a>
+#### Library Services
+
+All MET students have access to the full resources and support of the UBC library. The UBC library has extensive online resources such as research journals, databases and full-text resources. As well, you have limited access to print-based document delivery of materials that are not available online, but which are held by the library. This access will enable you to greatly extend the depth of your research in all of your MET courses.
+
+Once again, we wish to emphasize that with so many resources available to you, you will need to use them <strong>selectively</strong>. We suggest that you follow the guidelines on the Web site for each unit, that you cover the required readings, participate actively in the discussion forums, then use whatever remaining time you have on some of the other readings and resources, allowing time, of course, to do your assignments. <strong>Time managemen</strong>t then is going to be important.
+<h3><strong>Technical Support</strong></h3>
+If you are having problems accessing the course website or using some of its tools or features, you should contact the <a href="http://support.olt.ubc.ca/de/" target="_blank">CTLT Help Desk</a> (also on the menu on the right).
+<h3>Other Resources</h3>
+<a href="http://delicious.com/" target="_blank">Delicious social bookmarking</a>
+<a href="http://www.box.net/shared/l93djkxy48">Using Quotations Appropriately</a><a href="http://media.elearning.ubc.ca/det/ACCULT/2005-T1.mov" target="_blank">
+</a><a href="http://www.youtube.com/watch?v=0klgLsSxGsU" target="_blank">Introductory Video on RSS</a>
+
+You do need to familiarize yourself with how to use this environment, so take a few minutes to move around the course and try out various links or tools. If you need help with any feature, click on Help at the top of this page.
