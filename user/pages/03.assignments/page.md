@@ -18,40 +18,37 @@ There is a collaborative option for Assignments 2 and 3. You can do one or both 
 Ten per cent of your final grade is for participation in the discussion forums. To earn the full 10%  you need to contribute at least two messages to each unit discussion.
 
 #### Assignment Deadlines(January 2016)
-Assignment 1: Feb. 7
-Assignment 2: March 6
-Assignment 3: April 3
+* Assignment 1: Feb. 7
+* Assignment 2: March 6
+* Assignment 3: April 3
 
 Please note that the assignment due dates are <strong>FIRM</strong>. <strong>Extensions will only be granted in the case of personal or medical emergencies.</strong>
+
 #### Submitting Your Assignments
 You should submit your assignment to your instructor by uploading it to the Blackboard Connect assignment dropbox. Please use the following file naming convention for your assignment file:
 
-<em>lastnameassignment#.doc</em>
-For example: <em>bullen1.doc</em>
-<h3><strong>Requirements for All Assignments</strong></h3>
-<ol>
-	<li>Assignments must be uploaded in Word format to the Blackboard Connect assignment dropbox.</li>
-	<li>They must be double-spaced and paginated, and should contain the following:
-<ul>
-	<li>your name(s),</li>
-	<li>assignment name and number,</li>
-	<li>course name,</li>
-	<li>the total word count (excluding references).</li>
-</ul>
-</li>
-</ol>
+lastnameassignment#.doc
+For example: bullen1.doc
+#### Requirements for All Assignments
+* Assignments must be uploaded in Word format to the Blackboard Connect assignment dropbox.
+* They must be double-spaced and paginated, and should contain the following:
+** your name(s),
+** assignment name and number,
+** course name,
+** the total word count (excluding references).
 Assignments without this information will <strong>not</strong> be marked.
+
 #### Documentation Standards
 We expect you to use APA documentation standards in the work that you submit for evaluation. For more information APA standards, please read the following links:
 <a href="http://www.library.ubc.ca/pubs/apastyle.pdf">APA Style guidelines </a>(PDF)
 <a href="http://www.library.ubc.ca/home/about/instruct/apastyle.html" target="_blank">APA Style guidelines (html)
 </a><a href="http://www.apastyle.org/elecref.html" target="_blank">APA's Style guidelines for citing Electronic sources</a>
-<h3><strong>Plagiarism</strong></h3>
+#### Plagiarism
 Copying material without the author’s permission or without proper reference can lead to cancellation of a student's registration or expulsion from the program. For more information on UBC's policies on Plagiarism, please read the following:
 <a href="http://www.library.ubc.ca/home/plagiarism/" target="_blank">UBC Plagiarism Guidelines for Students</a>
 
 Plagiarism is a very serious disciplinary issue, and students will be given a zero grade for this course if found using someone else's work (including other students’ work) without proper acknowledgement.
-<h3><strong>Use of Quotations</strong></h3>
+#### Use of Quotations
 Quotations should be used sparingly and only if they add value to the paper by making a point in a way that you could not do just as effectively by paraphrasing and citing. Please read the document, <a href="http://www.box.net/shared/l93djkxy48"><em>Quotations: How to Pick Fruit from the Knowledge Tree</em>.</a>
 
 ### Assignment 1:  Analysis and Comparison of Rationales for E-learning <a name="assignment1"></a>
