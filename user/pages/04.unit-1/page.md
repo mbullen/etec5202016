@@ -14,7 +14,49 @@ fontawesome: use_global
 ---
 
 ## Understanding E-Learning
-#### Table of Contents
+<iframe src="//www.youtube.com/embed/NJkxqgXdRn8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+In this unit we focus on three main topics:
+<ol>
+	<li>The different ways in which e-learning has been defined;</li>
+	<li>The different rationales that organization and institutions have for using e-learning;</li>
+	<li>The implications of using e-learning for teaching and learning.</li>
+</ol>
+I am not going to suggest that there is one correct definition of e-learning but rather that we need to recognize that the term means different things to different people. The important thing is to develop a common understanding with the people we work with and not assume that everybody has the same understanding.
+
+Just as important is to recognize that there can be a variety of different rationales for using e-learning. Again, there is no correct rationale, although an argument can be made that some are better than others. The main point is that to plan effectively for e-learning we need to be clear about why we are proposing to use it and what we mean by the term.
+### Learning Outcomes
+After completing this unit you should be able to:
+<ol>
+	<li>Explain the different meanings of e-learning.</li>
+	<li>Discuss and critique the key rationales for using e-learning</li>
+	<li>Identify some of the ways that e-learning is changing teaching and learning in higher education, and the forces that are leading to these changes.</li>
+	<li>Analyze the implications for teaching and learning of using e-learning</li>
+	<li>Identify some of the elements necessary for the development and delivery of high quality e-learning.</li>
+</ol>
+### Unit Schedule
+Try to work to the following schedule:
+
+#### Week 2
+<ul>
+	<li>Section 1.1: What is E-Learning?,</li>
+	<li>Section 1.2: Rationales for E-Learning
+<ul>
+	<li><em>Discussion: The Meaning of E-Learning (end of Week 2)
+</em></li>
+</ul>
+</li>
+</ul>
+#### Week 3
+<ul>
+	<li>Section 1.3: Overview of Technologies<em>
+</em></li>
+	<li>Section 1.4: mplications for Teaching &amp; Learning;
+<ul>
+	<li><em>Discussion: The Meaning of E-Learning</em></li>
+</ul>
+</li>
+</ul>
+### Table of Contents
 * [Readings & Resources](#readings)
 * [Key Points](#keypoints)
 * [1.1 What is E-Learning](#elearning)
