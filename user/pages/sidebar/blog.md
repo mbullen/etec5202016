@@ -27,7 +27,7 @@ fontawesome: use_global
 [Blackboard Connect Site](https://shibboleth2.id.ubc.ca/idp/Authn/UserPassword)<br>
 [Assignment Dropbox](http://elearning.ubc.ca/connect/)<br>
 [Discussion Forums](http://elearning.ubc.ca/connect/)<br>
-[Instructor Bios]<br>
+[Instructor Bios](http://localhost:8888/grav-skeleton-course-hub-site/instructor-bios)<br>
 [CTLT Help Desk](http://support.olt.ubc.ca/de/)
 
   
