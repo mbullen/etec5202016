@@ -13,10 +13,17 @@ animate_css: use_global
 fontawesome: use_global
 ---
 
-### Understanding E-Learning
+## Understanding E-Learning
 #### Table of Contents
-* Readings & Resources]()
+* [Readings & Resources]()
+* [Key Points]()
+* [1.1 What is E-Learning]()
+* [1.2 Rationales for E-Learning]()
+* [1.3 Overview of Learning Technologies]()
+* [1.4 Implications for Teaching & Learing]()
+* [1.5 Conclusion]()
 
+### Readings & Resources
 * Bates, A.W. &amp; Sangrà, A. (2011.) <em>Managing Technology in Higher Education: Strategies for Transforming Teaching &amp; Learning. </em>San Francisco: Jossey-Bass. Chapters 1 &amp; 2.
 
 * [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-1?count=30" num="30"]
