@@ -51,7 +51,7 @@ How we understand the concept has important implications for how we organize our
 As you will see later in the unit, we find it useful to think about e-learning as a continuum ranging from technology support for classroom teaching at one end to fully online distance education at the other. We also find the categories of e-learning proposed by Massy &amp; Zemsky (2004) useful:
 * e-learning as distance education
 * e-learning as facilitated transaction software
-* e-learning as electronically-mediated learning
+* e-learning as electronically-mediated learning<p>
 
 2. Reasons for Using E-Learning<br>
 Equally important as understanding the meaning of e-learning is being clear about why you want to use it. It is easy to get swept up in the the techno-utopic frenzy to be on the leading edge but you should be using e-learning to achieve some clear goals. Improving the quality of teaching and learning, broadening access, reaching new markets, cost savings, doing more with the same, are the key reasons that institutions usually turn to e-learning. You need to be sure that your reasons for using e-learning are clear and, ideally, consistent with your institution's goals for e-learning.
