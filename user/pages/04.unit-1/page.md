@@ -96,6 +96,7 @@ The three categories are:
 3. E-learning as electronically-mediated learning</li>
 <strong><a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft wp-image-3032 size-full" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a></strong><br>
 <strong>Read Zemsky &amp; Massy (2004) for a the details of this framework. (See "Recommended Readings &amp; Resources" below.)</strong>
+
 #### Three Waves of ICT
 Carl Bereiter and Marlene Scardamalia offer another framework that looks at the use of information and communication technologies (ICT) in education and suggests it is helpful to think of it happening in three waves. Although they use the term ICT, we think their framework can be used to understand how e-learning has diffused through our higher education system.
 
@@ -137,5 +138,5 @@ You might want to also take a look at some of the videos on open educational res
 </ol>
 #### Recommended Reading & Resources
 [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-1?count=15/" num="10"]
-<h3>Additional Reading &amp; Resources</h3>
+#### Additional Reading &amp; Resources
 [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-1R?count=15/" num="10"]
