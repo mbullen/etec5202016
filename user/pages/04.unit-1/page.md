@@ -95,7 +95,7 @@ The three categories are:
 2. E-learning as facilitated transactions software</li>
 3. E-learning as electronically-mediated learning</li>
 <strong><a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft wp-image-3032 size-full" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a></strong><br>
-<strong>Read Zemsky &amp; Massy (2004) for a the details of this framework. (See "Recommended Readings &amp; Resources" below.)
+<strong>Read Zemsky &amp; Massy (2004) for a the details of this framework. (See "Recommended Readings &amp; Resources" below.)</strong>
 #### Three Waves of ICT
 Carl Bereiter and Marlene Scardamalia offer another framework that looks at the use of information and communication technologies (ICT) in education and suggests it is helpful to think of it happening in three waves. Although they use the term ICT, we think their framework can be used to understand how e-learning has diffused through our higher education system.
 
