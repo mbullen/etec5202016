@@ -15,15 +15,15 @@ fontawesome: use_global
 
 ## Understanding E-Learning
 #### Table of Contents
-* [Readings & Resources]()
-* [Key Points]()
-* [1.1 What is E-Learning]()
-* [1.2 Rationales for E-Learning]()
-* [1.3 Overview of Learning Technologies]()
-* [1.4 Implications for Teaching & Learing]()
-* [1.5 Conclusion]()
+* [Readings & Resources](#readings)
+* [Key Points](#keypoints)
+* [1.1 What is E-Learning](#elearning)
+* [1.2 Rationales for E-Learning](#rationales)
+* [1.3 Overview of Learning Technologies](#learningtechnologies)
+* [1.4 Implications for Teaching & Learing](#teachinglearning)
+* [1.5 Conclusion](#conclusion)
 
-### Readings & Resources
+### Readings & Resources <a name="readings"></a>
 #### Recommended Readings & Resources
 * Bates, A.W. &amp; Sangrà, A. (2011.) <em>Managing Technology in Higher Education: Strategies for Transforming Teaching &amp; Learning. </em>San Francisco: Jossey-Bass. Chapters 1 &amp; 2.
 
@@ -50,7 +50,7 @@ Also, note that these readings are not listed in order of priority, although we 
 
 You are now almost ready to start looking at planning and management issues in some detail. However first we want to briefly define the term, e-learning and discuss the impact it is having on teaching, so that the context in which planning and managing take place is fully understood.
 
-### Key Points
+### Key Points <a name="keypoints"></a>
 There are four key points we would like you take away from this unit.
 
 1. The Meaning of E-Learning<br>
