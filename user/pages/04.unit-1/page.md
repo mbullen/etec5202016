@@ -45,18 +45,16 @@ You are now almost ready to start looking at planning and management issues in s
 ### Key Points
 There are four key points we would like you take away from this unit.
 
-1. The Meaning of E-Learning
-First, it is important to develop a clear understanding of the concept of e-learning and ensure that when you are discussing it with colleagues that you are talking about the same thing. As you will see later in this unit, everybody seems to be talking about e-learning these days but finding two people who have the same understanding of the concept is a challenge. As mentioned earlier, we do not want to suggest there is a correct and an incorrect understanding of the concept, the important thing is that you clarify your understanding and recognize that others may be using the term to mean something quite different.
-
-How we understand the concept has important implications for how we organize our institutions to develop and support e-learning, for the kind support we provide learners and faculty, for how it is funded, how it relates to the mission and goals of the institution, and for the kind of organizational structures we put in place to support e-learning.
-
+1. The Meaning of E-Learning<br>
+First, it is important to develop a clear understanding of the concept of e-learning and ensure that when you are discussing it with colleagues that you are talking about the same thing. As you will see later in this unit, everybody seems to be talking about e-learning these days but finding two people who have the same understanding of the concept is a challenge. As mentioned earlier, we do not want to suggest there is a correct and an incorrect understanding of the concept, the important thing is that you clarify your understanding and recognize that others may be using the term to mean something quite different.<p>
+How we understand the concept has important implications for how we organize our institutions to develop and support e-learning, for the kind support we provide learners and faculty, for how it is funded, how it relates to the mission and goals of the institution, and for the kind of organizational structures we put in place to support e-learning.<p>
 As you will see later in the unit, we find it useful to think about e-learning as a continuum ranging from technology support for classroom teaching at one end to fully online distance education at the other. We also find the categories of e-learning proposed by Massy &amp; Zemsky (2004) useful:
 * e-learning as distance education
 * e-learning as facilitated transaction software
 * e-learning as electronically-mediated learning
 
-2. Reasons for Using E-Learning
+2. Reasons for Using E-Learning<br>
 Equally important as understanding the meaning of e-learning is being clear about why you want to use it. It is easy to get swept up in the the techno-utopic frenzy to be on the leading edge but you should be using e-learning to achieve some clear goals. Improving the quality of teaching and learning, broadening access, reaching new markets, cost savings, doing more with the same, are the key reasons that institutions usually turn to e-learning. You need to be sure that your reasons for using e-learning are clear and, ideally, consistent with your institution's goals for e-learning.
 
-3. Implications for Teaching & Learning
+3. Implications for Teaching & Learning<br>
 If e-learning is to be used effectively to increase access, improve quality and make higher education more cost-effective, we believe significant changes will be needed to how our institutions are organized. Without major changes to how programs are designed and delivered, adding technology to the mix will only add costs and will likely do little to address quality and access issues. Key to addressing access and costs is redesigning teaching so that different technologies and modes of delivery are exploited appropriately. Thus, in our view, e-learning is more than just enhancing teaching with technology. It implies<strong> re-thinking and re-designing learning and reorganizing institutions. It is, by definition, about integrating learning technologies into teaching and learning, not simply using them to enhance existing approaches.</strong>
