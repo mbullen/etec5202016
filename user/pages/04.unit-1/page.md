@@ -94,9 +94,8 @@ The three categories are:
 1. E-learning as distance education</li>
 2. E-learning as facilitated transactions software</li>
 3. E-learning as electronically-mediated learning</li>
-<strong><a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft wp-image-3032 size-full" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a></strong>
-<strong>Read Zemsky &amp; Massy (2004) for a the details of this framework. (</strong>See "Recommended Readings &amp; Resources" below.)<em><strong>
-</strong></em>
+<strong><a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft wp-image-3032 size-full" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a></strong><br>
+<strong>Read Zemsky &amp; Massy (2004) for a the details of this framework. (See "Recommended Readings &amp; Resources" below.)
 #### Three Waves of ICT
 Carl Bereiter and Marlene Scardamalia offer another framework that looks at the use of information and communication technologies (ICT) in education and suggests it is helpful to think of it happening in three waves. Although they use the term ICT, we think their framework can be used to understand how e-learning has diffused through our higher education system.
 
@@ -106,15 +105,12 @@ Wave 2: In the second wave, the focus shifted to using computers (and e-learning
 
 Wave 3: ICTs as affordances. In the third wave, the focus, according to Berieter and Scardamalia is where it should be: on the educational ideas. It is not so much about integrating technology into educational activities as it is about understanding the potential of various technologies and and designing educational activities that take this into account. The difference between wave 2 and wave 3 is subtle and we suggest you read the Berieter and Scardamallia article to gain a better understanding.
 
-<strong><a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a></strong>
-
-<strong>Read Bereiter &amp; Scardamalia (2006) for a discussion of the three waves of ICT in education. </strong>(See "Recommended Readings &amp; Resources" below.)<strong>
-</strong>
+<strong><a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a></strong><br>
+<strong>Read Bereiter &amp; Scardamalia (2006) for a discussion of the three waves of ICT in education. </strong>(See "Recommended Readings &amp; Resources" below.)
 #### E-Learning as Learning 2.0
 For another perspective, we direct you to an article written by Gerri Sinclair, Milt McClaren and Michael Griffin: <em>E-Learning and Beyond</em>. This article was written as a think piece in support of the Campus 2020 planning process that the Ministry of Advanced Education British Columbia organized in 2006. Sinclair et al. propose what is probably the most radical conception of e-learning. In many ways it is anti-institutional and learner centered in the most extreme sense. Their idea is that the Web 2.0 collaboration and networking technologies allow learners to manage and direct their own learning. Their perspective is framed around the notion of moving from an architecture of presentation to an architecture of participation from web 1.0 to web 2.0 and learning 1.0 to learning 2.0. In Appendix 2 of their article they present a list of institutional e-learning readiness criteria which we will refer to later in the course.
 
-<strong><a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a></strong>
-
+<strong><a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a></strong><br>
 <strong>In addition to reading the Sinclair et al. article, we recommend you read a critique of it by the Confederation of University Faculty Associations: <em>Putting Learning Before Technology. </em></strong>(See "Recommended Readings &amp; Resources" below.)<strong><strong>
 </strong></strong>
 #### E-Learning and Open Education
@@ -122,13 +118,14 @@ The final perspective to consider in thinking about what e-learning means, comes
 
 In many ways the notion of e-learning as open education is philosophically and pedagogically aligned with the perspective offered by Sinclair, McClaren and Griffin in the E-Learning and Beyond.
 
-<strong><a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a>Read <em>Challenges and Opportunities for the Open Education Movement: A Connexions Case Study</em> to get a deeper understanding of what OE is all about.</strong> (See "Recommended Readings &amp; Resources" below.)
+<strong><a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a><br>
+Read <em>Challenges and Opportunities for the Open Education Movement: A Connexions Case Study</em> to get a deeper understanding of what OE is all about.</strong> (See "Recommended Readings &amp; Resources" below.)
 
 You might want to also take a look at some of the videos on open educational resources (OER) in the <strong>Resources</strong> section below.
 
 <strong>The key point we want to make here is that <strong>e-learning can involve a variety of different technologies used in different ways that extend all the way to fully online courses, but it is, by definition, about integrating learning technologies into teaching and learning, not simply using them to enhance existing approaches.</strong> It implies re-thinking and re-designing learning and reorganizing institutions.
-</strong>
-<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/question_icon-e1409267488306.png"><img class="alignleft size-full wp-image-3524" src="http://blogs.ubc.ca/etec5202015/files/2010/04/question_icon-e1409267488306.png" alt="question_icon-e1409267488306" width="83" height="83" /></a>
+</strong><br>
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/question_icon-e1409267488306.png"><img class="alignleft size-full wp-image-3524" src="http://blogs.ubc.ca/etec5202015/files/2010/04/question_icon-e1409267488306.png" alt="question_icon-e1409267488306" width="83" height="83" /></a><br>
 #### Questions for Reflection
 <ol>
 	<li>Do these frameworks help you make sense of the concept of e-learning? Is one framework better than the other?</li>
