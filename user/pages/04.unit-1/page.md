@@ -65,7 +65,7 @@ Try to work to the following schedule:
 * [1.3 Overview of Learning Technologies](#learningtechnologies)
 * [1.4 Implications for Teaching & Learing](#teachinglearning)
 * [1.5 Conclusion](#conclusion)
-
+<hr/>
 ### Readings & Resources <a name="readings"></a>
 #### Recommended Readings & Resources
 * Bates, A.W. &amp; Sangrà, A. (2011.) <em>Managing Technology in Higher Education: Strategies for Transforming Teaching &amp; Learning. </em>San Francisco: Jossey-Bass. Chapters 1 &amp; 2.
