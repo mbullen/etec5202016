@@ -12,4 +12,5 @@ wow_js: use_global
 animate_css: use_global
 fontawesome: use_global
 ---
-
+### April 7, 2016
+This ETEC 520 site is under construction.
