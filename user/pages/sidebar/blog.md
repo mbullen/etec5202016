@@ -26,7 +26,7 @@ fontawesome: use_global
 [Course Schedule](http://localhost:8888/grav-skeleton-course-hub-site/course-schedule)<br>
 [Blackboard Connect Site](https://shibboleth2.id.ubc.ca/idp/Authn/UserPassword)<br>
 [Assignment Dropbox](http://elearning.ubc.ca/connect/)<br>
-[Discussion Forums](https:3A/2F/2Fconnect.ubc.ca/2Fwebapps%2Fblackboard/2Fcontent/2FlistContentEditable.jsp/Fcontent_id/3D_3149399_1/26course_id/3D_73019_1/6mode/3Dreset)<br>
+[Discussion Forums](https://connect.ubc.ca/webapps/blackboard/content/listContentEditable.jsp?content_id=_3149399_1&course_id=_73019_1&mode=reset)<br>
 [Instructor Bios](http://localhost:8888/grav-skeleton-course-hub-site/instructor-bios)<br>
 [CTLT Help Desk](http://support.olt.ubc.ca/de/)
 
