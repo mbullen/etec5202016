@@ -125,7 +125,7 @@ Read <em>Challenges and Opportunities for the Open Education Movement: A Connexi
 You might want to also take a look at some of the videos on open educational resources (OER) in the <strong>Resources</strong> section below.
 
 <strong>The key point we want to make here is that <strong>e-learning can involve a variety of different technologies used in different ways that extend all the way to fully online courses, but it is, by definition, about integrating learning technologies into teaching and learning, not simply using them to enhance existing approaches.</strong> It implies re-thinking and re-designing learning and reorganizing institutions.
-</strong><br>
+</strong>
 <a href="http://blogs.ubc.ca/etec5202015/files/2010/04/question_icon-e1409267488306.png"><img class="alignleft size-full wp-image-3524" src="http://blogs.ubc.ca/etec5202015/files/2010/04/question_icon-e1409267488306.png" alt="question_icon-e1409267488306" width="83" height="83" /></a>
 #### Questions for Reflection
 <ol>
