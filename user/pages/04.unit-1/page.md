@@ -34,6 +34,7 @@ fontawesome: use_global
 * [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-3R?count=30" num="30"]
 
 * [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-4R?count=30" num="30"]
+
 #### Reading Tips
 Read selectively and learn to skim over materials that are not directly relevant for the part of the assignment you are tackling at the moment, (although they may turn out to be useful later). We have indicated key pages - if you find them interesting/relevant, you may want to read the whole chapter/article. But plan your time.
 
