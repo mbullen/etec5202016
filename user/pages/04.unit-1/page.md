@@ -14,6 +14,18 @@ fontawesome: use_global
 ---
 
 ## Understanding E-Learning
+<hr/>
+### Table of Contents
+* [Learning Outcomes](#outcomes)
+* [Unit Schedule](#schedule)
+* [Readings & Resources](#readings)
+* [Key Points](#keypoints)
+* [1.1 What is E-Learning](#elearning)
+* [1.2 Rationales for E-Learning](#rationales)
+* [1.3 Overview of Learning Technologies](#learningtechnologies)
+* [1.4 Implications for Teaching & Learing](#teachinglearning)
+* [1.5 Conclusion](#conclusion)
+<hr/>
 <iframe src="//www.youtube.com/embed/NJkxqgXdRn8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 In this unit we focus on three main topics:
 <ol>
@@ -24,7 +36,7 @@ In this unit we focus on three main topics:
 I am not going to suggest that there is one correct definition of e-learning but rather that we need to recognize that the term means different things to different people. The important thing is to develop a common understanding with the people we work with and not assume that everybody has the same understanding.
 
 Just as important is to recognize that there can be a variety of different rationales for using e-learning. Again, there is no correct rationale, although an argument can be made that some are better than others. The main point is that to plan effectively for e-learning we need to be clear about why we are proposing to use it and what we mean by the term.
-### Learning Outcomes
+### Learning Outcomes <a name="outcomes"></a>
 After completing this unit you should be able to:
 <ol>
 	<li>Explain the different meanings of e-learning.</li>
@@ -33,7 +45,7 @@ After completing this unit you should be able to:
 	<li>Analyze the implications for teaching and learning of using e-learning</li>
 	<li>Identify some of the elements necessary for the development and delivery of high quality e-learning.</li>
 </ol>
-### Unit Schedule
+### Unit Schedule<a name="schedule"></a>
 Try to work to the following schedule:
 
 #### Week 2
@@ -56,16 +68,7 @@ Try to work to the following schedule:
 </ul>
 </li>
 </ul>
-<hr/>
-### Table of Contents
-* [Readings & Resources](#readings)
-* [Key Points](#keypoints)
-* [1.1 What is E-Learning](#elearning)
-* [1.2 Rationales for E-Learning](#rationales)
-* [1.3 Overview of Learning Technologies](#learningtechnologies)
-* [1.4 Implications for Teaching & Learing](#teachinglearning)
-* [1.5 Conclusion](#conclusion)
-<hr/>
+
 ### Readings & Resources <a name="readings"></a>
 #### Recommended Readings & Resources
 * Bates, A.W. &amp; Sangrà, A. (2011.) <em>Managing Technology in Higher Education: Strategies for Transforming Teaching &amp; Learning. </em>San Francisco: Jossey-Bass. Chapters 1 &amp; 2.
