@@ -23,7 +23,12 @@ fontawesome: use_global
 
 ##### Course Resources
 [Planning Ed Tech Bookmarks](https://www.diigo.com/user/markbullen/planning_ed_tech)  
-[Course Schedule](http://localhost:8888/grav-skeleton-course-hub-site/course-schedule)
+[Course Schedule](http://localhost:8888/grav-skeleton-course-hub-site/course-schedule)<br>
+[Blackboard Connect Site](https://shibboleth2.id.ubc.ca/idp/Authn/UserPassword)<br>
+[Assignment Dropbox](http://elearning.ubc.ca/connect/)<br>
+[Discussion Forums](http://elearning.ubc.ca/connect/)<br>
+[Instructor Bios]<br>
+[CTLT Help Desk](http://support.olt.ubc.ca/de/)
 
   
 
