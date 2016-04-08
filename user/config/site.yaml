@@ -21,7 +21,7 @@ routes:
 blog:
   route: /blog
 displaymenuentries:
-  enabled: true
+  enabled: false
 menu:
   -
     text: Grav
