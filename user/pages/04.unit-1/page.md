@@ -24,6 +24,7 @@ fontawesome: use_global
 * [1.5 Conclusion]()
 
 ### Readings & Resources
+#### Recommended Readings & Resources
 * Bates, A.W. &amp; Sangrà, A. (2011.) <em>Managing Technology in Higher Education: Strategies for Transforming Teaching &amp; Learning. </em>San Francisco: Jossey-Bass. Chapters 1 &amp; 2.
 
 * [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-1?count=30" num="30"]
