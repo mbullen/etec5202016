@@ -56,6 +56,7 @@ Try to work to the following schedule:
 </ul>
 </li>
 </ul>
+<hr/>
 ### Table of Contents
 * [Readings & Resources](#readings)
 * [Key Points](#keypoints)
