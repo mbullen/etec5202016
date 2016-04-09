@@ -19,6 +19,7 @@ There will be a number of different forums for discussion and interaction and sh
 <strong>Student Cafe:</strong> for social interaction<strong>
 Announcements:</strong> for course updates, changes and announcements of relevant events or publications etc.<strong>
 Unit Discussion Forums:</strong> for discussion of issues related to the specific units. There will separate unit discussion forums for each section of the course.
+<hr/>
 ### Guidelines for Participation
 The discussions are an essential part of the course and we expect you to participate regularly by reading the discussions and contributing to them. You should check in to the discussions<strong> at least three times per week</strong> and contribute <strong>at least two messages to each discussion</strong>. We also expect you to follow up any responses to your contributions.
 
@@ -34,7 +35,8 @@ Each post should:
 	<li>add but not be limited to, the experiences of the writer in design and development situations. (Responses that say more than "I  agree with that..." or "same for me..." are expected);</li>
 	<li>encourage the continuation of the discussion; respect the point-of-view of the other students, allowing for the discussion of different points-of-view without judgment.</li>
 </ul>
-### Unit 1: The Meaning of E-Learning
+### Discussion Topics
+#### Unit 1: The Meaning of E-Learning
 After you have read about the e-learning continuum and the other frameworks and perspectives of e-learning, share your thoughts and reactions. Here are some questions to get you thinking but don't feel compelled to answer them all:
 <ol>
 	<li>Have they changed your view of what e-learning is?</li>
@@ -47,12 +49,12 @@ After you have read about the e-learning continuum and the other frameworks and 
 </ol>
 <a href="http://elearning.ubc.ca/connect" target="_blank">Go to the UBC Connect Discussion Forum</a>
 <hr/>
-### Unit 2: E-Learning Readiness
+#### Unit 2: E-Learning Readiness
 There are two topics for this discussion on e-learning readiness: Costs &amp; Funding and Organizational Culture.
 
 <a href="http://elearning.ubc.ca/connect" target="_blank">Go to the UBC Connect Discussion Forum</a>
 <hr/>
-### Unit 3: Supporting E-Learning
+#### Unit 3: Supporting E-Learning
 Choose a post secondary institution and find out as much as you can about how it is supporting e-learning. Look for the following kind of information:
 <ul>
 	<li>organizational structure</li>
@@ -80,7 +82,7 @@ Here are some suggested institutions but feel free to choose others or stick wit
 </ul>
 <a href="http://elearning.ubc.ca/connect" target="_blank">Go to the UBC Connect Discussion Forum</a>
 <hr/>
-### Unit 4: E-Learning Strategies
+#### Unit 4: E-Learning Strategies
 Below are two examples of strategic plans for eLearning that were developed in 2012. The first is a departmental/school/faculty strategic plan for eLearning from a postsecondary institution. The second is a draft institutional strategic plan for the British Columbia Institute of Technology.
 
 Read both of these plans critically and post your comments to the discussion forum.
@@ -90,7 +92,7 @@ You may also want to read the article, <em>Revisiting the Need for Strategic Pla
 
 <a href="http://elearning.ubc.ca/connect" target="_blank">Go to the UBC Connect Discussion Forum</a>
 <hr/>
-### Unit 5: Government Strategies
+#### Unit 5: Government Strategies
 In this dicussion, I would like you to consider the the three categories of government strategies for e-learning that we have examined: conservative strategies, radical strategies and funding strategies.
 
 Consider the following questions:
@@ -102,7 +104,7 @@ Consider the following questions:
 </ol>
 <a href="http://elearning.ubc.ca/connect" target="_blank">Go to the UBC Connect Discussion Forum</a>
 <hr/>
-### Unit 6: Approaches to Course & Program Development
+#### Unit 6: Approaches to Course & Program Development
 After you've read the section on approaches to course development and the related readings, share your reactions to this material.
 <ol>
 	<li>What do you think about what Bates says about the lone ranger approach? We take a very strong position on this issue and argue that, while there is a place for different approaches, to develop and deliver high quality, cost effective and sustainable e-learning as distance education requires a project management approach. What is your view?</li>
