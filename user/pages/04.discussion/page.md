@@ -12,6 +12,28 @@ animate_css: use_global
 fontawesome: use_global
 ---
 
+While the course content is on this site, the online discussions will take place in Blackboard Connect. We do this for two reasons. First, the discussion forum capabilities of Blackboard Connect (threading, nesting, sorting, displaying etc.) are much more sophisticated than what is available in Word Press. Secondly, the Blackboard Connect discussion forums are restricted to registered students only so you have a certain degree of privacy. This allows us to keep the course content open to the world, but restrict access to the discussions.
+
+There will be a number of different forums for discussion and interaction and sharing of information. These include:
+
+<strong>Student Cafe:</strong> for social interaction<strong>
+Announcements:</strong> for course updates, changes and announcements of relevant events or publications etc.<strong>
+Unit Discussion Forums:</strong> for discussion of issues related to the specific units. There will separate unit discussion forums for each section of the course.
+### Guidelines for Participation
+The discussions are an essential part of the course and we expect you to participate regularly by reading the discussions and contributing to them. You should check in to the discussions<strong> at least three times per week</strong> and contribute <strong>at least two messages to each discussion</strong>. We also expect you to follow up any responses to your contributions.
+
+We expect you to respond to the topic, issue or question with comments that are considered, and that reflect your personal opinions, experiences, and knowledge. Where appropriate, your comments should take into account the relevant course readings. Feel free to quote readings you feel might be of interest to others in your group. Try to remain focused on the topic and adhere to the recommended maximum length for postings <strong>(approximately 500 words).</strong>
+
+The discussions  provide you with an opportunity to share your knowledge, to seek feedback from fellow students as well as instructors on your ideas, and to ask for help when you need it. The discussions should also help you in the preparation of your assignments as they topics are closely related to the assignments.
+
+Each post should:
+<ul>
+	<li>add to the discussion;</li>
+	<li>try bring about a new way of looking at the issues being raised;</li>
+	<li>if possible, incorporate the readings or other academic sources (quoting small passages is acceptable - try to limit quotes to no more than three or four lines);</li>
+	<li>add but not be limited to, the experiences of the writer in design and development situations. (Responses that say more than "I  agree with that..." or "same for me..." are expected);</li>
+	<li>encourage the continuation of the discussion; respect the point-of-view of the other students, allowing for the discussion of different points-of-view without judgment.</li>
+</ul>
 ### Unit 1: The Meaning of E-Learning
 After you have read about the e-learning continuum and the other frameworks and perspectives of e-learning, share your thoughts and reactions. Here are some questions to get you thinking but don't feel compelled to answer them all:
 <ol>
