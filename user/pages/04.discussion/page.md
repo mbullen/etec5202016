@@ -19,7 +19,7 @@ There will be a number of different forums for discussion and interaction and sh
 <strong>Student Cafe:</strong> for social interaction<strong>
 Announcements:</strong> for course updates, changes and announcements of relevant events or publications etc.<strong>
 Unit Discussion Forums:</strong> for discussion of issues related to the specific units. There will separate unit discussion forums for each section of the course.
-<hr/>
+
 ### Guidelines for Participation
 The discussions are an essential part of the course and we expect you to participate regularly by reading the discussions and contributing to them. You should check in to the discussions<strong> at least three times per week</strong> and contribute <strong>at least two messages to each discussion</strong>. We also expect you to follow up any responses to your contributions.
 
@@ -34,7 +34,7 @@ Each post should:
 	<li>if possible, incorporate the readings or other academic sources (quoting small passages is acceptable - try to limit quotes to no more than three or four lines);</li>
 	<li>add but not be limited to, the experiences of the writer in design and development situations. (Responses that say more than "I  agree with that..." or "same for me..." are expected);</li>
 	<li>encourage the continuation of the discussion; respect the point-of-view of the other students, allowing for the discussion of different points-of-view without judgment.</li>
-</ul>
+</ul><hr/>
 ### Discussion Topics
 #### Unit 1: The Meaning of E-Learning
 After you have read about the e-learning continuum and the other frameworks and perspectives of e-learning, share your thoughts and reactions. Here are some questions to get you thinking but don't feel compelled to answer them all:
