@@ -34,7 +34,8 @@ Each post should:
 	<li>if possible, incorporate the readings or other academic sources (quoting small passages is acceptable - try to limit quotes to no more than three or four lines);</li>
 	<li>add but not be limited to, the experiences of the writer in design and development situations. (Responses that say more than "I  agree with that..." or "same for me..." are expected);</li>
 	<li>encourage the continuation of the discussion; respect the point-of-view of the other students, allowing for the discussion of different points-of-view without judgment.</li>
-</ul><hr/>
+</ul>
+<hr/>
 ### Discussion Topics
 #### Unit 1: The Meaning of E-Learning
 After you have read about the e-learning continuum and the other frameworks and perspectives of e-learning, share your thoughts and reactions. Here are some questions to get you thinking but don't feel compelled to answer them all:
