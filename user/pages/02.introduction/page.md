@@ -7,7 +7,7 @@ This <strong>Introduction</strong> provides a general overview of the course and
 * [Readings & Resources](#readings-&-resources)
 * [Resources & Support](#resources-&-support)
 * [Workload & General Guidlines](#workload)
-* [Navigating the Course](#navigation)
+* [Navigating the Course](#test)
 * [Instructor Communication](#communication)
 * [Activities](#activities)
 * [Conclusion](#conclusion)
@@ -209,7 +209,7 @@ You will be asked to think for yourself, to make difficult choices, to work coll
 	<li>Participate regularly and actively in the discussion forums. You will receive instructions about the current discussions from your instructor. Make sure you read the <a href="http://blogs.ubc.ca/etec520archive/about-2/course-web-site-and-discussion-forums/" target="_blank"><strong>Discussion Forum Guidelines</strong> </a>in the <strong>Introduction </strong>section.</li>
 	<li><strong>Leave yourself enough time to do the assignments.</strong> There are three challenging assignments in this course, so don't delay getting started. Don't be afraid to use the discussion forums or email to contact your instructor or other students to test ideas, ask questions, seek other Web sites, etc. We strongly encourage collaboration in this course.</li>
 </ol>
-### Navigating The Course <a name="navigation"></a>
+### Navigating The Course <a name="test"></a>
 The main purpose of this course web site is to provide you with a structured pathway through the course content and to provide you with all the administrative and logistical information you need to complete the course. We will also highlight key issues and introduce some of our thoughts on these issues.  In addition, we have integrated a number of <a href="http://en.wikipedia.org/wiki/Rss" target="_blank">RSS feeds</a> that will allow for new content and resources to be added dynamically. These feeds are in the right-hand menu and they provide links to new online resources.
 
 The course Web site contains a number of components. You can access these from the Navigation bar on the top of each page and on the right-hand side of each page. At the top of the page you will find the tabs, <strong>Home, Introduction, and Unit 1-6</strong>. When you click on a Unit tab in the top navigation bar you'll see a list of the pages in that unit. The page you are on should be highlighted.
