@@ -81,6 +81,7 @@ Week 11
 After completing this unit government planning for e-learning, we want you to come way with the following key points.
 #### 1. Government Planning Strategies
 We find it useful to think about two categories of strategies that governments have at their disposal for planning e-learning.
+
 <strong>Conservative Strategies</strong>
 These include:
 <ul>
