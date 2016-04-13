@@ -186,3 +186,125 @@ You might want to also take a look at some of the videos on open educational res
 [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-1?count=15/" num="10"]
 #### Additional Reading &amp; Resources
 [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-1R?count=15/" num="10"]
+
+### 1.2 Rationales for E-Learning <a name="rationales"></a>
+<a href="http://blogs.ubc.ca/etec5202015/files/2011/08/hourglass-icon1-e1403212651814.jpg"><img class="alignleft wp-image-3038 size-full" src="http://blogs.ubc.ca/etec5202015/files/2011/08/hourglass-icon1-e1403212651814.jpg" alt="hourglass icon" width="55" height="55" /></a>
+We recommend you spend about <strong>2-4 hours</strong> on the readings and activities in this section.
+
+Bates &amp; Sangrà propose five key reasons for using e-learning in higher education:
+<ol>
+	<li>To enhance the quality of teaching &amp; learning</li>
+	<li>To accommodate to the learning style of Millennials</li>
+	<li>To increase access to learning opportunities and to increase flexibility for students</li>
+	<li>To develop the skill and competencies needed in the 21st Century</li>
+	<li>To Improve cost-effectiveness</li>
+</ol>
+<em><strong><a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a></strong></em>
+Read Chapter 1 of Bates &amp; Sangrà for a detailed discussion of these key reasons. Then continue reading this commentary.
+#### Critique of Reasons for Using E-Learning
+While it is important to have a clear and well-supported rationale for using e-learning, it is equally important that we critically examine the most commonly proposed reasons which Bates &amp; Sangrà discuss in Chapter 1 of their book. Improving access and flexibility, and enhancing quality are the least contentious of the five reasons they put forward and I have no problem with these. There is little doubt, in my view, that we can make education more accessible through the use of e-learning by reducing or eliminating the need for real-time attendance at schools and colleges. This makes it easier for people who are working full-time or who live in remote locations to pursue an education. As for enhancing the quality of education, Bates &amp; Sangrà make a strong case for how e-learning can do this and I agree with them. They also make the point that we need to go beyond simply enhancing and move towards transforming and I think this is a key point. It also relates to the cost-effectiveness rationale. As Bates &amp; Sangrà point out, if all we do is add technology to existing approaches, we may well enhance quality but we will also be increasing costs. The only way to achieve cost effectiveness is if we change our approaches and use e-learning to replace current activities and the only way to transform teaching and learning is to use e-learning to move away from a teacher-centered, transmission model of education.
+
+The two reasons put forward by Bates &amp; Sangrà that I think we need to take a critical look at are the ones that deal with millennial learning styles and 21st century skills.
+#### The Millennials Learning Style Argument
+<p style="text-align: left;">This is the weakest argument put forward by Bates &amp; Sangrà and really shouldn't even be included in their discussion of reasons. As they correctly point out, there is no empirical support for the argument that Millennial students have inherently different needs or learning styles than other students. In fact, the whole notion of <a href="http://www.changemag.org/Archives/Back%20Issues/September-October%202010/the-myth-of-learning-full.html" target="_blank">learning styles itself is empirically weak</a>. That really should be end of the discussion but it isn't and by devoting as much space to this proposition as they do, they end up giving it a certain amount of undeserved legitimacy.</p>
+In fact, there is no credible evidence to support the argument that there is a generational basis for using e-learning. We should be making decisions based on the needs of the learners we have in our class, not a stereotype. Watch this short video for a summary of the key reasons we should be skeptical of this argument.
+
+<iframe src="//player.vimeo.com/video/100822257" width="500" height="281" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+If you need more convincing, see  <a href="http://netgenskeptic.org/" target="_blank">Net Gen Skeptic </a>and <a href="http://digitallearners.ca/" target="_blank">Digital Learners in Higher Education.</a>
+
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a><strong>
+Reading</strong>
+<a href="http://steve-wheeler.blogspot.ca/2011/11/convenient-untruth.html" target="_blank">A Convenient UnTruth by Steve Wheeler</a>
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-2-1?count=15/" num="10"]
+<h3><strong>The 21st Century Skills Argument</strong></h3>
+Bates &amp; Sangra talk about the growth of knowledge-based companies and how these differ from typical industrial businesses and require workers with different skills, but the examples given are almost always technology companies. What percentage of the workforce is employed in this sector? Do we exaggerate the importance of the knowledge sector? My concern with this argument is that it assumes that everybody will need to be a "knowledge worker" in the 21st century when, in fact, there is evidence a significant part of the knowledge economy workforce doesn't need these so-called 21st century skills (see Brown et al. 2011). As Selwyn (2013) notes, <em>"At best, most of the 'informational' jobs of the twenty-first-century would seem to be centred around technology-based divisions of labour where most workers are no longer expected to exercise independent judgement or contribute creatively to the value-adding process"</em> (p. 153). Think of the thousands of people working in Amazon's warehouses or call-centre workers around the world.
+
+Even if we accept the argument that these skills are needed, there are still questions about whether using e-learning contributes to their development. Here there seems to be a confusion between using the technology as a platform for teaching and learning and using the technology for purposes other than formal learning, e.g., finding and evaluating information, communication, networking etc. It is quite possible to use e-learning to deliver online courses, for example, that make little or no use of the technology in a way that develops these skills. The 21st century skills argument tends to first assume that these skills are needed by all and that by simply using the technology at its simplest level, they will be developed. Furthermore, are these 21st century skills really that different than the 20th century skills? Haven't we always been trying to develop communication and teamwork skills, the ability to learn independently, critical thinking, creativity, and social skills?
+
+So it's important to have a good rationale for using e-learning but the rationale must stand up to scrutiny. The Millennial Learning Styles and 21st Century Skills arguments are the most suspect of the five reasons. But even the others: quality, access and cost-effectiveness, must chosen with care. They need to make sense for your institution or organization
+
+<strong><em><a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a></em></strong><strong><em>
+</em></strong>Now re-read the articles by Guri-Rosenblit and Sinclair, McClaren and Griffin. Pay particular attention to pp. 478-486 of Guri-Rosenblit which deals with erroneous assumptions about e-learning.
+
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-2?count=15/" num="10"]
+
+#### Question for Reflection
+<ol>
+	<li>What do you think of the reasons for using e-learning presented by Bates &amp; Sangrà and my critique of some of those reasons?</li>
+	<li>Do you think the reasons for using e-learning presented by Sinclair et al. are practical and relevant to your context?</li>
+	<li>Where is your institution placed within the context discussed by Sinclair et al. ? Is it making moves towards a paradigm shift or is it still very traditional? What criteria could you use to measure the degree of 'movement'?</li>
+	<li>What is your view of Guri-Rosenblit's claim that most of the sweeping predictions about e-learning are based on some erroneous assumptions?</li>
+</ol>
+
+### Overview of Learning Technologies <a name="learningtechnologies"></a> href="http://blogs.ubc.ca/etec5202015/files/2011/08/hourglass-icon1-e1403212651814.jpg"><img class="alignleft wp-image-3038 size-full" src="http://blogs.ubc.ca/etec5202015/files/2011/08/hourglass-icon1-e1403212651814.jpg" alt="" width="55" height="55" /></a></strong><strong>
+We recommend that you spend 1-2 hours on this section.</strong>
+
+
+The other courses in the MET deal more extensively with the variety of different educational technologies that are available so we won't go into detail on this topic. An excellent resource that is worth exploring is the <em>Introduction to Learning Technologies</em> course from the University of Saskatchewan listed below in the <strong>Resources</strong> section.
+
+The EDUCAUSE "7 Things You Should Know About..." series is also an excellent source of information on new and emerging technologies and how they can be used to support teaching and learning. See the link below.
+<p style="text-align: left;">One of the key points we want to make, however,  is that new tools and technologies are emerging constantly and they are becoming much more accessible to the individual user. There was a time when using educational technology meant you needed to have an educational technology support department and you had to jump through numerous bureaucratic hoops to get the technology in your classroom. The advent of cloud-based software, social media or, more broadly, the notion of Web 2.0, has changed all that. While there are still many technologies that require institutional support, and technical expertise (e.g., learning management systems, videoconferencing), the individual instructor now has access to an amazing variety of technologies that require little or no institutional support. One of the implications of this, in my view, is that we may want to reconsider our use of institutional learning management systems. Watch this brief video for a discussion of this idea.</p>
+<iframe src="//player.vimeo.com/video/98760410" width="500" height="281" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a>
+<strong>Read the EDUCAUSE series, <em>7 Things You Should Know About </em>for some excellent summaries of new and emerging educational technologies</strong>
+
+However, instructors, particularly in Canada, need to be aware of the privacy implications of using many cloud-based software. Freedom of Information legislation in many provinces imposes significant restrictions on using US-based services if students are <strong>required </strong>to use these services to complete their studies. Using these services on an optional basis is a different matter.
+
+<em><strong><a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a>
+Read pp. 25-40 of Bates &amp; Sangrà for an overview of some of the available e-learning technologies. Keep in mind, this book is now at least three years old so things have changed.</strong></em>
+<h3><strong>Recommended Reading &amp; Resources
+</strong></h3>
+<ul>
+	<li>Bates, A.W. &amp; Sangrà, A. (2011.) <em>Managing Technology in Higher Education: Strategies for Transforming Teaching &amp; Learning. </em>San Francisco: Jossey-Bass. pp. 25-40.</li>
+</ul>
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-3?count=15/" num="10" ]
+<h3>Additional Reading &amp; Resources</h3>
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-3R?count=15/" num="10" ]
+
+### Implications for Teaching and Learning <a name="teachinglearning"></a>
+Using e-learning effectively, even at an individual level, has significant implications for how our courses and programs are designed. Access, costs and quality are the main issues we are trying to address in using e-learning but none of these will be adequately addressed if we simply add technology or e-learning to our current way of doing business. E-learning is expensive. There are significant human resource and technology hardware and software costs associated with it. So we need to integrate e-learning, not simply add it to our existing ways of teaching . This means redesigning our teaching so that the affordances of the different technologies and modes of delivery are exploited appropriately.
+
+In this video presentation Dr. Ruben Puentedura explains three models of technology or e-learning integration that will help you understand some of the implications for teaching and learning.
+
+<iframe src="//www.youtube.com/embed/t3nT0LDH-q0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a>
+<em><strong>Now read pp. 40-51 of Bates &amp; Sangrà (2011)  for a discussion of the different modes of e-learning and the relationship between different technologies and different approaches to teaching and learning.</strong></em>
+
+In his latest book, Bates (2014) argues that technology is having a growing impact on the core teaching activities of the university. He suggests there are number of key trends that suggest e-learning is moving from the periphery to the centre. These include the growth in for credit, fully-online learning, growing  use of blended or mixed-mode approaches (more recently called "the flipped classroom"), and growing interest in open learning and MOOCs.
+
+Bates also devotes a large part of chapter 2 of his new book discussing the impact of technology on the nature of knowledge and points to arguments that knowledge is now more of a process than product, the result of the interactions between people rather than the product of individual minds.
+
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a>
+
+Read sections 1.7 and 1.8 and 2.4 of <em>Teaching in a Digital Age</em> by Tony Bates. See the links below under <strong>Recommended Readings &amp; Resources</strong>.
+<h3>Trends in Online Learning</h3>
+<p style="text-align: left;">We end this unit with a presentation from Sir John Daniel, who discusses three trends in online learning:</p>
+
+<ol>
+	<li>The shift in online enrollments from public to private post secondary institutions;</li>
+	<li>The growing use and acceptance of Open Educational Resources;</li>
+	<li>The growth in the use of mobile communications technology.</li>
+</ol>
+<p style="text-align: center;"><iframe src="http://www.youtube.com/embed/Y5UktFLzlyg" width="420" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+
+#### Recommended Readings & Resources
+<ol>
+<ul>
+	<li>Bates, A.W. &amp; Sangrà, A. (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching &amp; Learning.</em> San Francisco: Jossey Bass. pp. 40-51</li>
+</ul>
+</ol>
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-4?count=15/" num="10"]
+#### Additonal Readings & Resources
+
+<a href="http://blogs.ubc.ca/etec520/files/2011/08/diy.jpg"><img class="size-full wp-image-1789 alignleft" style="border: 0pt none; margin: 0px;" src="http://blogs.ubc.ca/etec520/files/2011/08/diy.jpg" alt="" width="115" height="115" /></a>Anya Kamenetz has written an excellent critique of the US higher education system. In chapter 4, of <a href="http://www.amazon.ca/DIY-Edupunks-Edupreneurs-Transformation-Education/dp/1603582347/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1265385331&amp;sr=8-1" target="_blank"><em>DIY U: Edupunks, Edupreneurs, and the Coming Transformation of Higher Education.</em></a>she addresses the implications for teaching and learning of making greater and more effective use of learning technologies. This chapter is directly relevant to our discussion but I recommend the entire book. It is relatively short and a fairly easy read.
+
+[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-4R?count=15/" num="10"]
+
+### Conclusion <a name="conclusion"></a>
+In this unit we have tried to clarify what the term e-learning means, what are some of the key rationales for using e-learning, and the implications for teaching and learning. We suggest e-learning is best viewed as a continuum of possibilities for increasing the amount technology-mediated learning and that, as this increases, the nature of teaching and learning, and how it is organized and delivered, changes significantly.
+
+While a number of rationlaes for using e-learning have been put forward, addressing quality, access and costs are, in our view, the most important and legitimate reasons for using e-learning. With these reasons in mind, it is essential that we integrate e-learning properly in a way that maximizes the affordances of the different technologies and modes of deliveries. If we don't do this, costs will rise, access will not be increased and quality may not be improved. So we emphasize that <strong>e-learning is more than just enhancing teaching with technology. It implies re-thinking and re-designing learning and reorganizaing institutions. It is, by definition, about integrating learning technologies into teaching and learning, not simply using them to enhance existing approaches.</strong>
+
+The use of e-learning opens up completely new possibilities for teaching, but institutions need to be ready to make significant changes if the potential of e-learning is to be fully exploited. In the next unit we begin to examine institutional readiness, particularly planning, governance and organizational culture issues.
