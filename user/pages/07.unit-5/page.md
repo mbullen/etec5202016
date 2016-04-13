@@ -228,7 +228,7 @@ Review the <a href="http://www.tcu.gov.on.ca/pepg/publications/vision/" target="
 <a href="http://www.wgu.edu/" target="_blank">Western Governors' University
 </a>
 
-### 5.3 Government Funding Strategies <a name="funding"</a>
+### 5.3 Government Funding Strategies <a name="funding"></a>
 #### Bad News, Worse News and Good News
 It has already been pointed out that the bad news for governments is that e-learning is unlikely to save money in higher education, at least in the short term. The cost of technology obsolescence and advancement, and above all the cost of faculty learning how to use the technology and/or the costs of the technical support they will require, will continue to mean that more rather than less money will need to be spent over the next ten years or so.
 
