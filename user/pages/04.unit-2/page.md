@@ -12,7 +12,7 @@ animate_css: use_global
 fontawesome: use_global
 ---
 
-## E-Learning
+## E-Learning Readiness
 <hr/>
 ### Table of Contents
 * [Learning Outcomes](#outcomes)
