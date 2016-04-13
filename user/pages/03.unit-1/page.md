@@ -237,9 +237,10 @@ So it's important to have a good rationale for using e-learning but the rational
 	<li>What is your view of Guri-Rosenblit's claim that most of the sweeping predictions about e-learning are based on some erroneous assumptions?</li>
 </ol>
 
-### Overview of Learning Technologies <a name="learningtechnologies"></a> href="http://blogs.ubc.ca/etec5202015/files/2011/08/hourglass-icon1-e1403212651814.jpg"><img class="alignleft wp-image-3038 size-full" src="http://blogs.ubc.ca/etec5202015/files/2011/08/hourglass-icon1-e1403212651814.jpg" alt="" width="55" height="55"</a>
-<strong>We recommend that you spend 1-2 hours on this section.</strong>
+### Overview of Learning Technologies <a name="learningtechnologies"></a>
 
+href="http://blogs.ubc.ca/etec5202015/files/2011/08/hourglass-icon1-e1403212651814.jpg"><img class="alignleft wp-image-3038 size-full" src="http://blogs.ubc.ca/etec5202015/files/2011/08/hourglass-icon1-e1403212651814.jpg" alt="" width="55" height="55" /></a>
+<strong>We recommend that you spend 1-2 hours on this section.</strong>
 
 The other courses in the MET deal more extensively with the variety of different educational technologies that are available so we won't go into detail on this topic. An excellent resource that is worth exploring is the <em>Introduction to Learning Technologies</em> course from the University of Saskatchewan listed below in the <strong>Resources</strong> section.
 
