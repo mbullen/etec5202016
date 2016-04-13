@@ -1,3 +1,10 @@
+#sg-mainmenu .menu > li > a {
+  padding: .4rem 0.4rem;
+  border: 1px solid;
+  border-radius: 3px;
+  margin-left: .4rem;
+}
+
 .sidebar-content h5 {
   color: #666666;
 }
