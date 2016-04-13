@@ -23,10 +23,7 @@ fontawesome: use_global
 * [3.2 Organizational Structure & Governance](#orgstructure)
 * [3.3 Models of Support](#models)
 * [3.4 Funding Models](#funding)
-* [2.6 Planning](#planning)
-* [2.7 Organizational Structure](#orgstructure)
-* [2.8 Assessing Readiness for E-learning](#assessing)
-* [2.9 Conclusion](#conclusion)
+* [3.5 Conclusion](#conclusion)
 <hr/>
 The effective implementation of e-learning in higher education requires the appropriate organizational structures and governance mechanisms to ensure that faculty and students get the support they need to use e-learning. Bates &amp; Sangrà (2011) stress that the successful implementation of e-learning <em>"requires daily and continuous attention throughout the organization...[and]...ongoing mechanisms in place to deal with technology issues as they arise" (</em>p. 103).
 
