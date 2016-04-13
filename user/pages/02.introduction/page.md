@@ -252,7 +252,7 @@ Your instructor will also moderate the unit discussion forums, and will mark you
 <h3>Getting to Know Your Instructor</h3>
 You can read a brief biography of your instructor by following the link below.
 
-<a href="//grav-skeleton-course-hub-site/instructor-bios" target="_blank">Instructor Bios</a>
+<a href="http://localhost:8888/grav-skeleton-course-hub-site/instructor-bios" target="_blank">Instructor Bios</a>
 
 ### Activities
 #### Exploring the Resources
