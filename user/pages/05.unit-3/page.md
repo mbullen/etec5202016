@@ -131,7 +131,7 @@ Governance is about how decisions are made about current and future plans for e-
 <em><strong><a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a>
 #### Reading
 pp. 121-129 of Bates &amp; Sangrà (Chapter 5) for more on governance issues.
-<h3><strong>Academic Technology Committees</strong></h3>
+#### Academic Technology Committees
 One of the most common governance mechanisms in higher education is the academic or educational technology committee. E-learning and educational technology cut across academic, technical and support areas so it is important to ensure that the diversity of needs and perspectives is taken into account when implementing e-learning. Too often e-learning is seen as primarily a technical issue and governance committees tend to be dominated or driven by IT departments when really the educators should be setting the agenda. Along with membership, the key issues to consider in establishing educational technology committees are mandate, decision-making authority, reporting structure and whether it is a permanent, ad hoc or temporary committee.
 
 <em><strong><a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a></strong></em><strong>Reading</strong>
