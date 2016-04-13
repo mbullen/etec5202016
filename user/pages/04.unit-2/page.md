@@ -86,7 +86,7 @@ Week 5
 </ul>
 [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-2-1R?count=30" num="30"]
 
-### Key Points <a name="keypoints"</a>
+### Key Points <a name="keypoints"></a>
 Too often e-learning readiness is viewed in strictly technical terms. Does the organization have the necessary technical infrastructure? Does it have a learning management system?  Sufficient bandwidth? But if there is one key point we would like you take away from this unit, it is that e-learning readiness is much more than just a technical issue. It is a multi-faceted issue that encompasses a wide range of organizational, pedagogical and administrative factors as well as the technical issues. Ideally, the first step in implementing e-learning in an organization will be an assessment of that organization's readiness. The key readiness issues include:
 <ul>
 	<li>Funding</li>
