@@ -57,7 +57,7 @@ If you are interested in following up on the quality control of technology-based
 	<li>Will the adoption of e-learning inevitably mean an increase in the workload of faculty who do this? What can be done to avoid or reduce e-learning-related workload?</li>
 	<li>In their article, <em>Faculty 2.0,</em> Hartman et al. suggest that faculty will have to adapt to the changing nature of students and how they use and think of technology. Do you agree with with their conclusions?</li>
 </ol>
-### Unit Schedule <a name="schedule></a>"
+### Unit Schedule <a name="schedule"></a>
 Try to work to the following schedule:
 
 Week 13
