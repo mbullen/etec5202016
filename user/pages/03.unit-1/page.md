@@ -254,8 +254,8 @@ However, instructors, particularly in Canada, need to be aware of the privacy im
 
 <em><strong><a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a>
 Read pp. 25-40 of Bates &amp; Sangrà for an overview of some of the available e-learning technologies. Keep in mind, this book is now at least three years old so things have changed.</strong></em>
-<h3><strong>Recommended Reading &amp; Resources
-</strong></h3>
+
+#### Recommended Reading & Resources
 <ul>
 	<li>Bates, A.W. &amp; Sangrà, A. (2011.) <em>Managing Technology in Higher Education: Strategies for Transforming Teaching &amp; Learning. </em>San Francisco: Jossey-Bass. pp. 25-40.</li>
 </ul>
