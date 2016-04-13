@@ -6,6 +6,11 @@ This <strong>Introduction</strong> provides a general overview of the course and
 * [Teaching & Learning Approach](#teaching-&-learning-approach)
 * [Readings & Resources](#readings-&-resources)
 * [Resources & Support](#resources-&-support)
+* [Workload & General Guidlines](#workload)
+* [Navigating the Course](#navigation)
+* [Instructor Communication](#communication)
+* [Activities](#activities)
+* [Conclusion](#conclusion)
 
 ### Overview of the Course <a name="overview-of-the-course"></a>
 The purpose of this course is to prepare you to plan and manage e-learning effectively in your institutions and organizations. We will do this through readings and discussions of some of the key issues. The assignments will also give you an opportunity to apply some of these ideas to practical planning activities.
@@ -188,7 +193,7 @@ If you are having problems accessing the course website or using some of its too
 
 You do need to familiarize yourself with how to use this environment, so take a few minutes to move around the course and try out various links or tools. If you need help with any feature, click on Help at the top of this page.
 
-### Workload and General Guidelines
+### Workload and General Guidelines <a name="workload"></a>
 #### Studying this Course
 This is a graduate course aimed primarily at people working in the postsecondary education system. We therefore expect you to be able to <strong>seek out, analyze, and evaluate information</strong> for yourself, and to be able to draw critically on your own experience and reflect on that in the light of the material presented in this course.
 
@@ -204,7 +209,7 @@ You will be asked to think for yourself, to make difficult choices, to work coll
 	<li>Participate regularly and actively in the discussion forums. You will receive instructions about the current discussions from your instructor. Make sure you read the <a href="http://blogs.ubc.ca/etec520archive/about-2/course-web-site-and-discussion-forums/" target="_blank"><strong>Discussion Forum Guidelines</strong> </a>in the <strong>Introduction </strong>section.</li>
 	<li><strong>Leave yourself enough time to do the assignments.</strong> There are three challenging assignments in this course, so don't delay getting started. Don't be afraid to use the discussion forums or email to contact your instructor or other students to test ideas, ask questions, seek other Web sites, etc. We strongly encourage collaboration in this course.</li>
 </ol>
-### Navigating The Course
+### Navigating The Course <a name="navigation"></a>
 The main purpose of this course web site is to provide you with a structured pathway through the course content and to provide you with all the administrative and logistical information you need to complete the course. We will also highlight key issues and introduce some of our thoughts on these issues.  In addition, we have integrated a number of <a href="http://en.wikipedia.org/wiki/Rss" target="_blank">RSS feeds</a> that will allow for new content and resources to be added dynamically. These feeds are in the right-hand menu and they provide links to new online resources.
 
 The course Web site contains a number of components. You can access these from the Navigation bar on the top of each page and on the right-hand side of each page. At the top of the page you will find the tabs, <strong>Home, Introduction, and Unit 1-6</strong>. When you click on a Unit tab in the top navigation bar you'll see a list of the pages in that unit. The page you are on should be highlighted.
@@ -243,7 +248,7 @@ You can read more about social bookmarking in the following article:
 
 I have been tagging resources for this course since I started teaching it in 2003 and I have added an RSS feed for these resources in the right-hand column with items tagged with <strong>Planning_Ed_Tech</strong>. I will update this during the course as I come across items that I think are relevant and interesting.
 
-### Instructor Communication
+### Instructor Communication <a name="communication"></a>
 Most of the communication in this course will take place through through the UBC Connect discussion forums and Connect e-mail. Your instructor may also use regular e-mail to communicate with you on occasion. If you would prefer not to be contacted by regular e-mail, please let your instructor know.
 
 Your instructor will be available for help and support on an individual basis. You can contact your instructor by e-mail and you can make arrangements to talk by phone if needed. We aim to respond to <strong>e-mails</strong> <strong>within one working day</strong>, although occasionally, particularly if your instructor is traveling, this may not always be possible.
@@ -254,7 +259,7 @@ You can read a brief biography of your instructor by following the link below.
 
 <a href="http://localhost:8888/grav-skeleton-course-hub-site/instructor-bios" target="_blank">Instructor Bios</a>
 
-### Activities
+### Activities <a name="activities"></a>
 #### Exploring the Resources
 <ol>
 	<li>Spend some time browsing the various sources listed in <em>Resources</em>.</li>
@@ -287,7 +292,7 @@ We want you to feel free to openly and freely discuss the issues raised in this 
 
 Please do not give your password to any person not registered in this course.
 
-### Conclusion
+### Conclusion <a name="conclusion"></a>
 This is an ambitious course. It examines institutional readiness for e-learning and touches on issues and strategies at several different levels: course, program, institutional and government/system.  We have done this because decisions made at one level inevitably have an influence on decisions at other levels. You will need to be quite focused in your work. We have tried to divide the course so that the majority of it is concerned with institutional readiness, planning and implementation, but these need to be embedded in a wider context. Our advice is to continue to relate the course to your own context, while keeping an eye on planning and management in other contexts. We also advise you to try to keep on schedule, moving from one unit to another on the due dates. You should also use the assignment questions and marking criteria as guidelines on where to focus as you work through the material.
 
 Lastly we would like to re-iterate the point that there are no well established principles or guidelines on planning and managing e-learning and learning technologies that you can safely follow in a systematic or well defined manner. You will need to remain flexible and open to a variety of approaches. What we have tried to do in this course is to make you more aware of the issues, and some possible alternatives and strategies for dealing with these issues. There is however plenty of scope for your own solutions and ideas, based on your experience, and we encourage you to share these with your fellow participants on this course.
