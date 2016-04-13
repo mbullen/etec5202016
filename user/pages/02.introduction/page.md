@@ -255,7 +255,7 @@ You can read a brief biography of your instructor by following the link below.
 <a href="//grav-skeleton-course-hub-site/instructor-bios" target="_blank">Instructor Bios</a>
 
 ### Activities
-<h3><strong>Exploring the Resources</strong></h3>
+#### Exploring the Resources
 <ol>
 	<li>Spend some time browsing the various sources listed in <em>Resources</em>.</li>
 	<li>If you find articles or references that you think might be particularly useful for this course, add the URL to your bookmarks.</li>
