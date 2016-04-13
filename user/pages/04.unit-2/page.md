@@ -12,7 +12,23 @@ animate_css: use_global
 fontawesome: use_global
 ---
 
-##### E-Learning Readiness
+## E-Learning
+<hr/>
+### Table of Contents
+* [Learning Outcomes](#outcomes)
+* [Unit Schedule](#schedule)
+* [Readings & Resources](#readings)
+* [Key Points](#keypoints)
+* [2.1 Costs & Funding](#costs)
+* [2.2 IT Infrastructure & Support](#it)
+* [2.3 Organizational Culture](#orgculture)
+* [2.4 The Impact of Organizational Culture](#cultureimpact)
+* [2.5 Faculty & Learner Readiness](#facultylearner)
+* [2.6 Planning](#planning)
+* [2.7 Organizational Structure](#orgstructure)
+* [2.8 Assessing Readiness for E-learning](#assessing)
+* [2.9 Conclusion](#conclusion)
+<hr/>
 In this unit we start to get at the "meat" of the course: what  organizations need to do to get ready for e-learning. E-learning is a costly endeavour and unless organizations prepare adequately before implementing it they will not reap its full benefits. The key readiness issues include:
 <ul>
 	<li>Costs and funding</li>
@@ -24,13 +40,14 @@ In this unit we start to get at the "meat" of the course: what  organizations ne
 	<li>Organizational structure</li>
 </ul>
 With a proper understanding of the key readiness factors, you should be able to asses your own organization to determine how ready it is for e-learning.
-<h3>Learning Outcomes</h3>
+
+### Learning Outcomes <a name="outcomes"</a>
 Upon completion of this unit you should be able to:
 <ol>
 	<li>Explain the importance and relevance of the key readiness factors;</li>
 	<li>Assess the readiness of an organization based on the key factors;</li>
 </ol>
-<h3>Unit Schedule</h3>
+### Unit Schedule <a name="schedule"</a>
 Try to work to the following schedule:
 
 Week 4
