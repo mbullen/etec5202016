@@ -187,3 +187,110 @@ If you are having problems accessing the course website or using some of its too
 <a href="http://www.youtube.com/watch?v=0klgLsSxGsU" target="_blank">Introductory Video on RSS</a>
 
 You do need to familiarize yourself with how to use this environment, so take a few minutes to move around the course and try out various links or tools. If you need help with any feature, click on Help at the top of this page.
+
+### This Course
+This is a graduate course aimed primarily at people working in the postsecondary education system. We therefore expect you to be able to <strong>seek out, analyze, and evaluate information</strong> for yourself, and to be able to draw critically on your own experience and reflect on that in the light of the material presented in this course.
+
+We also expect you to share your findings, your perspectives and your experiences with each other through the group work and the online discussion activities. We hope that by #### Workload
+Although we will provide you with as much help as we can, do not expect this to be an easy course. You should budget an average of between <strong><span style="color: #000000">eight to twelve hours a week</span></strong> for study; some of you will need even longer, depending how actively you participate in the discussions and the amount of independent research you do on the issues. Twelve hours a week should allow you to cover the course thoroughly. You may of course not have this much time to spare, but you should be able to cover the minimum required within eight to ten hours a week.
+
+Whether or not English is your first language, you will need to be very skilled in reading quickly and selectively, and in writing clearly and succinctly, in English.
+
+You will be asked to think for yourself, to make difficult choices, to work collaboratively with other students, and to have your ideas and views criticized publicly by others. You will be asked to do a lot of work on your own. In particular, you will be asked to find out information for yourself, to analyze the information, and to make decisions based on your analysis.
+#### General Guidelines for Studying this Course
+<ol>
+	<li>Read those readings designated <strong>required</strong>. You should only read the <strong>additional</strong> readings if you are interested in pursuing a particular topic in more depth. You do not need to read the additional readings to successfully complete the course.</li>
+	<li>Participate regularly and actively in the discussion forums. You will receive instructions about the current discussions from your instructor. Make sure you read the <a href="http://blogs.ubc.ca/etec520archive/about-2/course-web-site-and-discussion-forums/" target="_blank"><strong>Discussion Forum Guidelines</strong> </a>in the <strong>Introduction </strong>section.</li>
+	<li><strong>Leave yourself enough time to do the assignments.</strong> There are three challenging assignments in this course, so don't delay getting started. Don't be afraid to use the discussion forums or email to contact your instructor or other students to test ideas, ask questions, seek other Web sites, etc. We strongly encourage collaboration in this course.</li>
+</ol>
+### Navigating The Course
+The main purpose of this course web site is to provide you with a structured pathway through the course content and to provide you with all the administrative and logistical information you need to complete the course. We will also highlight key issues and introduce some of our thoughts on these issues.  In addition, we have integrated a number of <a href="http://en.wikipedia.org/wiki/Rss" target="_blank">RSS feeds</a> that will allow for new content and resources to be added dynamically. These feeds are in the right-hand menu and they provide links to new online resources.
+
+The course Web site contains a number of components. You can access these from the Navigation bar on the top of each page and on the right-hand side of each page. At the top of the page you will find the tabs, <strong>Home, Introduction, and Unit 1-6</strong>. When you click on a Unit tab in the top navigation bar you'll see a list of the pages in that unit. The page you are on should be highlighted.
+
+The <strong>Home</strong> page is a blog page which I will update periodically with new postings on relevant topics.
+
+In the right-hand navigation frame you will find links to various <strong>Course Resources</strong>, a list of links to various <strong>Internet Resources</strong> and an <a href="http://en.wikipedia.org/wiki/Rss" target="_blank">RSS feed</a> of bookmarks that have been tagged with "Planning_Ed_Tech".  To go to one of these, just click on it and the relevant page will appear. Note that some of these will take you outside the Word Press site to the Blackboard Connect website or to other websites.
+#### Course Content
+The course content is contained in six units. You access this by clicking on the <strong>Unit </strong>link in the top navigation bar which will display drop down menu of the pages in the Unit. Each unit contains some direct teaching information, learning activities, and directions to other resources.
+#### Reading Off Line
+You can download all the material on the Word Press site for offline reading simply by clicking on the printer icon in the right hand frame. This will generate a printer friendly version of the page you are on which you can either print out or save to your desktop.
+#### Resources
+When you go to the <strong>Resources &amp; Support</strong> page (click the <strong>Resources &amp; Support</strong> link under <strong>Course Resources</strong> on the right-hand side of the page), you will find a number of different features available to you:
+<ul>
+	<li>Readings</li>
+	<li>Discussion forum guidelines</li>
+	<li>MET library services</li>
+	<li>ACCULT</li>
+	<li>Using quotations appropriately</li>
+	<li>UBC ACCULT video scenario</li>
+</ul>
+You can see that you should have plenty of resources at your disposal for this course. Your main challenge will be to focus your searches on the most useful sources for the particular activities and assignments you are set, and to collect and organize that information in a clear and easy to use manner.
+<h3><strong>Social Bookmarking</strong></h3>
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/diigo.jpg"><img class=" wp-image-588 alignleft" style="margin: 5px; border: 0pt none;" src="http://blogs.ubc.ca/etec520/files/2010/04/delicious_logo.png" alt="delicious_logo" width="121" height="121" /><img class="alignlright wp-image-2948" src="http://blogs.ubc.ca/etec5202015/files/2010/04/diigo.jpg" alt="" width="124" height="124" /></a>
+
+We strongly recommend that you use a social bookmarking tool to save URLs of interest. Until recently I was using <a href="//del.icio.us/','new_frame','width=600,height=420,menubar=1,toolbar=1,scrollbars=1,status=1,location=1,resizable=1',0)">Delicious</a>  but it providea little or no support and its RSS functionality is always breaking so I switched to  <a href="http://www.diigo.com" target="_blank">Diigo.</a> These tools allows you to bookmark and share resources and see what  other people who are interested in the same topics are bookmarking. It provides you with easy access to additional resources of interest (see for example the resources tagged ‘elearning’) as well as an idea of their popularity and thus possibly importance/ usefulness.
+
+What you will need to do:
+<ol>
+	<li>Go to <a href="http://delicious.com" target="_blank">Delicious</a> or <a href="http://www.diigo.com" target="_blank">Diigo</a>.</li>
+	<li>Create an account for yourself if you don’t already have one. Remember, this can be something you can take away and use long after the course is over.  You may want to include other URLs of interest to you, or you may already have an account you can use.</li>
+	<li>Tag all items of interest to this course with <strong>Planning_Ed_Tech</strong> so that others may easily retrieve the resources and share their own.</li>
+</ol>
+You can read more about social bookmarking in the following article:
+<a href="http://wiki.ubc.ca/Documentation:Social_Bookmarking/Elearning" target="_blank">Social Bookmarking</a>
+
+I have been tagging resources for this course since I started teaching it in 2003 and I have added an RSS feed for these resources in the right-hand column with items tagged with <strong>Planning_Ed_Tech</strong>. I will update this during the course as I come across items that I think are relevant and interesting.
+
+### Instructor Communication
+Most of the communication in this course will take place through through the UBC Connect discussion forums and Connect e-mail. Your instructor may also use regular e-mail to communicate with you on occasion. If you would prefer not to be contacted by regular e-mail, please let your instructor know.
+
+Your instructor will be available for help and support on an individual basis. You can contact your instructor by e-mail and you can make arrangements to talk by phone if needed. We aim to respond to <strong>e-mails</strong> <strong>within one working day</strong>, although occasionally, particularly if your instructor is traveling, this may not always be possible.
+
+Your instructor will also moderate the unit discussion forums, and will mark your assignments. We aim to provide a grade and detailed feedback on assignments<strong> within 10 working days</strong>. Please do not hesitate to contact your instructor if you have any problems or concerns. <strong>Note, however,  that your instructor may not be available on weekends or holidays.</strong>
+<h3>Getting to Know Your Instructor</h3>
+You can read a brief biography of your instructor by following the link below.
+
+<a href="//grav-skeleton-course-hub-site/instructor-bios" target="_blank">Instructor Bios</a>
+
+### Activities
+<h3><strong>Exploring the Resources</strong></h3>
+<ol>
+	<li>Spend some time browsing the various sources listed in <em>Resources</em>.</li>
+	<li>If you find articles or references that you think might be particularly useful for this course, add the URL to your bookmarks.</li>
+	<li>You may also want to keep a notebook of useful references that you find when browsing, for future use.</li>
+	<li>You may want to develop your own category system, based on the topics these readings seem to cover.</li>
+</ol>
+#### Exploring the Readings
+The aim of this activity is to familiarize yourself with the readings.
+<ol>
+	<li>Quickly skim through the list of contents of the text books and the online readings, noting the titles of the different chapters, articles and papers.</li>
+	<li>If you have time, quickly skim through those chapters and articles that have abstracts, and read the abstracts. For those that don't have abstracts, read the introduction and/or conclusions.</li>
+</ol>
+You should read the print and online articles in two different ways: when you are specifically directed to them in an activity or assignment; and when you are looking for appropriate sources for an activity, and believe that this article provides useful information, even though it may not have been cited within the course.
+
+Be careful in using these articles and any information you find from the Internet. You may quote from them (or any other articles you find useful) in assignments and projects, but the quotation should be reasonably short, and should be fully referenced. Quotes should be used very sparingly and only when they clearly add value to your paper my making a point in a way that you could not do just as well in your own words. (See the article on the use of quotations in the Resources section.) In most cases, you should re-word or paraphrase comments and ideas from articles, but again be sure to attribute them accurately through a reference. Remember: your instructor has also read these articles and will recognize any unattributed use.
+#### The Online Code of Conduct
+This is compulsory. All students MUST do this activity.
+
+We expect the same standards of behavior online as we would in a campus environment. This means respecting your fellow students, avoiding racist, sexist or any other inappropriate comments . For this reason, we expect you to adhere to the University's "Appropriate Use of Technology Policy"
+<ol>
+	<li>Visit <a href="http://www.it.ubc.ca/security/securitypolicies.html" target="_blank">http://www.it.ubc.ca/security/securitypolicies.html</a> and click on the <strong>Policy #104: Responsible Use of Information Technology Facilities and Services</strong></li>
+	<li>Read this carefully.</li>
+	<li>When you have done that, read the <strong>Online Discussion Guidelines</strong> also in the <strong>Resources</strong> section.</li>
+</ol>
+This is a condition of taking this course. If you cannot abide by these guidelines and policies, please send an e-mail to <a href="mailto:David.Roy@ubc.ca">David.Roy@ubc.ca</a> <strong>within two weeks of the course start date.</strong> You will be removed from the course.<strong>
+</strong>
+#### Privacy
+We want you to feel free to openly and freely discuss the issues raised in this course so we have restricted access to the Connect site, where the online discussions are held. The only people who should have access to the Connect site are you, the technical personnel responsible for maintaining the site and the instructors. Anybody else who wants access must request it and we will inform you in advance  if other people have been given access.
+
+Please do not give your password to any person not registered in this course.
+
+### Conclusion
+This is an ambitious course. It examines institutional readiness for e-learning and touches on issues and strategies at several different levels: course, program, institutional and government/system.  We have done this because decisions made at one level inevitably have an influence on decisions at other levels. You will need to be quite focused in your work. We have tried to divide the course so that the majority of it is concerned with institutional readiness, planning and implementation, but these need to be embedded in a wider context. Our advice is to continue to relate the course to your own context, while keeping an eye on planning and management in other contexts. We also advise you to try to keep on schedule, moving from one unit to another on the due dates. You should also use the assignment questions and marking criteria as guidelines on where to focus as you work through the material.
+
+Lastly we would like to re-iterate the point that there are no well established principles or guidelines on planning and managing e-learning and learning technologies that you can safely follow in a systematic or well defined manner. You will need to remain flexible and open to a variety of approaches. What we have tried to do in this course is to make you more aware of the issues, and some possible alternatives and strategies for dealing with these issues. There is however plenty of scope for your own solutions and ideas, based on your experience, and we encourage you to share these with your fellow participants on this course.
+
+If you have got this far, and have done as many of the activities as you intend to do, then you are now ready to start Unit 1. Just click on the <strong>Unit 1 </strong>tab on the top navigation bar.
+
+We hope you enjoy this course!
