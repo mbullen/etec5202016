@@ -83,6 +83,7 @@ After completing this unit government planning for e-learning, we want you to co
 We find it useful to think about two categories of strategies that governments have at their disposal for planning e-learning.
 
 <strong>Conservative Strategies</strong>
+
 These include:
 <ul>
 	<li>regulation</li>
@@ -91,6 +92,7 @@ These include:
 	<li>supporting and enhancing the developing of partnerships and consortia.</li>
 </ul>
 <strong>Radical Strategies</strong>
+
 These include:
 <ul>
 	<li>creating new e-learning institutions</li>
