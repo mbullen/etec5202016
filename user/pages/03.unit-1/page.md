@@ -23,7 +23,7 @@ fontawesome: use_global
 * [1.1 What is E-Learning](#elearning)
 * [1.2 Rationales for E-Learning](#rationales)
 * [1.3 Overview of Learning Technologies](#learningtechnologies)
-* [1.4 Implications for Teaching & Learing](#teachinglearning)
+* [1.4 Implications for Teaching & Learning](#teachinglearning)
 * [1.5 Conclusion](#conclusion)
 <hr/>
 <iframe src="//www.youtube.com/embed/NJkxqgXdRn8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
