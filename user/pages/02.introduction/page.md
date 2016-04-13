@@ -188,7 +188,8 @@ If you are having problems accessing the course website or using some of its too
 
 You do need to familiarize yourself with how to use this environment, so take a few minutes to move around the course and try out various links or tools. If you need help with any feature, click on Help at the top of this page.
 
-### This Course
+### Workload and General Guidelines
+#### Studying this Course
 This is a graduate course aimed primarily at people working in the postsecondary education system. We therefore expect you to be able to <strong>seek out, analyze, and evaluate information</strong> for yourself, and to be able to draw critically on your own experience and reflect on that in the light of the material presented in this course.
 
 We also expect you to share your findings, your perspectives and your experiences with each other through the group work and the online discussion activities. We hope that by #### Workload
