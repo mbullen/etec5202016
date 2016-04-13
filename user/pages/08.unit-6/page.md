@@ -273,7 +273,8 @@ In order to deal with a dramatic increase in student demand for access to its pr
 <strong>Reduced seat time/mixed-mode (M):</strong> Courses require electronic media-based instruction that substitutes for some classroom time (reduced seat time). These courses have regular live meeting times. Students must have access to the Internet, a Web browser such as Netscape, basic Web browsing knowledge, ability to use e-mail, and basic computer skills such as word processing.
 
 <strong>World Wide Web (W):</strong>  These are fully online courses that students study off campus and require students to their own computers and Internet access.
-<h3><strong>The UBC Flexible Learning Initiative</strong></h3>
+
+#### The UBC Flexible Learning Initiative
 UBC recently launched its <a href="http://flexible.learning.ubc.ca/" target="_blank">Flexible Learning Initiative </a>which is aimed at using technology to enable pedagogical and logistical flexibility. The initiative has three goals:
 <ol start="1">
 	<li>Enhance educational outcomes for students, building on existing UBC expertise and strengths;</li>
