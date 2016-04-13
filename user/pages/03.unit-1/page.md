@@ -280,7 +280,7 @@ Bates also devotes a large part of chapter 2 of his new book discussing the impa
 <a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a>
 
 Read sections 1.7 and 1.8 and 2.4 of <em>Teaching in a Digital Age</em> by Tony Bates. See the links below under <strong>Recommended Readings &amp; Resources</strong>.
-<h3>Trends in Online Learning</h3>
+#### Trends in Online Learning
 <p style="text-align: left;">We end this unit with a presentation from Sir John Daniel, who discusses three trends in online learning:</p>
 
 <ol>
