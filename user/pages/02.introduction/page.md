@@ -227,7 +227,7 @@ When you go to the <strong>Resources &amp; Support</strong> page (click the <str
 	<li>UBC ACCULT video scenario</li>
 </ul>
 You can see that you should have plenty of resources at your disposal for this course. Your main challenge will be to focus your searches on the most useful sources for the particular activities and assignments you are set, and to collect and organize that information in a clear and easy to use manner.
-<h3><strong>Social Bookmarking</strong></h3>
+#### Social Bookmarking
 <a href="http://blogs.ubc.ca/etec5202015/files/2010/04/diigo.jpg"><img class=" wp-image-588 alignleft" style="margin: 5px; border: 0pt none;" src="http://blogs.ubc.ca/etec520/files/2010/04/delicious_logo.png" alt="delicious_logo" width="121" height="121" /><img class="alignlright wp-image-2948" src="http://blogs.ubc.ca/etec5202015/files/2010/04/diigo.jpg" alt="" width="124" height="124" /></a>
 
 We strongly recommend that you use a social bookmarking tool to save URLs of interest. Until recently I was using <a href="//del.icio.us/','new_frame','width=600,height=420,menubar=1,toolbar=1,scrollbars=1,status=1,location=1,resizable=1',0)">Delicious</a>  but it providea little or no support and its RSS functionality is always breaking so I switched to  <a href="http://www.diigo.com" target="_blank">Diigo.</a> These tools allows you to bookmark and share resources and see what  other people who are interested in the same topics are bookmarking. It provides you with easy access to additional resources of interest (see for example the resources tagged ‘elearning’) as well as an idea of their popularity and thus possibly importance/ usefulness.
