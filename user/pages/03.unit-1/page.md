@@ -297,7 +297,7 @@ Read sections 1.7 and 1.8 and 2.4 of <em>Teaching in a Digital Age</em> by Tony 
 </ul>
 </ol>
 [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-4?count=15/" num="10"]
-#### Additonal Readings & Resources
+#### Additional Readings & Resources
 
 <a href="http://blogs.ubc.ca/etec520/files/2011/08/diy.jpg"><img class="size-full wp-image-1789 alignleft" style="border: 0pt none; margin: 0px;" src="http://blogs.ubc.ca/etec520/files/2011/08/diy.jpg" alt="" width="115" height="115" /></a>Anya Kamenetz has written an excellent critique of the US higher education system. In chapter 4, of <a href="http://www.amazon.ca/DIY-Edupunks-Edupreneurs-Transformation-Education/dp/1603582347/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1265385331&amp;sr=8-1" target="_blank"><em>DIY U: Edupunks, Edupreneurs, and the Coming Transformation of Higher Education.</em></a>she addresses the implications for teaching and learning of making greater and more effective use of learning technologies. This chapter is directly relevant to our discussion but I recommend the entire book. It is relatively short and a fairly easy read.
 
