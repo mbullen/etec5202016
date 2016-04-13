@@ -254,7 +254,7 @@ Most of the communication in this course will take place through through the UBC
 Your instructor will be available for help and support on an individual basis. You can contact your instructor by e-mail and you can make arrangements to talk by phone if needed. We aim to respond to <strong>e-mails</strong> <strong>within one working day</strong>, although occasionally, particularly if your instructor is traveling, this may not always be possible.
 
 Your instructor will also moderate the unit discussion forums, and will mark your assignments. We aim to provide a grade and detailed feedback on assignments<strong> within 10 working days</strong>. Please do not hesitate to contact your instructor if you have any problems or concerns. <strong>Note, however,  that your instructor may not be available on weekends or holidays.</strong>
-<h3>Getting to Know Your Instructor</h3>
+#### Getting to Know Your Instructor
 You can read a brief biography of your instructor by following the link below.
 
 <a href="http://localhost:8888/grav-skeleton-course-hub-site/instructor-bios" target="_blank">Instructor Bios</a>
