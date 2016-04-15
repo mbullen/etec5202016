@@ -95,18 +95,10 @@ One of the two textbooks is freely available online and the other must be purcha
 If you have problems in getting your readings, please contact your instructor.
 #### Unit 1
 ##### Recommended Readings
-<ul>
-	<li>Bates, A.W. &amp; Sangrà, A. (2011.) <em>Managing Technology in Higher Education: Strategies for Transforming Teaching &amp; Learning. </em>San Francisco: Jossey-Bass. Chapters 1 &amp; 2.</li>
-</ul>
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-1?count=30" num="30"]
+* Bates, A.W. &amp; Sangrà, A. (2011.) <em>Managing Technology in Higher Education: Strategies for Transforming Teaching &amp; Learning. </em>San Francisco: Jossey-Bass. Chapters 1 &amp; 2.
+* <a href="https://www.diigo.com/rss/user/markbullen/etec520-1" target="_blank">Online readings</a>
 
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-2-1?count=30" num="30"]
 
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-2?count=30" num="30"]
-
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-3?count=30" num="30"]
-
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-4?count=30" num="30"]
 ##### Additional Readings & Resources
 <ul>
 	<li>Bullen, M. &amp; Janes, D.P. (2007). Preface. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies and Issues</em>, pp. vii-xvi, Hershey, PA: Information Science Publishing.</li>
