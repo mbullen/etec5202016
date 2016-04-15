@@ -96,7 +96,7 @@ If you have problems in getting your readings, please contact your instructor.
 #### Unit 1
 ##### Recommended Readings
 * Bates, A.W. &amp; Sangrà, A. (2011.) <em>Managing Technology in Higher Education: Strategies for Transforming Teaching &amp; Learning. </em>San Francisco: Jossey-Bass. Chapters 1 &amp; 2.
-* <a href="https://www.diigo.com/rss/user/markbullen/etec520-1" target="_blank">Online readings</a>
+* <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-1&snapshot=no" target="_blank">Online readings</a>
 
 
 ##### Additional Readings & Resources
