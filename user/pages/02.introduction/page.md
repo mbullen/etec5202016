@@ -161,7 +161,9 @@ You do need to familiarize yourself with how to use this environment, so take a 
 #### Studying this Course
 This is a graduate course aimed primarily at people working in the postsecondary education system. We therefore expect you to be able to <strong>seek out, analyze, and evaluate information</strong> for yourself, and to be able to draw critically on your own experience and reflect on that in the light of the material presented in this course.
 
-We also expect you to share your findings, your perspectives and your experiences with each other through the group work and the online discussion activities. We hope that by #### Workload
+We also expect you to share your findings, your perspectives and your experiences with each other through the group work and the online discussion activities. We hope that by doing this we will all be able to learn from each other.
+
+#### Workload
 Although we will provide you with as much help as we can, do not expect this to be an easy course. You should budget an average of between <strong><span style="color: #000000">eight to twelve hours a week</span></strong> for study; some of you will need even longer, depending how actively you participate in the discussions and the amount of independent research you do on the issues. Twelve hours a week should allow you to cover the course thoroughly. You may of course not have this much time to spare, but you should be able to cover the minimum required within eight to ten hours a week.
 
 Whether or not English is your first language, you will need to be very skilled in reading quickly and selectively, and in writing clearly and succinctly, in English.
