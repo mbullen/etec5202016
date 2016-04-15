@@ -105,9 +105,8 @@ If you have problems in getting your readings, please contact your instructor.
 
 #### Unit 2
 ##### Recommended Readings & Resources
-<ul>
-	<li>Bates, A.W. &amp; Sangrà, A.  (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, pp. 71-75; Chapter 7 and Chapter 8, pp. 182-208<strong><em>.</em></strong></li>
-	<li>Bates, A.W. (2001). <span style="text-decoration: underline;"><a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em>National strategies for e-learning in post-secondary education and training. </em></a></span>Chapter 5. Paris: UNESCO/International Institute for Educational Planning.</li>
+* Bates, A.W. &amp; Sangrà, A.  (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, pp. 71-75; Chapter 7 and Chapter 8, pp. 182-208<strong><em>.</em></strong>
+* Bates, A.W. (2001). <span style="text-decoration: underline;"><a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em>National strategies for e-learning in post-secondary education and training. </em></a></span>Chapter 5. Paris: UNESCO/International Institute for Educational Planning.
 
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2&snapshot=no" target="_blank">Online readings</a>
 
