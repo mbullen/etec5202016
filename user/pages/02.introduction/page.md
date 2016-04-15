@@ -100,16 +100,9 @@ If you have problems in getting your readings, please contact your instructor.
 
 
 ##### Additional Readings & Resources
-<ul>
-	<li>Bullen, M. &amp; Janes, D.P. (2007). Preface. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies and Issues</em>, pp. vii-xvi, Hershey, PA: Information Science Publishing.</li>
-</ul>
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-1R?count=30" num="30"]
+* Bullen, M. &amp; Janes, D.P. (2007). Preface. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies and Issues</em>, pp. vii-xvi, Hershey, PA: Information Science Publishing.</li>
+* <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-1R&snapshot=no" target="_blank">Online readings</a>
 
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-2R?count=30" num="30"]
-
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-3R?count=30" num="30"]
-
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-4R?count=30" num="30"]
 #### Unit 2
 ##### Recommended Readings & Resources
 <ul>
