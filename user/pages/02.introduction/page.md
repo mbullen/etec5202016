@@ -107,54 +107,41 @@ If you have problems in getting your readings, please contact your instructor.
 ##### Recommended Readings & Resources
 * Bates, A.W. &amp; Sangrà, A.  (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, pp. 71-75; Chapter 7 and Chapter 8, pp. 182-208<strong><em>.</em></strong>
 * Bates, A.W. (2001). <span style="text-decoration: underline;"><a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em>National strategies for e-learning in post-secondary education and training. </em></a></span>Chapter 5. Paris: UNESCO/International Institute for Educational Planning.
-
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2&snapshot=no" target="_blank">Online readings</a>
 
 ##### Additional Readings & Resources
-<ul>
-	<li>Haughey, M. (2007). Organizational Models for Faculty Support: The Response of Canadian Universities. In M. Bullen &amp; D.P. Janes (Eds.)<em> Making the Transition to E-Learning: Strategies &amp; Issues</em> (pp. 17-32). Hershey, PA: Information Science Publishing.</li>
-	<li>Wilson, G. (2007). New Skills and Ways of Working: Faculty Development for E-Learning. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies &amp; Issues </em>(pp. 121-138). Hershey, PA: Information Science Publishing.</li>
-
+* Haughey, M. (2007). Organizational Models for Faculty Support: The Response of Canadian Universities. In M. Bullen &amp; D.P. Janes (Eds.)<em> Making the Transition to E-Learning: Strategies &amp; Issues</em> (pp. 17-32). Hershey, PA: Information Science Publishing.
+* Wilson, G. (2007). New Skills and Ways of Working: Faculty Development for E-Learning. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies &amp; Issues </em>(pp. 121-138). Hershey, PA: Information Science Publishing.
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2R&snapshot=no" target="_blank">Online readings</a>
 
 #### Unit 3
 ##### Recommended Readings & Resources
-<ul>
-	<li>Bates, A.W. &amp; Sangrà, A.  (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, chapter 5 (pp. 110-129).</li>
+* Bates, A.W. &amp; Sangrà, A.  (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, chapter 5 (pp. 110-129).
 
 #### Unit 4
 ##### Recommended Readings & Resources
-<ul>
-	<li>Bates, A.W. &amp; Sangrà, A. (2011). <em>Managing Technology: Strategies for Transforming Higher Education.</em>San Francisco: Jossey Bass, pp. 71-74; 102-121; 137-142; 190-20</li>
-
+* Bates, A.W. &amp; Sangrà, A. (2011). <em>Managing Technology: Strategies for Transforming Higher Education.</em>San Francisco: Jossey Bass, pp. 71-74; 102-121; 137-142; 190-20
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-4&snapshot=no" target="_blank">Online readings</a>
 
 ##### Additional Readings & Resources
-<ul>
-	<li>Bates, A.W. (2007). Strategic Planning for E-Learning in a Polytechnic. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies &amp; Issues </em>(pp. 47-65). Hershey, PA: Information Science Publishing.</li>
-	<li>Fritz, R. (1989). <em>The Path of Least Resistance</em>. New York: Columbine, pp.122-138.</li>
-	<li>Kaufman, R. and Herman, J. (1997). ‘Strategic Planning, Schooling, and the Curriculum for Tomorrow’ in Dijkstra, S. et al. <em>Instructional Design: International Perspectives.</em> New York: Lawrence Erlbaum.</li>
-
+* Bates, A.W. (2007). Strategic Planning for E-Learning in a Polytechnic. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies &amp; Issues </em>(pp. 47-65). Hershey, PA: Information Science Publishing.</li>
+	<li>Fritz, R. (1989). <em>The Path of Least Resistance</em>. New York: Columbine, pp.122-138.
+* Kaufman, R. and Herman, J. (1997). ‘Strategic Planning, Schooling, and the Curriculum for Tomorrow’ in Dijkstra, S. et al. <em>Instructional Design: International Perspectives.</em> New York: Lawrence Erlbaum.
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-4-2R&snapshot=no" target="_blank">Online readings</a>
 
 #### Unit 5
 ##### Recommended Readings & Resources
-<ul>
-	<li>Bates, A.W. (2001). <span style="text-decoration: underline;"><a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em>National strategies for e-learning in post-secondary education and training.</em></a> </span>Paris: UNESCO/International Institute for Educational Planning.</li>
-	<li>Bates, A.W. &amp; Sangrà, A. (2011). <em>Managing Technology: Strategies for Transforming Higher Education.</em> San Francisco: Jossey Bass. pp. 228-232</li>
-</ul>
-
+* Bates, A.W. (2001). <span style="text-decoration: underline;"><a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em>National strategies for e-learning in post-secondary education and training.</em></a> </span>Paris: UNESCO/International Institute for Educational Planning.
+* Bates, A.W. &amp; Sangrà, A. (2011). <em>Managing Technology: Strategies for Transforming Higher Education.</em> San Francisco: Jossey Bass. pp. 228-232.
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-5R&snapshot=no" target="_blank">Online readings</a>
 
 #### Unit 6
 ##### Recommended Readings &amp; Resources
-
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-6&snapshot=no" target="_blank">Online readings</a>
 
 ##### Additional Reading
-<ul>
-	<li>Kelly, O. (2007). Moving to Blended Delivery in a Polytechnic: Shifting the Mindset of Faculty and Institutions. In M. Bullen and D.P. Janes (Eds.), <em>Making the Transition to E-Learning: Strategies and Issues</em>, pp. 33-46, Hershey, PA: Information Science Publishing.</li>
-</ul>
+* Kelly, O. (2007). Moving to Blended Delivery in a Polytechnic: Shifting the Mindset of Faculty and Institutions. In M. Bullen and D.P. Janes (Eds.), <em>Making the Transition to E-Learning: Strategies and Issues</em>, pp. 33-46, Hershey, PA: Information Science Publishing.
+
 ### Resources & Support <a name="resources-&-support"></a>
 #### Library Services
 
