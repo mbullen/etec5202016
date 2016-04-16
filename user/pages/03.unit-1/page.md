@@ -172,9 +172,9 @@ You might want to also take a look at some of the videos on open educational res
 	<li>Do you think it makes sense to think of open education as e-learning?</li>
 </ol>
 #### Recommended Reading & Resources
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-1?count=15/" num="10"]
+* <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-1-1&snapshot=no" target="_blank">Online readings</a>
 #### Additional Reading &amp; Resources
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-1R?count=15/" num="10"]
+* <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-1-1R&snapshot=no" target="_blank">Online readings</a>
 
 ### 1.2 Rationales for E-Learning <a name="rationales"></a>
 <a href="http://blogs.ubc.ca/etec5202015/files/2011/08/hourglass-icon1-e1403212651814.jpg"><img class="alignleft wp-image-3038 size-full" src="http://blogs.ubc.ca/etec5202015/files/2011/08/hourglass-icon1-e1403212651814.jpg" alt="hourglass icon" width="55" height="55" /></a>
@@ -245,12 +245,10 @@ However, instructors, particularly in Canada, need to be aware of the privacy im
 Read pp. 25-40 of Bates &amp; Sangrà for an overview of some of the available e-learning technologies. Keep in mind, this book is now at least three years old so things have changed.</strong></em>
 
 #### Recommended Reading & Resources
-<ul>
-	<li>Bates, A.W. &amp; Sangrà, A. (2011.) <em>Managing Technology in Higher Education: Strategies for Transforming Teaching &amp; Learning. </em>San Francisco: Jossey-Bass. pp. 25-40.</li>
-</ul>
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-3?count=15/" num="10" ]
+* Bates, A.W. &amp; Sangrà, A. (2011.) <em>Managing Technology in Higher Education: Strategies for Transforming Teaching &amp; Learning. </em>San Francisco: Jossey-Bass. pp. 25-40.
+* <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-1-3&snapshot=no" target="_blank">Online readings</a>
 <h3>Additional Reading &amp; Resources</h3>
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-3R?count=15/" num="10" ]
+* <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-1-3R&snapshot=no" target="_blank">Online readings</a>
 
 ### Implications for Teaching and Learning <a name="teachinglearning"></a>
 Using e-learning effectively, even at an individual level, has significant implications for how our courses and programs are designed. Access, costs and quality are the main issues we are trying to address in using e-learning but none of these will be adequately addressed if we simply add technology or e-learning to our current way of doing business. E-learning is expensive. There are significant human resource and technology hardware and software costs associated with it. So we need to integrate e-learning, not simply add it to our existing ways of teaching . This means redesigning our teaching so that the affordances of the different technologies and modes of delivery are exploited appropriately.
@@ -280,17 +278,12 @@ Read sections 1.7 and 1.8 and 2.4 of <em>Teaching in a Digital Age</em> by Tony 
 <p style="text-align: center;"><iframe src="http://www.youtube.com/embed/Y5UktFLzlyg" width="420" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 
 #### Recommended Readings & Resources
-<ol>
-<ul>
-	<li>Bates, A.W. &amp; Sangrà, A. (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching &amp; Learning.</em> San Francisco: Jossey Bass. pp. 40-51</li>
-</ul>
-</ol>
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-4?count=15/" num="10"]
+* Bates, A.W. &amp; Sangrà, A. (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching &amp; Learning.</em> San Francisco: Jossey Bass. pp. 40-51.
+* <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-1-4&snapshot=no" target="_blank">Online readings</a>
+
 #### Additional Readings & Resources
-
 <a href="http://blogs.ubc.ca/etec520/files/2011/08/diy.jpg"><img class="size-full wp-image-1789 alignleft" style="border: 0pt none; margin: 0px;" src="http://blogs.ubc.ca/etec520/files/2011/08/diy.jpg" alt="" width="115" height="115" /></a>Anya Kamenetz has written an excellent critique of the US higher education system. In chapter 4, of <a href="http://www.amazon.ca/DIY-Edupunks-Edupreneurs-Transformation-Education/dp/1603582347/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1265385331&amp;sr=8-1" target="_blank"><em>DIY U: Edupunks, Edupreneurs, and the Coming Transformation of Higher Education.</em></a>she addresses the implications for teaching and learning of making greater and more effective use of learning technologies. This chapter is directly relevant to our discussion but I recommend the entire book. It is relatively short and a fairly easy read.
-
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-4R?count=15/" num="10"]
+* <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-1-4R&snapshot=no" target="_blank">Online readings</a>
 
 ### Conclusion <a name="conclusion"></a>
 In this unit we have tried to clarify what the term e-learning means, what are some of the key rationales for using e-learning, and the implications for teaching and learning. We suggest e-learning is best viewed as a continuum of possibilities for increasing the amount technology-mediated learning and that, as this increases, the nature of teaching and learning, and how it is organized and delivered, changes significantly.
