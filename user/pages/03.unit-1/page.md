@@ -216,8 +216,7 @@ So it's important to have a good rationale for using e-learning but the rational
 
 <strong><em><a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a></em></strong><strong><em>
 </em></strong>Now re-read the articles by Guri-Rosenblit and Sinclair, McClaren and Griffin. Pay particular attention to pp. 478-486 of Guri-Rosenblit which deals with erroneous assumptions about e-learning.
-
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-2?count=15/" num="10"]
+* <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-1-2-1&snapshot=no" target="_blank">Online readings</a>
 
 #### Question for Reflection
 <ol>
@@ -227,7 +226,7 @@ So it's important to have a good rationale for using e-learning but the rational
 	<li>What is your view of Guri-Rosenblit's claim that most of the sweeping predictions about e-learning are based on some erroneous assumptions?</li>
 </ol>
 
-### Overview of Learning Technologies <a name="learningtechnologies"></a>
+### 1.3 Overview of Learning Technologies <a name="learningtechnologies"></a>
 
 <a href="http://blogs.ubc.ca/etec5202015/files/2011/08/hourglass-icon1-e1403212651814.jpg"><img class="alignleft wp-image-3038 size-full" src="http://blogs.ubc.ca/etec5202015/files/2011/08/hourglass-icon1-e1403212651814.jpg" alt="" width="55" height="55" /></a>
 <strong>We recommend that you spend 1-2 hours on this section.</strong>
@@ -251,7 +250,7 @@ Read pp. 25-40 of Bates &amp; Sangrà for an overview of some of the available e
 <h3>Additional Reading &amp; Resources</h3>
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-1-3R&snapshot=no" target="_blank">Online readings</a>
 
-### Implications for Teaching and Learning <a name="teachinglearning"></a>
+### 1.4 Implications for Teaching and Learning <a name="teachinglearning"></a>
 Using e-learning effectively, even at an individual level, has significant implications for how our courses and programs are designed. Access, costs and quality are the main issues we are trying to address in using e-learning but none of these will be adequately addressed if we simply add technology or e-learning to our current way of doing business. E-learning is expensive. There are significant human resource and technology hardware and software costs associated with it. So we need to integrate e-learning, not simply add it to our existing ways of teaching . This means redesigning our teaching so that the affordances of the different technologies and modes of delivery are exploited appropriately.
 
 In this video presentation Dr. Ruben Puentedura explains three models of technology or e-learning integration that will help you understand some of the implications for teaching and learning.
@@ -286,7 +285,7 @@ Read sections 1.7 and 1.8 and 2.4 of <em>Teaching in a Digital Age</em> by Tony 
 <a href="http://blogs.ubc.ca/etec520/files/2011/08/diy.jpg"><img class="size-full wp-image-1789 alignleft" style="border: 0pt none; margin: 0px;" src="http://blogs.ubc.ca/etec520/files/2011/08/diy.jpg" alt="" width="115" height="115" /></a>Anya Kamenetz has written an excellent critique of the US higher education system. In chapter 4, of <a href="http://www.amazon.ca/DIY-Edupunks-Edupreneurs-Transformation-Education/dp/1603582347/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1265385331&amp;sr=8-1" target="_blank"><em>DIY U: Edupunks, Edupreneurs, and the Coming Transformation of Higher Education.</em></a>she addresses the implications for teaching and learning of making greater and more effective use of learning technologies. This chapter is directly relevant to our discussion but I recommend the entire book. It is relatively short and a fairly easy read.
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-1-4R&snapshot=no" target="_blank">Online readings</a>
 
-### Conclusion <a name="conclusion"></a>
+### 1.5 Conclusion <a name="conclusion"></a>
 In this unit we have tried to clarify what the term e-learning means, what are some of the key rationales for using e-learning, and the implications for teaching and learning. We suggest e-learning is best viewed as a continuum of possibilities for increasing the amount technology-mediated learning and that, as this increases, the nature of teaching and learning, and how it is organized and delivered, changes significantly.
 
 While a number of rationlaes for using e-learning have been put forward, addressing quality, access and costs are, in our view, the most important and legitimate reasons for using e-learning. With these reasons in mind, it is essential that we integrate e-learning properly in a way that maximizes the affordances of the different technologies and modes of deliveries. If we don't do this, costs will rise, access will not be increased and quality may not be improved. So we emphasize that <strong>e-learning is more than just enhancing teaching with technology. It implies re-thinking and re-designing learning and reorganizaing institutions. It is, by definition, about integrating learning technologies into teaching and learning, not simply using them to enhance existing approaches.</strong>
