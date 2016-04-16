@@ -247,6 +247,7 @@ Read pp. 25-40 of Bates &amp; Sangrà for an overview of some of the available e
 #### Recommended Reading & Resources
 * Bates, A.W. &amp; Sangrà, A. (2011.) <em>Managing Technology in Higher Education: Strategies for Transforming Teaching &amp; Learning. </em>San Francisco: Jossey-Bass. pp. 25-40.
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-1-3&snapshot=no" target="_blank">Online readings</a>
+
 #### Additional Reading &amp; Resources
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-1-3R&snapshot=no" target="_blank">Online readings</a>
 
