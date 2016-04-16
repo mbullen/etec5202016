@@ -204,8 +204,9 @@ If you need more convincing, see  <a href="http://netgenskeptic.org/" target="_b
 
 <a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a><strong>
 Reading</strong>
-<a href="http://steve-wheeler.blogspot.ca/2011/11/convenient-untruth.html" target="_blank">A Convenient UnTruth by Steve Wheeler</a>
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-1-2-1?count=15/" num="10"]
+* <a href="http://steve-wheeler.blogspot.ca/2011/11/convenient-untruth.html" target="_blank">A Convenient UnTruth by Steve Wheeler</a>
+* <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-1-2-1&snapshot=no" target="_blank">Online readings</a>
+
 #### The 21st Century Skills Argument
 Bates &amp; Sangra talk about the growth of knowledge-based companies and how these differ from typical industrial businesses and require workers with different skills, but the examples given are almost always technology companies. What percentage of the workforce is employed in this sector? Do we exaggerate the importance of the knowledge sector? My concern with this argument is that it assumes that everybody will need to be a "knowledge worker" in the 21st century when, in fact, there is evidence a significant part of the knowledge economy workforce doesn't need these so-called 21st century skills (see Brown et al. 2011). As Selwyn (2013) notes, <em>"At best, most of the 'informational' jobs of the twenty-first-century would seem to be centred around technology-based divisions of labour where most workers are no longer expected to exercise independent judgement or contribute creatively to the value-adding process"</em> (p. 153). Think of the thousands of people working in Amazon's warehouses or call-centre workers around the world.
 
