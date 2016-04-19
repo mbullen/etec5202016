@@ -242,6 +242,7 @@ In addition to faculty training, Bates &amp; Sangrà call for training of middle
 <a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a>
 
 Read Bates, A.W. &amp; Sangrà, A.  (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, pp. 190-208<strong><em>.
+
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2-5-1&snapshot=no" target="_blank">Online readings</a>
 
 The optional chapter by Wilson (2007) provides a broader perspective on faculty development for e-learning by reviewing the approaches used at a number of different institutions. The strategies include focusing on the characteristic of the innovation, adopting a staged approach to skills acquisition, embedding skills and processes associated with teaching and learning in the e-learning context in formal, accredited courses; fostering peer learning; framing faculty development as project-based learning; and using the online environment to deliver faculty development.
