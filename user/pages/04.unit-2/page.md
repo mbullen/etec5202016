@@ -260,9 +260,7 @@ The following are readiness surveys for instructors and students that will give 
 <a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a><strong>Reading</strong>
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2-5-2&snapshot=no" target="_blank">Online readings</a>
 #### Additional Reading
-<ul>
-	<li>Wilson, G. (2007). New Skills and Ways of Working: Faculty Development for E-Learning. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies &amp; Issues </em>(pp. 121-138). Hershey, PA: Information Science Publishing.</li>
-</ul>
+* Wilson, G. (2007). New Skills and Ways of Working: Faculty Development for E-Learning. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies &amp; Issues </em>(pp. 121-138). Hershey, PA: Information Science Publishing.
 
 ### 2.6 Planning <a name="planning"></a>
 The conventional wisdom around e-learning is that for it to be sustainable and cost-effective there must be an institutional strategic plan for e-learning which is nested within the institution’s overall strategic plan. As I mentioned in the introduction, when I started teaching this course, I subscribed wholeheartedly to this view. But, over the years, my thinking has changed. My experience working in and with different institutions has led me to the conclusion that strategic planning for e-learning may not be necessary in all cases and may not produce the results that proponents think it will. Certainly an institutional e-learning strategy is not a precondition for e-learning as there are many examples of organizations that are using e-learning quite successfully without one. Now I haven't rejected strategic planning for e-learning but I do think we need to be much more flexible in our thinking about this and accept that different contexts demand different approaches.
