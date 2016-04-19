@@ -2,14 +2,12 @@
   {% for p in page.children.visible %}
     {% set current_page = (p.active or p.activeChild) ? 'active' : '' %}
   <li class="{{ current_page }}">
-      {% if page.folder != '01.home' %}
-        <a href="{{ p.url }}">
-          {% if p.header.icon %}
-            <i class="fa fa-{{ p.header.icon }}"></i>
-          {% endif %}
-          {{ p.menu }}
-        </a>
-        {% endif %}
+    <a href="{{ p.url }}">
+      {% if p.header.icon %}
+        <i class="fa fa-{{ p.header.icon }}"></i>
+      {% endif %}
+      {{ p.menu }}
+    </a>
     {% if p.children.visible.count > 0 %}
       <ul class="vertical menu submenu">
         {{ _self.loop(p) }}
@@ -27,14 +25,12 @@
     {% for page in pages.children.visible %}
       {% set current_page = (page.active or page.activeChild) ? 'active' : '' %}
       <li class="{{ current_page }}">
-        {% if page.folder != '01.home' %}
-            <a href="{{ page.url }}">
-              {% if page.header.icon %}
-                <i class="fa fa-{{ page.header.icon }}"></i>
-              {% endif %}
-              {{ page.menu }}
-            </a>
-        {% endif %}
+        <a href="{{ page.url }}">
+          {% if page.header.icon %}
+            <i class="fa fa-{{ page.header.icon }}"></i>
+          {% endif %}
+          {{ page.menu }}
+        </a>
       </li>
     {% endfor %}
   {% endif %}

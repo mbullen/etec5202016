@@ -1,3 +1,15 @@
+# v1.1.0
+## 04/18/2016
+
+1. [](#improved)
+    * Updated navbar styling
+
+# v1.0.3
+## 04/14/2016
+
+1. [](#bugfix)
+    * Restored Error and Problems plugins as dependencies
+
 # v1.0.2
 ## 04/14/2016
 
