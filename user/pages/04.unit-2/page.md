@@ -121,9 +121,7 @@ These ideas are explained in more detail in chapter 7 of Bates &amp; Sangrà.
 Bates, A.W. (2001). <span style="text-decoration: underline;"><a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em>National strategies for e-learning in post-secondary education and training. </em></a></span>Chapter 5. Paris: UNESCO/International Institute for Educational Planning.
 #### Additional Reading
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2-1R&snapshot=no" target="_blank">Online readings</a>
-<ul>
-	<li>Anya Kamenetz has written an excellent critique of the US higher education system. In chapters 3 and 4, of <a href="http://www.amazon.ca/DIY-Edupunks-Edupreneurs-Transformation-Education/dp/1603582347/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1265385331&amp;sr=8-1" target="_blank"><em>DIY U: Edupunks, Edupreneurs, and the Coming Transformation of Higher Education. </em></a>She examines some of the reasons for the spiraling cost of higher education in the US. She makes some interesting recommendations for how to address them that include the innovative use of e-learning.</li>
-</ul>
+* Anya Kamenetz has written an excellent critique of the US higher education system. In chapters 3 and 4, of <a href="http://www.amazon.ca/DIY-Edupunks-Edupreneurs-Transformation-Education/dp/1603582347/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1265385331&amp;sr=8-1" target="_blank"><em>DIY U: Edupunks, Edupreneurs, and the Coming Transformation of Higher Education. </em></a>She examines some of the reasons for the spiraling cost of higher education in the US. She makes some interesting recommendations for how to address them that include the innovative use of e-learning.
 In these two short presentations, Anya Kamentz talks about some of issues around the rising cost of higher education and offers some solutions.
 
 <iframe src="http://www.youtube.com/embed/8e1uDemLJmc" width="420" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
