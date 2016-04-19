@@ -295,6 +295,11 @@ Davis, Little and Stewart (2014) provide another perspective on some of the key 
 
 The 2013 EDUCAUSE report, <em>The State of E-learning Higher Education </em>reports on a survey of higher education institutions in the United States and where they stand in terms of their use of e-learning. It identifies the challenges that are facing institutions as they attempt to implement e-learning and makes some interesting recommendations for what institutions need to do to make effective use of e-learning. This report covers many of the issues that we touch  on in this unit as well as units 3, 4 and 6.
 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
 <a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a>
 
 * Bates &amp; Sangrà, pp. 71-75
