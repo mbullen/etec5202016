@@ -73,10 +73,8 @@ Week 5
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2&snapshot=no" target="_blank">Online readings</a>
 
  ### Additional Reading &amp; Resources
-<ul>
-	<li>Haughey, M. (2007). Organizational Models for Faculty Support: The Response of Canadian Universities. In M. Bullen &amp; D.P. Janes (Eds.)<em> Making the Transition to E-Learning: Strategies &amp; Issues</em> (pp. 17-32). Hershey, PA: Information Science Publishing.</li>
-	<li>Wilson, G. (2007). New Skills and Ways of Working: Faculty Development for E-Learning. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies &amp; Issues </em>(pp. 121-138). Hershey, PA: Information Science Publishing.</li>
-</ul>
+* Haughey, M. (2007). Organizational Models for Faculty Support: The Response of Canadian Universities. In M. Bullen &amp; D.P. Janes (Eds.)<em> Making the Transition to E-Learning: Strategies &amp; Issues</em> (pp. 17-32). Hershey, PA: Information Science Publishing.
+* Wilson, G. (2007). New Skills and Ways of Working: Faculty Development for E-Learning. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies &amp; Issues </em>(pp. 121-138). Hershey, PA: Information Science Publishing.
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2-1R&snapshot=no" target="_blank">Online readings</a>
 
 ### Key Points <a name="keypoints"></a>
