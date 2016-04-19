@@ -241,7 +241,7 @@ In addition to faculty training, Bates &amp; Sangrà call for training of middle
 
 <a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a>
 
-Read Bates, A.W. &amp; Sangrà, A.  (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, pp. 190-208<strong><em>.
+Read Bates, A.W. &amp; Sangrà, A.  (2011). Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, pp. 190-208.
 
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2-5-1&snapshot=no" target="_blank">Online readings</a>
 
