@@ -297,8 +297,7 @@ The 2013 EDUCAUSE report, <em>The State of E-learning Higher Education </em>repo
 
 <a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a>
 
-<strong>Bates &amp; Sangrà, pp. 71-75
-</strong><
+* Bates &amp; Sangrà, pp. 71-75
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2-8&snapshot=no" target="_blank">Online readings</a>
 
 ### 2.9 Conclusion <a name="conclusion"></a>
