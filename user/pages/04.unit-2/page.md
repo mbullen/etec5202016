@@ -71,20 +71,15 @@ Week 5
 <ul>
 	<li>Bates, A.W. &amp; Sangrà, A.  (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, pp. 71-75; Chapter 7 and Chapter 8, pp. 182-208<strong><em>.</em></strong></li>
 	<li>Bates, A.W. (2001). <span style="text-decoration: underline;"><a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em>National strategies for e-learning in post-secondary education and training. </em></a></span>Chapter 5. Paris: UNESCO/International Institute for Educational Planning.</li>
-</ul>
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-2-4?count=30" num="30"]
 
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-2-5?count=30" num="30"]
+ * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2&snapshot=no" target="_blank">Online readings</a>
 
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-2-5-2?count=30" num="30"]
-
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-2-8?count=30" num="30"]
 ### Additional Reading &amp; Resources
 <ul>
 	<li>Haughey, M. (2007). Organizational Models for Faculty Support: The Response of Canadian Universities. In M. Bullen &amp; D.P. Janes (Eds.)<em> Making the Transition to E-Learning: Strategies &amp; Issues</em> (pp. 17-32). Hershey, PA: Information Science Publishing.</li>
 	<li>Wilson, G. (2007). New Skills and Ways of Working: Faculty Development for E-Learning. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies &amp; Issues </em>(pp. 121-138). Hershey, PA: Information Science Publishing.</li>
 </ul>
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-2-1R?count=30" num="30"]
+* <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2-1R&snapshot=no" target="_blank">Online readings</a>
 
 ### Key Points <a name="keypoints"></a>
 Too often e-learning readiness is viewed in strictly technical terms. Does the organization have the necessary technical infrastructure? Does it have a learning management system?  Sufficient bandwidth? But if there is one key point we would like you take away from this unit, it is that e-learning readiness is much more than just a technical issue. It is a multi-faceted issue that encompasses a wide range of organizational, pedagogical and administrative factors as well as the technical issues. Ideally, the first step in implementing e-learning in an organization will be an assessment of that organization's readiness. The key readiness issues include:
@@ -129,7 +124,7 @@ These ideas are explained in more detail in chapter 7 of Bates &amp; Sangrà.
 
 Bates, A.W. (2001). <span style="text-decoration: underline;"><a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em>National strategies for e-learning in post-secondary education and training. </em></a></span>Chapter 5. Paris: UNESCO/International Institute for Educational Planning.
 #### Additional Reading
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-2-1R?count=15/" num="10"]
+* <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2-1R&snapshot=no" target="_blank">Online readings</a>
 <ul>
 	<li>Anya Kamenetz has written an excellent critique of the US higher education system. In chapters 3 and 4, of <a href="http://www.amazon.ca/DIY-Edupunks-Edupreneurs-Transformation-Education/dp/1603582347/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1265385331&amp;sr=8-1" target="_blank"><em>DIY U: Edupunks, Edupreneurs, and the Coming Transformation of Higher Education. </em></a>She examines some of the reasons for the spiraling cost of higher education in the US. She makes some interesting recommendations for how to address them that include the innovative use of e-learning.</li>
 </ul>
@@ -220,7 +215,9 @@ Research universities aren't the only institutions that face these barriers. One
 <a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a>
 <strong>Read Bates, A.W. &amp; Sangrà, A. (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching &amp; Learning</em>. San Francisco: Jossey-Bass, pp. 182-190. (The beginning of Chapter 8 to the subhead <em>Training in Technology and Teaching</em>.)</strong>
 
-<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a><strong>Read </strong>chapter 24 of:  [rss feed="https://www.diigo.com/rss/user/markbullen/etec520-2-4?count=15/" num="10"]
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a><strong>Read </strong>
+<a href="http://www.box.net/shared/r53j4jtl4x" target="_blank">When Worlds Collide: Project Management and the Collegial Culture</a>
+
 In this  chapter I use the situation at UBC in the early 2000's to illustrate how organizational cultural issues can affect the implementation of e-learning and distance education in a research university.
 
 #### Reference
@@ -251,8 +248,7 @@ In addition to faculty training, Bates &amp; Sangrà call for training of middle
 <a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a>
 
 Read Bates, A.W. &amp; Sangrà, A.  (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, pp. 190-208<strong><em>.
-</em></strong>[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-2-5-1?count=15/" num="10"]<strong><em>
-</em></strong>
+* <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2-5-1&snapshot=no" target="_blank">Online readings</a>
 
 The optional chapter by Wilson (2007) provides a broader perspective on faculty development for e-learning by reviewing the approaches used at a number of different institutions. The strategies include focusing on the characteristic of the innovation, adopting a staged approach to skills acquisition, embedding skills and processes associated with teaching and learning in the e-learning context in formal, accredited courses; fostering peer learning; framing faculty development as project-based learning; and using the online environment to deliver faculty development.
 #### Learner Readiness
@@ -267,7 +263,7 @@ The following are readiness surveys for instructors and students that will give 
 <a href="https://weblearning.psu.edu/FacultySelfAssessment/" target="_blank">Faculty Self-Assessment: Preparing for Online Teaching</a>
 
 <a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a><strong>Reading</strong>
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-2-5-2?count=15/" num="10"]
+* <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2-5-2&snapshot=no" target="_blank">Online readings</a>
 #### Additional Reading
 <ul>
 	<li>Wilson, G. (2007). New Skills and Ways of Working: Faculty Development for E-Learning. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies &amp; Issues </em>(pp. 121-138). Hershey, PA: Information Science Publishing.</li>
@@ -309,10 +305,8 @@ The 2013 EDUCAUSE report, <em>The State of E-learning Higher Education </em>repo
 <a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a>
 
 <strong>Bates &amp; Sangrà, pp. 71-75
-</strong><strong>
-</strong>
-
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-2-8?count=15/" num="10"]
+</strong><
+* <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2-8&snapshot=no" target="_blank">Online readings</a>
 
 ### 2.9 Conclusion <a name="conclusion"></a>
 
