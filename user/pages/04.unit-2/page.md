@@ -30,15 +30,14 @@ fontawesome: use_global
 * [2.9 Conclusion](#conclusion)
 <hr/>
 In this unit we start to get at the "meat" of the course: what  organizations need to do to get ready for e-learning. E-learning is a costly endeavour and unless organizations prepare adequately before implementing it they will not reap its full benefits. The key readiness issues include:
-<ul>
-	<li>Costs and funding</li>
-	<li>IT infrastructure</li>
-	<li>Organizational culture</li>
-	<li>Planning</li>
-	<li>Faculty readiness</li>
-	<li>Learner readiness</li>
-	<li>Organizational structure</li>
-</ul>
+
+* Costs and funding
+* IT infrastructure
+* Organizational culture
+* Planning
+* Faculty readiness
+* Learner readiness
+* Organizational structure
 With a proper understanding of the key readiness factors, you should be able to asses your own organization to determine how ready it is for e-learning.
 
 ### Learning Outcomes <a name="outcomes"></a>
