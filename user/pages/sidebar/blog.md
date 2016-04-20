@@ -27,6 +27,7 @@ fontawesome: use_global
 [Blackboard Connect Site](https://shibboleth2.id.ubc.ca/idp/Authn/UserPassword)  
 <a href = "https://connect.ubc.ca/webapps/ubc-ctc-learn-ui-b2-BBLEARN/execute/shibbolethLogin?authProviderId=_162_1&returnUrl=https%3A%2F%2Fconnect.ubc.ca%2Fwebapps%2Fblackboard%2Fcontent%2FlistContentEditable.jsp%3Fcontent_id%3D_3149399_1%26course_id%3D_73019_1%26mode%3Dreset"target="_blank">Assignment Dropbox</a>  
 <a href = "https://connect.ubc.ca/webapps/ubc-ctc-learn-ui-b2-BBLEARN/execute/shibbolethLogin?authProviderId=_162_1&returnUrl=https%3A%2F%2Fconnect.ubc.ca%2Fwebapps%2Fblackboard%2Fcontent%2FlaunchLink.jsp%3Fcourse_id%3D_73019_1%26tool_id%3D_143_1%26tool_type%3DTOOL%26mode%3Dcpview%26mode%3Dreset"target="_blank">Discussion Forums</a>  
+
 Course Instructors](http://localhost:8888/grav-skeleton-course-hub-site/instructor-bios)  
 [CTLT Help Desk](http://support.olt.ubc.ca/de/)  
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c994e925ec8b2d"></script>
