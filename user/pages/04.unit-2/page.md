@@ -239,11 +239,8 @@ They recommend a one-year, intensive, mandatory, pre-service training program th
 </ul>
 In addition to faculty training, Bates &amp; Sangrà call for training of middle and senior level managers so they are better equipped to make decisions related to educational technology and e-learning.
 
-<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a>
-
-Read, Bates, A.W. &amp; Sangrà, A.  (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, pp. 190-208.
-
-* <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2-5-1&snapshot=no" target="_blank">Online readings</a>
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Bates, A.W. &amp; Sangrà, A.  (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, pp. 190-208. <br> <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2-5-1&snapshot=no" target="_blank">Online readings</a>
+--- | ---
 
 The optional chapter by Wilson (2007) provides a broader perspective on faculty development for e-learning by reviewing the approaches used at a number of different institutions. The strategies include focusing on the characteristic of the innovation, adopting a staged approach to skills acquisition, embedding skills and processes associated with teaching and learning in the e-learning context in formal, accredited courses; fostering peer learning; framing faculty development as project-based learning; and using the online environment to deliver faculty development.
 #### Learner Readiness
@@ -257,8 +254,9 @@ The following are readiness surveys for instructors and students that will give 
 </a><a href="https://app.box.com/s/1z3lehh1jbtmrfd22zni" target="_blank">Instructor E-Learning Readiness Survey</a>
 <a href="https://weblearning.psu.edu/FacultySelfAssessment/" target="_blank">Faculty Self-Assessment: Preparing for Online Teaching</a>
 
-<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a><strong>Reading</strong>
-* <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2-5-2&snapshot=no" target="_blank">Online readings</a>
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Bates &amp; Sangrà, pp. 71-75 <br> <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2-5-2&snapshot=no" target="_blank">Online readings</a>
+--- | ---
+
 #### Additional Reading
 * Wilson, G. (2007). New Skills and Ways of Working: Faculty Development for E-Learning. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies &amp; Issues </em>(pp. 121-138). Hershey, PA: Information Science Publishing.
 
