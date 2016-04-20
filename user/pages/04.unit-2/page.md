@@ -173,11 +173,7 @@ If you are interested in learning more about these six cultures, you should get 
 	<li>Do you think that large research universities are capable of changing enough to make e-learning a significant and sustainable part of their teaching? What are your reasons?</li>
 </ol>
 #### Reference
-<div>
-
-Bergquist, W.H. &amp; Pawlak, K. (2008). <em>Engaging the Six Cultures of the Academy.</em> San Francisco: Jossey Bass.
-
-</div>
+* Bergquist, W.H. &amp; Pawlak, K. (2008). <em>Engaging the Six Cultures of the Academy.</em> San Francisco: Jossey Bass.
 
 ### 2.4 The Impact of Organizational Culture <a name="cultureimpact"></a>
 #### Cultural Conflict
