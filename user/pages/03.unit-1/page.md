@@ -177,6 +177,7 @@ You might want to also take a look at some of the videos on open educational res
 </ol>
 #### Recommended Reading & Resources
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-1-1&snapshot=no" target="_blank">Online readings</a>
+
 #### Additional Reading &amp; Resources
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-1-1R&snapshot=no" target="_blank">Online readings</a>
 
