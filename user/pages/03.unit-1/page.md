@@ -37,8 +37,6 @@ I am not going to suggest that there is one correct definition of e-learning but
 
 Just as important is to recognize that there can be a variety of different rationales for using e-learning. Again, there is no correct rationale, although an argument can be made that some are better than others. The main point is that to plan effectively for e-learning we need to be clear about why we are proposing to use it and what we mean by the term.
 
-<a href = "https://connect.ubc.ca/webapps/ubc-ctc-learn-ui-b2-BBLEARN/execute/shibbolethLogin?authProviderId=_162_1&returnUrl=https%3A%2F%2Fconnect.ubc.ca%2Fwebapps%2Fblackboard%2Fcontent%2FlistContentEditable.jsp%3Fcontent_id%3D_3149399_1%26course_id%3D_73019_1%26mode%3Dreset"target="_blank">Assignment Dropbox Test Link</a>
-
 ### Learning Outcomes <a name="outcomes"></a>
 After completing this unit you should be able to:
 <ol>
