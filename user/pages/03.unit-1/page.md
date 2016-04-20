@@ -271,6 +271,7 @@ In this video presentation Dr. Ruben Puentedura explains three models of technol
 In his latest book, Bates (2014) argues that technology is having a growing impact on the core teaching activities of the university. He suggests there are number of key trends that suggest e-learning is moving from the periphery to the centre. These include the growth in for credit, fully-online learning, growing  use of blended or mixed-mode approaches (more recently called "the flipped classroom"), and growing interest in open learning and MOOCs.
 
 Bates also devotes a large part of chapter 2 of his new book discussing the impact of technology on the nature of knowledge and points to arguments that knowledge is now more of a process than product, the result of the interactions between people rather than the product of individual minds.
+
 <a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Read sections 1.7 and 1.8 and 2.4 of <em>Teaching in a Digital Age</em> by Tony Bates. See the links below under <em>Recommended Readings &amp; Resources</em>.
 --- | ---
 
