@@ -38,6 +38,7 @@ In this unit we start to get at the "meat" of the course: what  organizations ne
 * Faculty readiness
 * Learner readiness
 * Organizational structure
+
 With a proper understanding of the key readiness factors, you should be able to asses your own organization to determine how ready it is for e-learning.
 
 ### Learning Outcomes <a name="outcomes"></a>
