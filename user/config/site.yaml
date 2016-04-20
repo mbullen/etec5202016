@@ -31,6 +31,6 @@ icon:
   post: calendar-o
 github:
   location: page
-  tree: 'https://github.com/mbullen/grav-skeleton-course-hub-site/edit/master/user/'
+  tree: 'https://github.com/mbullen/etec5202016/edit/master/user/'
 rssbutton:
   display: true
