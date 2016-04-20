@@ -114,11 +114,8 @@ Business plans allow us to identify the costs of developing and delivering a pro
 
 These ideas are explained in more detail in chapter 7 of Bates &amp; Sangrà.
 
-<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a>
-<strong>Readings
-</strong>Bates, A.W. &amp; Sangrà, A. (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning.</em> San Francisco: Jossey Bass, chapter 7.
-
-Bates, A.W. (2001). <span style="text-decoration: underline;"><a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em>National strategies for e-learning in post-secondary education and training. </em></a></span>Chapter 5. Paris: UNESCO/International Institute for Educational Planning.
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Bates, A.W. &amp; Sangrà, A. (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning.</em> San Francisco: Jossey Bass, chapter 7. <br> ates, A.W. (2001). <span style="text-decoration: underline;"><a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em>National strategies for e-learning in post-secondary education and training. </em></a></span>Chapter 5. Paris: UNESCO/International Institute for Educational Planning.
+--- | ---
 #### Additional Reading
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2-1R&snapshot=no" target="_blank">Online readings</a>
 * Anya Kamenetz has written an excellent critique of the US higher education system. In chapters 3 and 4, of <a href="http://www.amazon.ca/DIY-Edupunks-Edupreneurs-Transformation-Education/dp/1603582347/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1265385331&amp;sr=8-1" target="_blank"><em>DIY U: Edupunks, Edupreneurs, and the Coming Transformation of Higher Education. </em></a>She examines some of the reasons for the spiraling cost of higher education in the US. She makes some interesting recommendations for how to address them that include the innovative use of e-learning.
