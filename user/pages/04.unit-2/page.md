@@ -290,9 +290,6 @@ The 2013 EDUCAUSE report, <em>The State of E-learning Higher Education </em>repo
 <a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Bates, A.W. & Sangrà, A. (2011). Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning. San Francisco: Jossey Bass, pp. 71-75.<br> <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2-8&snapshot=no" target="_blank">Online readings</a>
 --- | ---
 
-<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Bates, A.W. & Sangrà, A. (2011). Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning. San Francisco: Jossey Bass, pp. 71-75. <br> <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2-5-2&snapshot=no" target="_blank">Online readings</a>
---- | ---
-
 ### 2.9 Conclusion <a name="conclusion"></a>
 
 In this unit we have tried to give you an overview of the key factors that determine how ready an organization is for e-learning. By analyzing these factors, you can determine what needs to be addressed in an organization to make it "e-learning ready". Some of these factors will be discussed in more depth in later units.
