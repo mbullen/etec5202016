@@ -121,10 +121,9 @@ In a blended environment, fewer face-to-face sessions are held as technology is 
 
 It's also important to understand the relationship between e-learning and distance education. These days distance education is increasingly delivered online but historically it has used other technologies and there is still a considerable amount of distance education that would not be considered e-learning. So, we can have what we call blended e-learning in which there is a combination of face-to-face and technology-mediated teaching or distance education e-learning in which all teaching and learning is done without teacher and learners ever meeting face-to-face. And there can be distance education that is primarily print-based and would not be considered e-learning.
 
-<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Test test
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Read Guri-Rosenblit's (2005) discussion of the overlap and distinction between e-learning and distance education in <em>"Distance Education" and "E-Learning": Not the Same Thing.</em> (See "Recommended Reading &amp; Resources" below).
 --- | ---
 
-Read Guri-Rosenblit's (2005) discussion of the overlap and distinction between e-learning and distance education in <em>"Distance Education" and "E-Learning": Not the Same Thing.</em> (See "Recommended Reading &amp; Resources" below).
 #### Three Types of E-Learning
 <a href="http://www.thelearningalliance.info/WeatherStation.html" target="_blank">Zemsky &amp; Massy (2004) </a>have proposed what we consider to be quite useful framework for understanding e-learning because it allows us to capture a diversity of understandings of the concept in three fairly easy to understand categories.
 
@@ -132,8 +131,9 @@ The three categories are:
 1. E-learning as distance education</li>
 2. E-learning as facilitated transactions software</li>
 3. E-learning as electronically-mediated learning</li>
-<strong><a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft wp-image-3032 size-full" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a></strong><br>
-<strong>Read Zemsky &amp; Massy (2004) for a the details of this framework. (See "Recommended Readings &amp; Resources" below.)</strong>
+
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Read Zemsky &amp; Massy (2004) for the details of this framework. (See "Recommended Readings &amp; Resources" below.)
+--- | ---
 
 #### Three Waves of ICT
 Carl Bereiter and Marlene Scardamalia offer another framework that looks at the use of information and communication technologies (ICT) in education and suggests it is helpful to think of it happening in three waves. Although they use the term ICT, we think their framework can be used to understand how e-learning has diffused through our higher education system.
@@ -144,21 +144,22 @@ Wave 2: In the second wave, the focus shifted to using computers (and e-learning
 
 Wave 3: ICTs as affordances. In the third wave, the focus, according to Berieter and Scardamalia is where it should be: on the educational ideas. It is not so much about integrating technology into educational activities as it is about understanding the potential of various technologies and and designing educational activities that take this into account. The difference between wave 2 and wave 3 is subtle and we suggest you read the Berieter and Scardamallia article to gain a better understanding.
 
-<strong><a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a></strong><br>
-<strong>Read Bereiter &amp; Scardamalia (2006) for a discussion of the three waves of ICT in education. </strong>(See "Recommended Readings &amp; Resources" below.)
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Read Bereiter &amp; Scardamalia (2006) for a discussion of the three waves of ICT in education. (See "Recommended Readings &amp; Resources" below.)
+--- | ---
+
 #### E-Learning as Learning 2.0
 For another perspective, we direct you to an article written by Gerri Sinclair, Milt McClaren and Michael Griffin: <em>E-Learning and Beyond</em>. This article was written as a think piece in support of the Campus 2020 planning process that the Ministry of Advanced Education British Columbia organized in 2006. Sinclair et al. propose what is probably the most radical conception of e-learning. In many ways it is anti-institutional and learner centered in the most extreme sense. Their idea is that the Web 2.0 collaboration and networking technologies allow learners to manage and direct their own learning. Their perspective is framed around the notion of moving from an architecture of presentation to an architecture of participation from web 1.0 to web 2.0 and learning 1.0 to learning 2.0. In Appendix 2 of their article they present a list of institutional e-learning readiness criteria which we will refer to later in the course.
 
-<strong><a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a></strong><br>
-<strong>In addition to reading the Sinclair et al. article, we recommend you read a critique of it by the Confederation of University Faculty Associations: <em>Putting Learning Before Technology. </em></strong>(See "Recommended Readings &amp; Resources" below.)<strong><strong>
-</strong></strong>
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | In addition to reading the Sinclair et al. article, we recommend you read a critique of it by the Confederation of University Faculty Associations: <em>Putting Learning Before Technology. </em></strong>(See "Recommended Readings &amp; Resources" below.)
+--- | ---
+
 #### E-Learning and Open Education
 The final perspective to consider in thinking about what e-learning means, comes from the growing open education (OE) movement. According to its proponents, OE has the potential to radically change education by promoting and facilitating the sharing and reuse of educational resources and pedagogical practices and by making this all freely available to anybody who has Internet access. According to Baraniuk (2008) the OE movement is based on the idea that "knowledge should be free and open to use and reuse; that collaboration should be easier, not harder; that people should receive credit and kudos for contributing to education and research; and that concepts and ideas are linked in unusual and surprising ways and not in the simple linear forms that today's textbooks present" (p. 229).
 
 In many ways the notion of e-learning as open education is philosophically and pedagogically aligned with the perspective offered by Sinclair, McClaren and Griffin in the E-Learning and Beyond.
 
-<strong><a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a><br>
-Read <em>Challenges and Opportunities for the Open Education Movement: A Connexions Case Study</em> to get a deeper understanding of what OE is all about.</strong> (See "Recommended Readings &amp; Resources" below.)
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Read <em>Challenges and Opportunities for the Open Education Movement: A Connexions Case Study</em> to get a deeper understanding of what OE is all about.</strong> (See "Recommended Readings &amp; Resources" below.)
+--- | ---
 
 You might want to also take a look at some of the videos on open educational resources (OER) in the <strong>Resources</strong> section below.
 
@@ -191,8 +192,9 @@ Bates &amp; Sangrà propose five key reasons for using e-learning in higher educ
 	<li>To develop the skill and competencies needed in the 21st Century</li>
 	<li>To Improve cost-effectiveness</li>
 </ol>
-<em><strong><a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a></strong></em>
-Read Chapter 1 of Bates &amp; Sangrà for a detailed discussion of these key reasons. Then continue reading this commentary.
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Read Chapter 1 of Bates &amp; Sangrà for a detailed discussion of these key reasons. Then continue reading this commentary.
+--- | ---
+
 #### Critique of Reasons for Using E-Learning
 While it is important to have a clear and well-supported rationale for using e-learning, it is equally important that we critically examine the most commonly proposed reasons which Bates &amp; Sangrà discuss in Chapter 1 of their book. Improving access and flexibility, and enhancing quality are the least contentious of the five reasons they put forward and I have no problem with these. There is little doubt, in my view, that we can make education more accessible through the use of e-learning by reducing or eliminating the need for real-time attendance at schools and colleges. This makes it easier for people who are working full-time or who live in remote locations to pursue an education. As for enhancing the quality of education, Bates &amp; Sangrà make a strong case for how e-learning can do this and I agree with them. They also make the point that we need to go beyond simply enhancing and move towards transforming and I think this is a key point. It also relates to the cost-effectiveness rationale. As Bates &amp; Sangrà point out, if all we do is add technology to existing approaches, we may well enhance quality but we will also be increasing costs. The only way to achieve cost effectiveness is if we change our approaches and use e-learning to replace current activities and the only way to transform teaching and learning is to use e-learning to move away from a teacher-centered, transmission model of education.
 
@@ -205,10 +207,9 @@ In fact, there is no credible evidence to support the argument that there is a g
 
 If you need more convincing, see  <a href="http://netgenskeptic.org/" target="_blank">Net Gen Skeptic </a>and <a href="http://digitallearners.ca/" target="_blank">Digital Learners in Higher Education.</a>
 
-<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a><strong>
-Reading</strong>
-* <a href="http://steve-wheeler.blogspot.ca/2011/11/convenient-untruth.html" target="_blank">A Convenient UnTruth by Steve Wheeler</a>
-* <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-1-2-1&snapshot=no" target="_blank">Online readings</a>
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | <a href="http://steve-wheeler.blogspot.ca/2011/11/convenient-untruth.html" target="_blank">A Convenient UnTruth by Steve Wheeler</a><br>
+<a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-1-2-1&snapshot=no" target="_blank">Online readings</a>
+--- | ---
 
 #### The 21st Century Skills Argument
 Bates &amp; Sangra talk about the growth of knowledge-based companies and how these differ from typical industrial businesses and require workers with different skills, but the examples given are almost always technology companies. What percentage of the workforce is employed in this sector? Do we exaggerate the importance of the knowledge sector? My concern with this argument is that it assumes that everybody will need to be a "knowledge worker" in the 21st century when, in fact, there is evidence a significant part of the knowledge economy workforce doesn't need these so-called 21st century skills (see Brown et al. 2011). As Selwyn (2013) notes, <em>"At best, most of the 'informational' jobs of the twenty-first-century would seem to be centred around technology-based divisions of labour where most workers are no longer expected to exercise independent judgement or contribute creatively to the value-adding process"</em> (p. 153). Think of the thousands of people working in Amazon's warehouses or call-centre workers around the world.
@@ -217,9 +218,9 @@ Even if we accept the argument that these skills are needed, there are still que
 
 So it's important to have a good rationale for using e-learning but the rationale must stand up to scrutiny. The Millennial Learning Styles and 21st Century Skills arguments are the most suspect of the five reasons. But even the others: quality, access and cost-effectiveness, must chosen with care. They need to make sense for your institution or organization
 
-<strong><em><a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a></em></strong><strong><em>
-</em></strong>Now re-read the articles by Guri-Rosenblit and Sinclair, McClaren and Griffin. Pay particular attention to pp. 478-486 of Guri-Rosenblit which deals with erroneous assumptions about e-learning.
-* <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-1-2-1&snapshot=no" target="_blank">Online readings</a>
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Now re-read the articles by Guri-Rosenblit and Sinclair, McClaren and Griffin. Pay particular attention to pp. 478-486 of Guri-Rosenblit which deals with erroneous assumptions about e-learning.<br>
+<a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-1-2-1&snapshot=no" target="_blank">Online readings</a>
+--- | ---
 
 #### Question for Reflection
 <ol>
@@ -239,13 +240,14 @@ The other courses in the MET deal more extensively with the variety of different
 The EDUCAUSE "7 Things You Should Know About..." series is also an excellent source of information on new and emerging technologies and how they can be used to support teaching and learning. See the link below.
 <p style="text-align: left;">One of the key points we want to make, however,  is that new tools and technologies are emerging constantly and they are becoming much more accessible to the individual user. There was a time when using educational technology meant you needed to have an educational technology support department and you had to jump through numerous bureaucratic hoops to get the technology in your classroom. The advent of cloud-based software, social media or, more broadly, the notion of Web 2.0, has changed all that. While there are still many technologies that require institutional support, and technical expertise (e.g., learning management systems, videoconferencing), the individual instructor now has access to an amazing variety of technologies that require little or no institutional support. One of the implications of this, in my view, is that we may want to reconsider our use of institutional learning management systems. Watch this brief video for a discussion of this idea.</p>
 <iframe src="//player.vimeo.com/video/98760410" width="500" height="281" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a>
-<strong>Read the EDUCAUSE series, <em>7 Things You Should Know About </em>for some excellent summaries of new and emerging educational technologies</strong>
+
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Read the EDUCAUSE series, <em>7 Things You Should Know About </em>for some excellent summaries of new and emerging educational technologies.
+--- | ---
 
 However, instructors, particularly in Canada, need to be aware of the privacy implications of using many cloud-based software. Freedom of Information legislation in many provinces imposes significant restrictions on using US-based services if students are <strong>required </strong>to use these services to complete their studies. Using these services on an optional basis is a different matter.
 
-<em><strong><a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a>
-Read pp. 25-40 of Bates &amp; Sangrà for an overview of some of the available e-learning technologies. Keep in mind, this book is now at least three years old so things have changed.</strong></em>
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Read pp. 25-40 of Bates &amp; Sangrà for an overview of some of the available e-learning technologies. Keep in mind, this book is now at least three years old so things have changed.
+--- | ---
 
 #### Recommended Reading & Resources
 * Bates, A.W. &amp; Sangrà, A. (2011.) <em>Managing Technology in Higher Education: Strategies for Transforming Teaching &amp; Learning. </em>San Francisco: Jossey-Bass. pp. 25-40.
@@ -261,16 +263,16 @@ In this video presentation Dr. Ruben Puentedura explains three models of technol
 
 <iframe src="//www.youtube.com/embed/t3nT0LDH-q0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a>
-<em><strong>Now read pp. 40-51 of Bates &amp; Sangrà (2011)  for a discussion of the different modes of e-learning and the relationship between different technologies and different approaches to teaching and learning.</strong></em>
+
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Now read pp. 40-51 of Bates &amp; Sangrà (2011)  for a discussion of the different modes of e-learning and the relationship between different technologies and different approaches to teaching and learning.
+--- | ---
 
 In his latest book, Bates (2014) argues that technology is having a growing impact on the core teaching activities of the university. He suggests there are number of key trends that suggest e-learning is moving from the periphery to the centre. These include the growth in for credit, fully-online learning, growing  use of blended or mixed-mode approaches (more recently called "the flipped classroom"), and growing interest in open learning and MOOCs.
 
 Bates also devotes a large part of chapter 2 of his new book discussing the impact of technology on the nature of knowledge and points to arguments that knowledge is now more of a process than product, the result of the interactions between people rather than the product of individual minds.
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Read sections 1.7 and 1.8 and 2.4 of <em>Teaching in a Digital Age</em> by Tony Bates. See the links below under <em>Recommended Readings &amp; Resources</em>.
+--- | ---
 
-<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a>
-
-Read sections 1.7 and 1.8 and 2.4 of <em>Teaching in a Digital Age</em> by Tony Bates. See the links below under <strong>Recommended Readings &amp; Resources</strong>.
 #### Trends in Online Learning
 <p style="text-align: left;">We end this unit with a presentation from Sir John Daniel, who discusses three trends in online learning:</p>
 
