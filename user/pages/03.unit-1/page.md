@@ -224,7 +224,8 @@ So it's important to have a good rationale for using e-learning but the rational
 <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-1-2-1&snapshot=no" target="_blank">Online readings</a>
 --- | ---
 
-#### Question for Reflection
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/question_icon-e1409267488306.png"><img class="alignleft size-full wp-image-3524" src="http://blogs.ubc.ca/etec5202015/files/2010/04/question_icon-e1409267488306.png" alt="question_icon-e1409267488306" width="83" height="83" /></a> | Questions for Reflection
+--- | ---
 <ol>
 	<li>What do you think of the reasons for using e-learning presented by Bates &amp; Sangrà and my critique of some of those reasons?</li>
 	<li>Do you think the reasons for using e-learning presented by Sinclair et al. are practical and relevant to your context?</li>
