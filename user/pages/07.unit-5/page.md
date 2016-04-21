@@ -68,12 +68,12 @@ After completing this unit government planning for e-learning, we want you to co
 We find it useful to think about two categories of strategies that governments have at their disposal for planning e-learning.
 
 <strong>Conservative Strategies</strong>  
-These include:  <ul>
-	<li>regulation</li>
-	<li>supporting and promoting competition</li>
-	<li>establishing the jurisdiction of public sector institutions</li>
-	<li>supporting and enhancing the developing of partnerships and consortia.</li>
-</ul>
+These include:
+* regulation
+* supporting and promoting competition
+* establishing the jurisdiction of public sector institutions
+* supporting and enhancing the developing of partnerships and consortia.
+
 <strong>Radical Strategies</strong>  
 These include:
 <ul>
@@ -82,8 +82,8 @@ These include:
 	<li>using e-learning to transform post-secondary education</li>
 	<li>developing or facilitating a national e-learning business sector</li>
 	<li>Develop or facilitate a national archive of e-learning materials</li>
-</ul>
-#### 2. Duplication
+</ul>  
+#### 2. Duplication  
 In order to minimize the potential for increased costs, governments should develop strategies to avoid the costly duplication of courses, programs and resources and to prevent institutional "mission creep". <strong>
 </strong>  
 #### 3. Funding Strategies  
