@@ -47,8 +47,8 @@ Try to work to the following schedule:
 Week | Activity
 --- | ---  
 8 | Section 4.1 <br> Unit 4 Discussion
---- | ---
 9 | Section 4.2 <br> Unit  4 Discussion
+--- | ---
 
 Week 8
 <ul>
