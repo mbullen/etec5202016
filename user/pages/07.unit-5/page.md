@@ -185,28 +185,26 @@ There are several strategies open to government to prevent this, from policy to 
 
 The important role for governments if they wish to avoid unnecessary duplication is to watch for ‘mission creep’. Mission creep occurs when two year colleges want to become a four year degree awarding institutions, comprehensive state universities want to become research institutions, research universities want to offer associate (two-year) degrees, and everyone wants to make money from the Internet. Probably the most important and effective strategy is for government to use its program approval processes to ensure that institutions keep to agreed mandates.
 
-<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/question_icon-e1409267488306.png"><img class="alignleft size-full wp-image-3524" src="http://blogs.ubc.ca/etec5202015/files/2010/04/question_icon-e1409267488306.png" alt="question_icon-e1409267488306" width="83" height="83" /></a><strong>Activity</strong>
-Review the <a href="http://www.tcu.gov.on.ca/pepg/publications/vision/" target="_blank">Strategic Mandate Agreements</a> of several colleges and/or universities in Ontario.
-<ol>
-	<li>How strong an emphasis do you think is there on e-learning in the agreements that you reviewed?</li>
-	<li>How specific do you feel the institutional commitment is to e-learning?</li>
-	<li>What is your sense of what impact this kind of process will have on e-learning in the province of Ontario?</li>
-</ol>
-<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a>
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/question_icon-e1409267488306.png"><img class="alignleft size-full wp-image-3524" src="http://blogs.ubc.ca/etec5202015/files/2010/04/question_icon-e1409267488306.png" alt="question_icon-e1409267488306" width="83" height="83" /></a> | Review the <a href="http://www.tcu.gov.on.ca/pepg/publications/vision/" target="_blank">Strategic Mandate Agreements</a> of several colleges and/or universities in Ontario.
+--- | ---
+1. How strong an emphasis do you think is there on e-learning in the agreements that you reviewed?
+2. How specific do you feel the institutional commitment is to e-learning?</li>
+3. What is your sense of what impact this kind of process will have on e-learning in the province of Ontario.
 
-<strong>Reading
-</strong>Bates, A.W. (2001). <span style="text-decoration: underline;"><a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em>National strategies for e-learning in post-secondary education and training. </em></a></span>Chapters 3, 4. Paris: UNESCO/International Institute for Educational Planning.
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Bates, A.W. (2001). <a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"> National strategies for e-learning in post-secondary education and training. </a> Chapters 3, 4.
+--- | ---
+
 <h3>Links</h3>
-<a href="http://www.athabascau.ca/" target="_blank">Athabasca University</a>
-<a href="http://www.bccampus.ca/" target="_blank">BC Campus</a>
-<a href="http://www.tcu.gov.on.ca/pepg/publications/vision/" target="_blank">Ontario Differentiation Policy Framework</a>
-<a href="http://www.cou.on.ca/policy-advocacy/online" target="_blank">Ontario Online Institute</a>
-<a href="http://en.wikipedia.org/wiki/Open_Learning_Agency" target="_blank">Open Learning Agency</a>
-<a href="http://www.royalroads.ca/" target="_blank">Royal Roads University</a>
-<a href="http://www.itesm.mx/wps/portal?WCM_GLOBAL_CONTEXT=" target="_blank">Tec de Monterrey (ITESM)</a>
-<a href="http://en.wikipedia.org/wiki/Technical_University_of_British_Columbia" target="_blank">Technical University of BC</a>
-<a href="http://www.teluq.ca/" target="_blank">Télé-Université</a>
-<a href="http://www.open.ac.uk/" target="_blank">UK Open University</a>
+<a href="http://www.athabascau.ca/" target="_blank">Athabasca University</a>  
+<a href="http://www.bccampus.ca/" target="_blank">BC Campus</a>  
+<a href="http://www.tcu.gov.on.ca/pepg/publications/vision/" target="_blank">Ontario Differentiation Policy Framework</a>  
+<a href="http://www.cou.on.ca/policy-advocacy/online" target="_blank">Ontario Online Institute</a>  
+<a href="http://en.wikipedia.org/wiki/Open_Learning_Agency" target="_blank">Open Learning Agency</a>  
+<a href="http://www.royalroads.ca/" target="_blank">Royal Roads University</a>  
+<a href="http://www.itesm.mx/wps/portal?WCM_GLOBAL_CONTEXT=" target="_blank">Tec de Monterrey (ITESM)</a>  
+<a href="http://en.wikipedia.org/wiki/Technical_University_of_British_Columbia" target="_blank">Technical University of BC</a>  
+<a href="http://www.teluq.ca/" target="_blank">Télé-Université</a>  
+<a href="http://www.open.ac.uk/" target="_blank">UK Open University</a>  
 <a href="http://www.wgu.edu/" target="_blank">Western Governors' University
 </a>
 
@@ -250,8 +248,8 @@ However, how effective are such strategies in bringing about fundamental change 
 </ul>
 This last point is an extremely important one, as e-learning is not a panacea for all problems that face higher education and training institutions. If we are uncritical in our application of e-learning, we are unlikely to be very successful in our efforts. More seriously, we are likely to undermine the credibility of e-learning as a viable strategy or approach to meet current challenges.
 
-<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a><strong>Reading</strong>
-Bates, A.W. (2001). <span style="text-decoration: underline;"><a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em>National strategies for e-learning in post-secondary education and training. </em></a></span>Chapter 6. Paris: UNESCO/International Institute for Educational Planning.
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Bates, A.W. (2001).<a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em> National strategies for E-learning</em></a>, Chapter 6.
+--- | ---
 
 ### 5.4 National Readiness for E-learning <a name="national"></a>
 In 2003, <em>The Economist</em> prepared an extensive “e-readiness” survey of leading industrialized countries. The survey included a separate examination of e-learning readiness. While this survey is somewhat dated, the process and criteria used, and the issues that were identified are still relevant in 2015. According to the survey, the network, as well as the people to support it, is a critical precondition for the development and viability of e-learning:
@@ -278,11 +276,11 @@ Culture is probably one of the most complex criteria of the e-learning survey, i
 
 So as you consider the role of government in planning e-learning, it is important to consider how “e-learning ready” your country, state or province is. Effective government policies will recognize and address these issues. Implementing conservative, radical and/or funding strategies will have limited impact if the underlying issues of connectivity, capability, content and culture have not been addressed and taken into account in those strategies.
 
-<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a><strong>Reading</strong>
-Bates, A.W. (2001). <span style="text-decoration: underline;"><a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em>National strategies for e-learning in post-secondary education and training. </em></a></span>Chapter 7. Paris: UNESCO/International Institute for Educational Planning.
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Bates, A.W. (2001).<a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em> National strategies for E-learning</em></a>, Chapter 7.
+--- | ---
 
 #### Additional Readings & Resources
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-5-4R?count=15/" num="10"]
+<a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-5-4R&snapshot=no" target="_blank">Online Readings</a>
 
 ### 5.5 Conclusion <a name="conclusion"></a>
 Governments play a key role in the planning and management of e-learning. They provide the framework under which the post secondary institutions operate and they should provide a clear vision and concrete goals for the system. Institutional planning, then, needs to be aligned to these goals. Beyond that, governments have the opportunity to get more directly involved in helping to implement e-learning more broadly through a range of strategies than can include fairly conservative measures to adjust existing institutional arrangements to more radical approaches that involve restructuring, creating new institutions and using funding to achieve national or provincial/state e-learning goals. Underpinning these strategies is the jurisdiction’s e-learning readiness and governments need to factor in issues of connectivity, capability, content and culture in any policies designed to promote e-learning.
