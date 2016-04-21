@@ -59,22 +59,22 @@ Week | Activity
 #### <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-5&snapshot=no" target="_blank">Online Resources</a>
 These include documents related to the BC post secondary system, the school system, federal government policy papers, and educational consortia.  
 
+#### Additional Readings & Resources
+<a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-5-4R&snapshot=no" target="_blank">Online Readings</a>
+
 ### Key Points <a name="keypoints"></a>
 After completing this unit government planning for e-learning, we want you to come way with the following key points.
 #### 1. Government Planning Strategies
 We find it useful to think about two categories of strategies that governments have at their disposal for planning e-learning.
 
-<strong>Conservative Strategies</strong>
-
-These include:
-<ul>
+<strong>Conservative Strategies</strong>  
+These include:  <ul>
 	<li>regulation</li>
 	<li>supporting and promoting competition</li>
 	<li>establishing the jurisdiction of public sector institutions</li>
 	<li>supporting and enhancing the developing of partnerships and consortia.</li>
 </ul>
-<strong>Radical Strategies</strong>
-
+<strong>Radical Strategies</strong>  
 These include:
 <ul>
 	<li>creating new e-learning institutions</li>
@@ -85,8 +85,8 @@ These include:
 </ul>
 #### 2. Duplication
 In order to minimize the potential for increased costs, governments should develop strategies to avoid the costly duplication of courses, programs and resources and to prevent institutional "mission creep". <strong>
-</strong>
-#### 3. Funding Strategies
+</strong>  
+#### 3. Funding Strategies  
 Governments also have a number of different funding strategies at their disposal. These include:
 <ul>
 	<li>reallocating existing resources</li>
@@ -99,10 +99,10 @@ Governments also have a number of different funding strategies at their disposal
 	<li>allow public institutions to create for-profit e-learning companies</li>
 </ul>
 E-learning is not cheap and, in the short term, governments should expect to spend more to invest in the development of e-learning in order to pay for the technical and human resource infrastructure. In the medium to long term, e-learning does provide opportunities to increase the cost-effectiveness of higher education by improving access and quality.
-#### 5. Readiness for E-learning
-A key role for government in helping to stimulate and support the use of e-learning in the post secondary sector is understanding how "e-learning ready" the jurisdiction is and identifying what steps need to be taken to improve readiness. A useful framework for examining e-learning readiness is "the four Cs": Connectivity, Capability, Content and Culture.
+#### 5. Readiness for E-learning  
+A key role for government in helping to stimulate and support the use of e-learning in the post secondary sector is understanding how "e-learning ready" the jurisdiction is and identifying what steps need to be taken to improve readiness. A useful framework for examining e-learning readiness is "the four Cs": Connectivity, Capability, Content and Culture.  
 
-### 5.1 The Role of Government <a name="role"></a>
+### 5.1 The Role of Government <a name="role"></a>  
 In <em>National Strategies for E-Learning</em>, Bates (2001) examines the role of governments in planning and directing e-learning in higher education and some of the key strategies available to governments. He poses some key questions about access and connectivity within a country, the function and organization of education and training sectors (and how such existing organizations are under pressure due to the impact of e-learning), and new or radical ways to re-imagine the provision of education and training at the national level. The specific challenges and strategies that he highlights relate to key priorities that motivate governments to play a role in the planning and management. Bates lists the following priorities:
 <ul>
 	<li>the delivery of cost-effective instruction to under-served populations and regions;</li>
