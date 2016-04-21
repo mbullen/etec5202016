@@ -47,19 +47,7 @@ Try to work to the following schedule:
 Week | Activity
 --- | ---  
 8 | Section 4.1 <br> Unit 4 Discussion
-9 | Section 4.2 <br> Unit  4 Discussion
---- | ---
-
-Week 8
-<ul>
-	<li>Section 4.1</li>
-	<li>Unit 4 Discussion</li>
-</ul>
-Week 9
-<ul>
-	<li>Sections 4.2, 4.3</li>
-	<li>Unit 4 Discussion</li>
-</ul>
+9 | Sections 4.2, 4.3 <br> Unit  4 Discussion
 
 ### Readings & Resources <a name="readings"></a>
 #### Recommended Readings & Resources  
