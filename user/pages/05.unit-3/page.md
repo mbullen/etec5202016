@@ -69,10 +69,10 @@ Week 7
 </ul>
 
 ### Key Points <a name="keypoints"></a>
-After completing this unit, we want you to come away with the following key points:  
-#### 1. Stages of E-Learning Integration
+After completing this unit, we want you to come away with the following key points:    
+#### 1. Stages of E-Learning Integration  
 E-learning typically progresses through a series of stages that begins with the enthusiastic early adopters who experiment with e-learning without any formal institutional support and culminates with the “sustainability” stage at which e-learning has been fully integrated into the institutional planning and budgeting processes. In between institutions move from “encouragement” to “chaos” and then to the penultimate “planning” stage when senior management begins to integrate e-learning into the planning process.  
-#### 2. Governance
+#### 2. Governance  
 Governance is about how decisions are made about current and future plans for e-learning and technology more broadly and who makes those decisions. It involves evaluating, directing and monitoring the use of e-learning. There several different ways of providing appropriate governance over e-learning. The most common is to establish some type committee to provide oversight and allow stakeholders to have input.  
 #### 3. Organizational Structure  
 Where e-learning fits in the institution’s organizational structure and the reporting structure of the organization is critical to the success of e-learning. Is it located on the academic/educational side of the organization or on the technical or administrative side? The answers to these questions will tell us how seriously the institution takes e-learning.  
@@ -123,12 +123,12 @@ Growing administration concerned about lack of coordination or standards, duplic
 </table>
 
 ### 3.2 Organizational Structure and Governance <a name="orgstructure"></a>
-#### The Governance of E-Learning
+#### The Governance of E-Learning  
 Governance is about how decisions are made about current and future plans for e-learning and technology more broadly and who makes those decisions. It involves evaluating, directing and monitoring the use of e-learning. Two conflicting pressures are making e-learning and technology governance much more complex than it used to be. On the one hand institutions need to have enterprise-wide infrastructure, particularly related to networking and security. There is also a strong argument for having some enterprise-level e-learning applications such as a learning management system and virtual classroom systems. On the other hand, many other applications are becoming increasingly user-driven, networked and cloud-based and lose much of their value if they are confined behind a college or university firewall. For example, the main value of social networking services is the ability to connect and network with people anywhere in the world. Bates &amp; Sangrà conclude: <em>"A model of governance is needed that enables both the needs of the institution as a whole and the needs of the many end users to be accommodated. The role of IT professionals in providing leadership in technology management and innovation remains critical, but increasingly this role is being shared with end users, such as faculty and administrators" (</em>p. 124).
 
-<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a>
-#### Reading
-pp. 121-129 of Bates &amp; Sangrà (Chapter 5) for more on governance issues.
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Read pp. 121-129 of Bates &amp; Sangrà (Chapter 5) for more on governance issues.
+--- | ---  
+
 #### Academic Technology Committees
 One of the most common governance mechanisms in higher education is the academic or educational technology committee. E-learning and educational technology cut across academic, technical and support areas so it is important to ensure that the diversity of needs and perspectives is taken into account when implementing e-learning. Too often e-learning is seen as primarily a technical issue and governance committees tend to be dominated or driven by IT departments when really the educators should be setting the agenda. Along with membership, the key issues to consider in establishing educational technology committees are mandate, decision-making authority, reporting structure and whether it is a permanent, ad hoc or temporary committee.
 
