@@ -44,6 +44,12 @@ Use the following questions to guide your thinking as you study this unit:
 ### Unit Schedule<a name="schedule"></a>
 Try to work to the following schedule:
 
+Week | Activity
+--- | ---  
+8 | Section 4.1 <br> Unit 4 Discussion
+--- | ---
+9 | Section 4.2 <br> Unit  4 Discussion
+
 Week 8
 <ul>
 	<li>Section 4.1</li>
