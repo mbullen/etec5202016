@@ -24,7 +24,8 @@ fontawesome: use_global
 * [5.3 Government Funding Strategies](#funding)
 * [5.4 National Readiness for E-learning](#national)
 * [5.5 Conclusion](#conclusion)
-<hr/>
+<hr/>  
+
 In this unit we will take a look at government planning and policy for e-learning. Clearly governments play a key role in public education (and to a lesser extent, private education) and while funding for public higher education has been on the decline in many jurisdictions, governments still wield considerable influence. This means they have the potential to influence the use of e-learning.
 
 ### Learning Outcomes<a name="outcomes"></a>
@@ -44,38 +45,19 @@ Use the following questions to guide your thinking as you study this unit:
 ### Unit Schedule<a name="schedule"></a>
 Try to work to the following schedule:
 
-Week 10
-<ul>
-	<li>Sections 5.1, 5.2</li>
-	<li>Unit 5 Discussion</li>
-</ul>
-Week 11
-<ul>
-	<li>Sections 5.3, 5.4</li>
-	<li>Unit 5 Discussion</li>
-</ul>
+Week | Activity
+--- | ---  
+10 | Sections 5.1, 5.2 <br> Unit 5 Discussion
+11 | Sections 5.3, 5.4 <br> Unit 5 Discussion
+
 
 ### Readings & Resources <a name="readings"></a>
 #### Recommended Readings
-<ul>
-	<li>Bates, A.W. &amp; Sangrà, A. (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, pp. 228-232.<span style="color: #ff0000;">
-</span></li>
-	<li>Bates, A.W. (2001). <span style="text-decoration: underline;"><a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em>National strategies for e-learning in post-secondary education and training. </em></a></span>Chapters 3-7. Paris: UNESCO/International Institute for Educational Planning.</li>
-</ul>
-#### Online Resources
-[rss feed="http://feeds.delicious.com/v2/rss/markbullen/etec520-5a?count=15/" num="10" excerpt="true"]
-<h4><strong>British Columbia</strong></h4>
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-5BC?count=30" num="30"]
-<h4><strong>British Columbia Post Secondary System</strong></h4>
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-5BCPS?count=30" num="30"]
-<h4><strong>British Columbia School System</strong></h4>
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-5BCS?count=30" num="30"]
-<h4><strong>Federal Government Policy Papers</strong></h4>
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-5F?count=30" num="30"]
-<h4><strong>Consortia</strong></h4>
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-5CS?count=30" num="30"]
-<h3>Additional Readings &amp; Resources</h3>
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-5-4R?count=15/" num="10"]
+* Bates, A.W. &amp; Sangrà, A. (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, pp. 228-232.
+* Bates, A.W. (2001). <a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em>National strategies for e-learning in post-secondary education and training. </em></a></span>Chapters 3-7. Paris: UNESCO/International Institute for Educational Planning.
+
+#### <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-5&snapshot=no" target="_blank">Online Resources</a>
+These include documents related to the BC post secondary system, the school system, federal government policy papers, and educational consortia.  
 
 ### Key Points <a name="keypoints"></a>
 After completing this unit government planning for e-learning, we want you to come way with the following key points.
