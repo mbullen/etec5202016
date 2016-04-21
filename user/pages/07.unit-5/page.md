@@ -125,7 +125,7 @@ One of the points that Bates makes throughout <em>National Strategies for E-Lear
 
 The conservative, radical and funding strategies are highlighted in the following sections. They are discussed more fully in chapters 3, 4 and 6 of <em>National Strategies for E-Learning.</em>  
 
-<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Bates, A.W. (2001).<a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em> National strategies for E-learning, Chapters 3, 4.
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Bates, A.W. (2001).<a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em> National strategies for E-learning</a>, Chapters 3, 4.
 --- | ---
 
 ### 5.2 Government Planning Strategies <a name="planning"></a>
