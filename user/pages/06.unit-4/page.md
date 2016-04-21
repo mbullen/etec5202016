@@ -37,11 +37,9 @@ After completing this unit you should be able to:
 
 ### Guiding Questions  
 Use the following questions to guide your thinking as you study this unit:
-<ol>
-	<li>Is your institution organized in a way that is 'fit-for-purpose', with regard to e-learning? If not, what needs fixing?</li>
-	<li>Using the goals on pp. 53-54 of Bates &amp; Sangrà (at the beginning of Chapter 3, the subhead is: <strong><em>Strategic Goals for Information and Communications Technologies</em></strong>) and the criteria on pp. 71-74 (at the end of Chapter 3 before the conclusion, the subhead is:<strong><em> Criteria for Assessing the Success or Otherwise of Technlogy Integration</em></strong>), identify the main topics that would need to be covered in any strategic plan for technology-based learning for an academic department in your institution?</li>
-	<li>What do you see to be the strengths and weaknesses of a strategic planning approach within your own context? Is it likely to work? If not, why not?</li>
-</ol>
+1. Is your institution organized in a way that is 'fit-for-purpose', with regard to e-learning? If not, what needs fixing?
+2. Using the goals on pp. 53-54 of Bates &amp; Sangrà (at the beginning of Chapter 3, the subhead is: <strong><em>Strategic Goals for Information and Communications Technologies</em></strong>) and the criteria on pp. 71-74 (at the end of Chapter 3 before the conclusion, the subhead is:<strong><em> Criteria for Assessing the Success or Otherwise of Technlogy Integration</em></strong>), identify the main topics that would need to be covered in any strategic plan for technology-based learning for an academic department in your institution?
+3. What do you see to be the strengths and weaknesses of a strategic planning approach within your own context? Is it likely to work? If not, why not?  
 
 ### Unit Schedule<a name="schedule"></a>
 Try to work to the following schedule:
@@ -59,18 +57,18 @@ Week 9
 
 ### Readings & Resources <a name="readings"></a>
 #### Recommended Readings & Resources  
-<ul>
-	<li>Bates, A.W. &amp; Sangrà, A. (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, chapters 3, 4.</li>
-</ul>
-* <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-4R&snapshot=no" target="_blank">Online readings</a>  
+
+* Bates, A.W. &amp; Sangrà, A. (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, chapters 3, 4.
+* <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-4R&snapshot=no" target="_blank">Online readings</a>
+
 #### Additional Reading & Resources  
-<ul>
-	<li>Bates, A.W. (2007). Strategic Planning for E-Learning in a Polytechnic. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies &amp; Issues </em>(pp. 47-65). Hershey, PA: Information Science Publishing.</li>
-	<li>Fritz, R. (1989). <em>The Path of Least Resistance</em>. New York: Columbine, pp.122-138.</li>
-	<li>Kaufman, R. and Herman, J. (1997). 'Strategic Planning, Schooling, and the Curriculum for Tomorrow' in Dijkstra, S. et al. <em>Instructional Design: International Perspectives.</em> New York: Lawrence Erlbaum.</li>
-	<li><a href="https://app.box.com/s/r4xhmubg8udpzyql3dau" target="_blank">Sample E-Learning Strategies</a></li>
-</ul>
+
+* Bates, A.W. (2007). Strategic Planning for E-Learning in a Polytechnic. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies &amp; Issues </em>(pp. 47-65). Hershey, PA: Information Science Publishing.
+* Fritz, R. (1989). <em>The Path of Least Resistance</em>. New York: Columbine, pp.122-138.
+* Kaufman, R. and Herman, J. (1997). 'Strategic Planning, Schooling, and the Curriculum for Tomorrow' in Dijkstra, S. et al. <em>Instructional Design: International Perspectives.</em> New York: Lawrence Erlbaum.
+* <a href="https://app.box.com/s/r4xhmubg8udpzyql3dau" target="_blank">Sample E-Learning Strategies</a></li>
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-4-2R&snapshot=no" target="_blank">Online readings</a>  
+
 ### Key Points <a name="keypoints"></a>  
 
 After completing this unit, we want you to come way with the following key points.  
@@ -107,17 +105,13 @@ Tony Bates describes the process he used to develop a plan for the Southern Albe
 Ideally strategic planning should be done at several different levels in an institution. There is no strict rule about where to start but faculty or departmental planning is much easier if an institutional plan already exists. The faculty or departmental plans can then be aligned to the institutional plan. A key component of the faculty or departmental plan is a vision for teaching and learning in the department that outlines how e-learning would be used. In the BCIT example, the process began with the development of an institutional e-learning strategy. The idea was to complete this and then have each school develop its own e-learning strategy. As mentioned earlier, this never happened.  
 
 #### Recommended Readings  
-<ul>
-	<li>Bates, A.W. &amp; Sangrà, A. (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, chapters 3, 4.</li>
-</ul>
+* Bates, A.W. &amp; Sangrà, A. (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, chapters 3, 4.
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-4-1&snapshot=no" target="_blank">Online readings</a>  
 
 #### Additional Reading  
-<ul>
-	<li>Bates, A.W.(2007). <em>Strategic Planning for E-Learning in a Polytechnic</em>. In M. Bullen &amp; D.P. Janes (Eds.) Making the Transition to E-Learning: Strategies and Issue (pp. 47-65). Hershey, PA: Information Science Publishing.</li>
-	<li>Fritz, R. (1989). <em>The Path of Least Resistance</em>. New York: Columbine, pp.122-138.</li>
-	<li>Kaufman, R. and Herman, J. (1997). ‘Strategic Planning, Schooling, and the Curriculum for Tomorrow’ in Dijkstra, S. et al. <em>Instructional Design: International Perspectives.</em> New York: Lawrence Erlbaum.</li>
-</ul>
+* Bates, A.W.(2007). <em>Strategic Planning for E-Learning in a Polytechnic</em>. In M. Bullen &amp; D.P. Janes (Eds.) Making the Transition to E-Learning: Strategies and Issue (pp. 47-65). Hershey, PA: Information Science Publishing.
+* Fritz, R. (1989). <em>The Path of Least Resistance</em>. New York: Columbine, pp.122-138.
+* Kaufman, R. and Herman, J. (1997). ‘Strategic Planning, Schooling, and the Curriculum for Tomorrow’ in Dijkstra, S. et al. <em>Instructional Design: International Perspectives.</em> New York: Lawrence Erlbaum.
 
 ### 4.2 The Elements of a Strategic Plan <a name="elements"></a>
 It is important to realize that, while terminology may differ, most strategic plans contain similar components. Sometimes the term “objectives” is used instead of “goals” or “outcomes”. Or purpose is used instead of goal. The concepts of a mission and vision are sometimes used differently in different plans. The point is that, regardless of the labels, most strategic plans contain the same type of information about the organization and in roughly the same order and framework.
@@ -156,8 +150,8 @@ Find two or three other strategic plans from different institutions or organizat
 --- | ---
 
 #### Additional  Reading
-Bates, A.W. (2007). Strategic Planning for E-Learning in a Polytechnic. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies &amp; Issues </em>(pp. 47-65). Hershey, PA: Information Science Publishing.
-* <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-4-2-R&snapshot=no" target="_blank">Online readings</a>  
+ * Bates, A.W. (2007). Strategic Planning for E-Learning in a Polytechnic. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies &amp; Issues </em>(pp. 47-65). Hershey, PA: Information Science Publishing.  
+ * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-4-2-R&snapshot=no" target="_blank">Online readings</a>  
 
 ### 4.3 Conclusion <a name="conclusion"></a>
 The use of e-learning opens up completely new possibilities for teaching, and thinking strategically is critical to the success of e-learning. This requires the development of a clear vision of how one would like to teach, given the opportunities opened up by new technologies, and from this the development particularly of departmental teaching plans that take into account not only content, but teaching methods and the role of technology in teaching.
