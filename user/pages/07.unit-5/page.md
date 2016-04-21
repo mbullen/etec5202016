@@ -123,10 +123,10 @@ One of the points that Bates makes throughout <em>National Strategies for E-Lear
 
 <em>A government can play a number of strategic roles in the area of technology planning in post-secondary education and training. On the one hand, its academic and financing policies can encourage all institutions to utilize e-learning. On the other hand, it can articulate and operationalize a collective vision for the state post-secondary system with respect to the place and role of e-learning, distributed learning and distance education within the system. (p. 29)</em>
 
-The conservative, radical and funding strategies are highlighted in the following sections. They are discussed more fully in chapters 3, 4 and 6 of <em>National Strategies for E-Learning.</em>
+The conservative, radical and funding strategies are highlighted in the following sections. They are discussed more fully in chapters 3, 4 and 6 of <em>National Strategies for E-Learning.</em>  
 
-<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a><strong>Reading</strong>
-Bates, A.W. (2001). <span style="text-decoration: underline;"><a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em>National strategies for e-learning in post-secondary education and training. </em></a></span>Chapters 3, 4. Paris: UNESCO/International Institute for Educational Planning.
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Bates, A.W. (2001).<a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em> National strategies for E-learning
+--- | ---
 
 ### 5.2 Government Planning Strategies <a name="planning"></a>
 #### Radical Strategies
