@@ -1,18 +1,18 @@
 This <strong>Introduction</strong> provides a general overview of the course and all the logistical and administrative details including information about readings, resources, assignments, due dates, instructor information and more.
 
 ### Table of Contents
-* [Overview of the Course](#overview-of-the-course)
-* [Learning Outcomes](#learning-outcomes)
-* [Teaching & Learning Approach](#teaching-&-learning-approach)
-* [Readings & Resources](#readings-&-resources)
-* [Resources & Support](#resources-&-support)
-* [Workload & General Guidlines](#workload)
-* [Navigating the Course](#test)
-* [Instructor Communication](#communication)
-* [Activities](#activities)
-* [Conclusion](#conclusion)
+1. [Overview of the Course](#overview-of-the-course)
+2. [Learning Outcomes](#learning-outcomes)
+3. [Teaching & Learning Approach](#teaching-&-learning-approach)
+4. [Readings & Resources](#readings-&-resources)
+5. [Resources & Support](#resources-&-support)
+6. [Workload & General Guidlines](#workload)
+7. [Navigating the Course](#test)
+8. [Instructor Communication](#communication)
+9. [Activities](#activities)
+10. [Conclusion](#conclusion)
 
-### Overview of the Course <a name="overview-of-the-course"></a>
+### 1. Overview of the Course <a name="overview-of-the-course"></a>
 The purpose of this course is to prepare you to plan and manage e-learning effectively in your institutions and organizations. We will do this through readings and discussions of some of the key issues. The assignments will also give you an opportunity to apply some of these ideas to practical planning activities.
 
 As the title indicates, the course is focused on the use of technology in <strong>higher education</strong> and it is aimed primarily at people with management responsibilities working in this sector or those who aspire to work as educational managers. If you don't fit this profile, you can still benefit from this course but you might have to work a bit harder to make sense of some of material and concepts.
@@ -45,7 +45,9 @@ The course content is divided into six units:
 #### Background to the Course
 
 This course was originally developed by Tony Bates for the graduate certificate in Technology-based Distributed Learning (TBDL) that was offered by the UBC Distance Education &amp; Technology department from 1997-2002. The course was revised  in 2002 when the TBDL  was turned into the Master of Educational Technology and taken over by the Faculty of Education. Then in 2003 Mark Bullen took over responsibility for the course and made further revisions. Since then the course has been revised and updated on an annual basis. In 2014 Mark Bullen completed a major revision to the course.
-### Learning Outcomes <a name="learning-outcomes"></a>
+<hr/>
+
+### 2. Learning Outcomes <a name="learning-outcomes"></a>
 Upon successful completion of this course we expect you will be able to:
 <ol>
 	<li>Discuss the different meanings of e-learning.</li>
@@ -56,8 +58,9 @@ Upon successful completion of this course we expect you will be able to:
 	<li>Discuss some of the social, economic and political factors that are influencing the planning and management of e-learning in higher education;</li>
 	<li>Discuss the key principles of the open education movement and how they might be integrated into institutional planning for e-learning.</li>
 </ol>
+<hr/>
 
-### Teaching & Learning Approach <a name="teaching-&-learning-approach"></a>
+### 3. Teaching & Learning Approach <a name="teaching-&-learning-approach"></a>
 There are no right and wrong answers to the questions about how to effectively plan and manage e-learning. While there is some basic knowledge you need to have about planning and managing e-learning in higher education, this course is about ideas and issues that are influenced by personal values, ideologies, and world views and it is based primarily on the experience of the course authors, and on reports and articles by managers from other institutions with fairly recent experience of planning and managing e-learning in higher education.  Many of you will have other, equally relevant experiences, and we want to be able to draw on, share and discuss this varied set of experiences.
 
 Our aim then is not to pontificate but to direct you to sources of information and to perspectives you may not have considered. It will be up to you to decide what is most relevant and appropriate to you and your situation. This means you will need to use your information seeking, analysis and interpretation skills, and be ready and willing to critique the planning and management examples that you will read about.
@@ -72,11 +75,12 @@ We aim to prepare you for this in the following ways:
 	<li>by getting you to reflect on your own views, and to step back from these to understand some of your own underlying, and possibly unquestioned, assumptions;</li>
 	<li>by having you work collaboratively with other students through the discussion groups and assignments, in order to get a wider range of perspectives on the various issues that arise in this course.</li>
 </ol>
+<hr/>
 
-### Readings & Resources <a name="readings-&-resources"></a>
+### 4. Readings & Resources <a name="readings-&-resources"></a>
 There are two textbooks for this course and a number online readings and resources.
 
-The readings that are listed as "Recommended" are the core readings for the course. The readings that are listed as "Additional" are references you may want to pursue depending on your particular interests. They will allow you explore certain topics in more detail.
+The readings that are listed as "Recommended" are the core readings for the course. The readings that are listed as "Optional" are references you may want to pursue depending on your particular interests. They will allow you explore certain topics in more detail.
 
 There are far too many readings and resources in this course for you to possibly read them all in the time allocated. This means you will need to be very selective in what you choose to read in depth. We suggest that you follow the guidelines on the Web site for each unit, that you cover the recommended readings, participate actively in the discussion forums, then use whatever remaining time you have on some of the other readings and resources, allowing time, of course, to do your assignments. Time management then is going to be important.
 
@@ -99,7 +103,7 @@ If you have problems in getting your readings, please contact your instructor.
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-1&snapshot=no" target="_blank">Online readings</a>
 
 
-##### Additional Readings & Resources
+##### Optional Readings & Resources
 * Bullen, M. &amp; Janes, D.P. (2007). Preface. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies and Issues</em>, pp. vii-xvi, Hershey, PA: Information Science Publishing.</li>
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-1R&snapshot=no" target="_blank">Online readings</a>
 
@@ -109,7 +113,7 @@ If you have problems in getting your readings, please contact your instructor.
 * Bates, A.W. (2001). <span style="text-decoration: underline;"><a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em>National strategies for e-learning in post-secondary education and training. </em></a></span>Chapter 5. Paris: UNESCO/International Institute for Educational Planning.
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2&snapshot=no" target="_blank">Online readings</a>
 
-##### Additional Readings & Resources
+##### Optional Readings & Resources
 * Haughey, M. (2007). Organizational Models for Faculty Support: The Response of Canadian Universities. In M. Bullen &amp; D.P. Janes (Eds.)<em> Making the Transition to E-Learning: Strategies &amp; Issues</em> (pp. 17-32). Hershey, PA: Information Science Publishing.
 * Wilson, G. (2007). New Skills and Ways of Working: Faculty Development for E-Learning. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies &amp; Issues </em>(pp. 121-138). Hershey, PA: Information Science Publishing.
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2R&snapshot=no" target="_blank">Online readings</a>
@@ -123,7 +127,7 @@ If you have problems in getting your readings, please contact your instructor.
 * Bates, A.W. &amp; Sangrà, A. (2011). <em>Managing Technology: Strategies for Transforming Higher Education.</em>San Francisco: Jossey Bass, pp. 71-74; 102-121; 137-142; 190-20
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-4&snapshot=no" target="_blank">Online readings</a>
 
-##### Additional Readings & Resources
+##### Optional Readings & Resources
 * Bates, A.W. (2007). Strategic Planning for E-Learning in a Polytechnic. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies &amp; Issues </em>(pp. 47-65). Hershey, PA: Information Science Publishing.</li>
 	<li>Fritz, R. (1989). <em>The Path of Least Resistance</em>. New York: Columbine, pp.122-138.
 * Kaufman, R. and Herman, J. (1997). ‘Strategic Planning, Schooling, and the Curriculum for Tomorrow’ in Dijkstra, S. et al. <em>Instructional Design: International Perspectives.</em> New York: Lawrence Erlbaum.
@@ -139,10 +143,11 @@ If you have problems in getting your readings, please contact your instructor.
 ##### Recommended Readings &amp; Resources
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-6&snapshot=no" target="_blank">Online readings</a>
 
-##### Additional Reading
+##### Optional Reading
 * Kelly, O. (2007). Moving to Blended Delivery in a Polytechnic: Shifting the Mindset of Faculty and Institutions. In M. Bullen and D.P. Janes (Eds.), <em>Making the Transition to E-Learning: Strategies and Issues</em>, pp. 33-46, Hershey, PA: Information Science Publishing.
+<hr/>
 
-### Resources & Support <a name="resources-&-support"></a>
+### 5. Resources & Support <a name="resources-&-support"></a>
 #### Library Services
 
 All MET students have access to the full resources and support of the UBC library. The UBC library has extensive online resources such as research journals, databases and full-text resources. As well, you have limited access to print-based document delivery of materials that are not available online, but which are held by the library. This access will enable you to greatly extend the depth of your research in all of your MET courses.
@@ -156,8 +161,9 @@ If you are having problems accessing the course website or using some of its too
 <a href="http://www.youtube.com/watch?v=0klgLsSxGsU" target="_blank">Introductory Video on RSS</a>
 
 You do need to familiarize yourself with how to use this environment, so take a few minutes to move around the course and try out various links or tools. If you need help with any feature, click on Help at the top of this page.
+<hr/>
 
-### Workload and General Guidelines <a name="workload"></a>
+### 6. Workload and General Guidelines <a name="workload"></a>
 #### Studying this Course
 This is a graduate course aimed primarily at people working in the postsecondary education system. We therefore expect you to be able to <strong>seek out, analyze, and evaluate information</strong> for yourself, and to be able to draw critically on your own experience and reflect on that in the light of the material presented in this course.
 
@@ -175,7 +181,9 @@ You will be asked to think for yourself, to make difficult choices, to work coll
 	<li>Participate regularly and actively in the discussion forums. You will receive instructions about the current discussions from your instructor. Make sure you read the <a href="http://blogs.ubc.ca/etec520archive/about-2/course-web-site-and-discussion-forums/" target="_blank"><strong>Discussion Forum Guidelines</strong> </a>in the <strong>Introduction </strong>section.</li>
 	<li><strong>Leave yourself enough time to do the assignments.</strong> There are three challenging assignments in this course, so don't delay getting started. Don't be afraid to use the discussion forums or email to contact your instructor or other students to test ideas, ask questions, seek other Web sites, etc. We strongly encourage collaboration in this course.</li>
 </ol>
-### Navigating The Course <a name="test"></a>
+<hr/>
+
+### 7. Navigating The Course <a name="test"></a>
 The main purpose of this course web site is to provide you with a structured pathway through the course content and to provide you with all the administrative and logistical information you need to complete the course. We will also highlight key issues and introduce some of our thoughts on these issues.  In addition, we have integrated a number of <a href="http://en.wikipedia.org/wiki/Rss" target="_blank">RSS feeds</a> that will allow for new content and resources to be added dynamically. These feeds are in the right-hand menu and they provide links to new online resources.
 
 The course Web site contains a number of components. You can access these from the Navigation bar on the top of each page and on the right-hand side of each page. At the top of the page you will find the tabs, <strong>Home, Introduction, and Unit 1-6</strong>. When you click on a Unit tab in the top navigation bar you'll see a list of the pages in that unit. The page you are on should be highlighted.
@@ -213,8 +221,9 @@ You can read more about social bookmarking in the following article:
 <a href="http://wiki.ubc.ca/Documentation:Social_Bookmarking/Elearning" target="_blank">Social Bookmarking</a>
 
 I have been tagging resources for this course since I started teaching it in 2003 and I have added an RSS feed for these resources in the right-hand column with items tagged with <strong>Planning_Ed_Tech</strong>. I will update this during the course as I come across items that I think are relevant and interesting.
+<hr/>
 
-### Instructor Communication <a name="communication"></a>
+### 8. Instructor Communication <a name="communication"></a>
 Most of the communication in this course will take place through through the UBC Connect discussion forums and Connect e-mail. Your instructor may also use regular e-mail to communicate with you on occasion. If you would prefer not to be contacted by regular e-mail, please let your instructor know.
 
 Your instructor will be available for help and support on an individual basis. You can contact your instructor by e-mail and you can make arrangements to talk by phone if needed. We aim to respond to <strong>e-mails</strong> <strong>within one working day</strong>, although occasionally, particularly if your instructor is traveling, this may not always be possible.
@@ -224,9 +233,10 @@ Your instructor will also moderate the unit discussion forums, and will mark you
 You can read a brief biography of your instructor by following the link below.
 
 <a href="http://localhost:8888/etec5202016/instructor-bios" target="_blank">Instructor Bios</a>
+<hr/>
 
 ### Activities <a name="activities"></a>
-#### Exploring the Resources
+#### 9. Exploring the Resources
 <ol>
 	<li>Spend some time browsing the various sources listed in <em>Resources</em>.</li>
 	<li>If you find articles or references that you think might be particularly useful for this course, add the URL to your bookmarks.</li>
@@ -257,8 +267,9 @@ This is a condition of taking this course. If you cannot abide by these guidelin
 We want you to feel free to openly and freely discuss the issues raised in this course so we have restricted access to the Connect site, where the online discussions are held. The only people who should have access to the Connect site are you, the technical personnel responsible for maintaining the site and the instructors. Anybody else who wants access must request it and we will inform you in advance  if other people have been given access.
 
 Please do not give your password to any person not registered in this course.
+<hr/>
 
-### Conclusion <a name="conclusion"></a>
+### 10. Conclusion <a name="conclusion"></a>
 This is an ambitious course. It examines institutional readiness for e-learning and touches on issues and strategies at several different levels: course, program, institutional and government/system.  We have done this because decisions made at one level inevitably have an influence on decisions at other levels. You will need to be quite focused in your work. We have tried to divide the course so that the majority of it is concerned with institutional readiness, planning and implementation, but these need to be embedded in a wider context. Our advice is to continue to relate the course to your own context, while keeping an eye on planning and management in other contexts. We also advise you to try to keep on schedule, moving from one unit to another on the due dates. You should also use the assignment questions and marking criteria as guidelines on where to focus as you work through the material.
 
 Lastly we would like to re-iterate the point that there are no well established principles or guidelines on planning and managing e-learning and learning technologies that you can safely follow in a systematic or well defined manner. You will need to remain flexible and open to a variety of approaches. What we have tried to do in this course is to make you more aware of the issues, and some possible alternatives and strategies for dealing with these issues. There is however plenty of scope for your own solutions and ideas, based on your experience, and we encourage you to share these with your fellow participants on this course.
