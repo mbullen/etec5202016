@@ -52,12 +52,12 @@ Try to work to the following schedule:
 
 Week | Activity
 --- | ---  
-4 |Section 2.1: Costs &amp; Funding <br>
+4 | Section 2.1: Costs &amp; Funding <br>
 Section 2.2: IT Infrastructure &amp; Support <br>
 Section 2.3: Organizational Culture <br>
 Section 2.4: The Impact of Organizational Culture <br>
-Unit 2 Discussion (end of week 2)
-5 | SSection 2.5: Faculty &amp; Learner Readiness <br>
+Unit 2 Discussion (end of week 2) <br>
+5 | Section 2.5: Faculty &amp; Learner Readiness <br>
 Section 2.6: Planning <br>
 Section 2.7: Organizational Structure <br>
 Section 2.8: Assessing Readiness for E-Learning <br>
