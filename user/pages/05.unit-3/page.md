@@ -49,24 +49,17 @@ Upon completion of this unit you should be able to:
 ### Unit Schedule <a name="schedule"></a>
 Try to stick to the following schedule:
 
+
+
 Week 6
-<ul>
-	<li>Section 3.1: Stages of E-Learning Integration</li>
-	<li>Section 3.2: Organizational Structure &amp; Governance</li>
-	<li>Discussion: Models of Support</li>
-</ul>
-Week 7
-<ul>
-	<li>Discussion: Models of Support</li>
-	<li>Section 3.3: Models of Support</li>
-	<li>Section 3.4: Funding Models</li>
-</ul>
+
+--- | ---  
+6 | Section 3.1: Stages of E-Learning Integration <br> Section 3.2: Organizational Structure &amp; Governance <br> Unit 3 Discussion: Models of Support <br>
+7 | Unit 3 Discussion: Models of Support <br> Section 3.3: Models of Support <br> Section 3.4: Funding Models <br> Section 3.5: Conclusion
 
 ### Readings & Resources <a name="readings"></a>
-#### Recommended Reading
-<ul>
-	<li>Bates, A.W. &amp; Sangrà, A.  (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, chapter 5 (pp. 110-129).</li>
-</ul>
+#### Recommended
+* Bates, A.W. &amp; Sangrà, A.  (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, chapter 5 (pp. 110-129).
 
 ### Key Points <a name="keypoints"></a>
 After completing this unit, we want you to come away with the following key points:    
@@ -86,6 +79,7 @@ How e-learning support is funded in the institution is as important, if not more
 	<li>Grant funded</li>
 	<li>Combined funding</li>
 </ol>
+<hr/>
 
 ### 3.1 Stages of E-Learning Integration <a name="stages"></a>
 Bates (2007) argues that higher education institutions typically move through five stages as they introduce and ultimately integrate e-learning . This begins with “lone rangers”, the enthusiastic early adopters who experiment with e-learning without any formal institutional support and culminates with the “sustainability” stage at which e-learning has become a core activity and has been integrated into the institutional planning and budgeting processes. In between these beginning and end points, institutions provide progressively more support for e-learning, moving from “encouragement” to “chaos” and then to the penultimate “planning” stage when senior management finally begins to take e-learning seriously by starting to integrate it into the institutional planning process.
@@ -121,6 +115,7 @@ Growing administration concerned about lack of coordination or standards, duplic
 </tr>
 </tbody>
 </table>
+<hr/>
 
 ### 3.2 Organizational Structure and Governance <a name="orgstructure"></a>
 #### The Governance of E-Learning  
@@ -145,6 +140,7 @@ So you can see this a complicated issue and the ideal organizational arrangement
 	<li>Do you think your institution might be willing to spend at least 5% of its teaching budget on academic technology support (if it's not already doing so)? How would you try to 'sell' this to your management?</li>
 	<li>Guri-Rosenblit (2005) points to eight paradoxes that she says helps to explain the the wide gap between the rhetoric and the reality of e-learning implementation in higher education. Is her analysis relevant to institutional situations that you are aware of?</li>
 </ol>
+<hr/>
 
 ### 3.3 Models of Support <a name="models"></a>
 Institutions have taken a variety of different approaches to supporting e-learning, ranging from fully integrated central support departments that provide IT, instructional design, faculty development and technical media support to a fully decentralized approach in which each faculty or school has its own support units. Almost all institutions have a central IT department but the range of services provided is changing with an increasing number being either decentralized to individual faculties or schools or contracted out to cloud-based providers.
@@ -165,6 +161,7 @@ Bates &amp; Sangrà conclude that the specific organizational model is less impo
 <a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Read
 pp. 114-121 of Bates &amp; Sangrà (Chapter 5 from the beginning of the section <em>Permanent Organizational Units</em> to the end of the section, <em>Conclusions From the Analysis of Organizational Units to Support Technology Integration</em>) to find out more about how the institutions they studied used organized their educational technology departments.
 --- | ---  
+<hr/>
 ### 3.4 Funding Models <a name="funding"></a>
 How e-learning support is funded in the institution is as important, if not more, than how the support is organized. There are four basic funding models:
 <ol>
@@ -181,6 +178,7 @@ A revenue-generating department will be basically self-supporting. It will gener
 A grant-funded model is one in which the operations are supported from one-time or limited grant funds of various sorts. These could be external grants from donor agencies or governments or internal grant funds. At UBC, the faculty development department, Teaching and Academic Growth (TAG) which existed for many years until it was rolled into the new Centre for Teaching Learning and Technology, was funded on this basis. Each year it had to submit a proposal for funding from an internal university fund designed to support teaching innovation. This meant that from year to year it never knew if it would be able to continue its operations the next year. This created a great deal of uncertainly for anybody working there and meant that it was a difficult to launch multi-year projects. A similar approach was taken with the Office of Learning Technologies which also was subsequently folded into the Centre for Teacking Learning and Technology. Grant-funding may be a useful way to experiment with a new organizational approach but it is not appropriate as a funding model for something the institution deems to be part of its core operations.  
 #### Combined Funding  
 A combined funding model in many ways is the worst of both worlds. It exposes the department to the budget cycles and the dangers of budget cutting while also requiring the department to expend energy and resources seeking revenue from internal and external sources. It also can create conflict within the department (and institution) and difficulty in setting priorities. Who should get priority access to the departmental resources: external clients who are paying for them or faculty members who are not? Unless the revenue-generating and budget-funded operations of the department are distinct, there are bound to be conflicts about priorities.
+<hr/>
 
 ### 3.5 Conclusion <a name="conclusion"></a>
 In this unit we have examined how e-learning should be organized and supported within an institution. As we have argued from the beginning of this course, there are no right and wrong ways of doing things. The most appropriate approach depends on the context and this means taking into account the stage of e-learning integration that the institution has achieved. E-learning typically progresses through a series of stages that begins with the enthusiastic early adopters who experiment with e-learning without any formal institutional support and culminates with the “sustainability” stage at which e-learning has been fully integrated into the institutional planning and budgeting processes. In between institutions move from “encouragement” to “chaos” and then to the penultimate “planning” stage when senior management begins to integrate e-learning into the planning process.
