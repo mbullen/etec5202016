@@ -128,7 +128,7 @@ In many organizations there is no formal process used to select courses or proje
 
 We are going to refer to the process used by the now defunct Distance Education and Technology department at the University of British Columbia but also draw to your attention to the planning process used by the <a href="http://blended.online.ucf.edu/" target="_blank">University of Central Florida (UCF),</a> particularly when we consider development in a mixed-mode context.  Our intention here is to show you a couple of different models and policies concerning course development, and to help you to consider scenarios that might be productive in your own context.  As well, it is important to consider the process by which projects are identified and supported within an organization, as this will determine, to a large measure, the type of development environment that is created.
 
-<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | <a href="https://www.diigo.com/rss/user/markbullen/etec520-6-1?count=15/" target="_blank">Online Readings</a>
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-6-1&snapshot=no/" target="_blank">Online Readings</a>
 --- | ---
 
 ### 6.2 Course Development Models <a name="models"></a>
