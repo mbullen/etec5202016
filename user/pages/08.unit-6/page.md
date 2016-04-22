@@ -65,16 +65,16 @@ Try to work to the following schedule:
 Week | Activity
 --- | ---  
 13 | Sections 6.1, 6.2, 6.3 <br> Unit 6 Discussion
-14 | Sections 6.4, 6.5, 6.6 <br> Unit 6 Discussion 
+14 | Sections 6.4, 6.5, 6.6 <br> Unit 6 Discussion
 
 ### Readings & Resources <a name="readings"></a>
-#### Recommended Readings & Resources
+#### Recommended
 <ul>
 	<li>Bates, A.W. &amp;  Sangrà, A. (2011). <em>Managing Technology: Strategies for Transforming Higher Education.</em> San Francisco: Jossey Bass, pp. 138-142.</li>
 </ul>
 <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-6&snapshot=no" target="_blank">Online Readings</a>  
 
-#### Additional Readings
+#### Optional
 <ul>
 	<li>Kelly, O. (2007). Moving to Blended Delivery in a Polytechnic: Shifting the Mindset of Faculty and Institutions. In M. Bullen and D.P. Janes (Eds.), <em>Making the Transition to E-Learning: Strategies and Issues</em>, pp. 33-46, Hershey, PA: Information Science Publishing.</li>
 </ul>
