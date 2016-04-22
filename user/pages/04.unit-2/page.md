@@ -29,6 +29,7 @@ fontawesome: use_global
 * [2.8 Assessing Readiness for E-learning](#assessing)
 * [2.9 Conclusion](#conclusion)
 <hr/>
+
 In this unit we start to get at the "meat" of the course: what  organizations need to do to get ready for e-learning. E-learning is a costly endeavour and unless organizations prepare adequately before implementing it they will not reap its full benefits. The key readiness issues include:
 
 * Costs and funding
