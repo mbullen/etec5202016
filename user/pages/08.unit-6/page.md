@@ -126,7 +126,7 @@ There are no right or wrong answers to these questions. The process by which e-l
 
 In many organizations there is no formal process used to select courses or projects to be developed for e-learning.  Neither is there any direct relationship between the people who make decisions about teaching and those who make decisions about the technical infrastructure that will, in the end, deliver courses.  In such contexts, it is very difficult to plan effectively or strategically for either teaching and learning or for implementation of e-learning infrastructure.
 
-We are going to refer to the process used by the now defunct Distance Education and Technology department at the University of British Columbia but also draw to your attention to the planning process used by the <a href="http://blended.online.ucf.edu/" target="_blank">University of Central Florida (UCF),</a> particularly when we consider development in a mixed-mode context.  Our intention here is to show you a couple of different models and policies concerning course development, and to help you to consider scenarios that might be productive in your own context.  As well, it is important to consider the process by which projects are identified and supported within an organization, as this will determine, to a large measure, the type of development environment that is created.
+We are going to refer to the process used by the now defunct Distance Education and Technology department at the University of British Columbia but also draw to your attention to the planning process used by the <a href="http://blended.online.ucf.edu/" target="_blank">University of Central Florida (UCF),</a> particularly when we consider development in a mixed-mode context.  Our intention here is to show you a couple of different models and policies concerning course development, and to help you to consider scenarios that might be productive in your own context.  As well, it is important to consider the process by which projects are identified and supported within an organization, as this will determine, to a large measure, the type of development environment that is created.  
 
 <a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-6-1&snapshot=no/" target="_blank">Online Readings</a>
 --- | ---
@@ -142,11 +142,9 @@ In the following readings, five models are described, although I'm not sure I wo
 	<li>Project Management</li>
 	<li>Open Content</li>
 </ol>
-<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a><strong>Readings</strong>
-[rss feed="http://feeds.delicious.com/v2/rss/markbullen/etec520-6-2?count=15/" num="10" excerpt="true"]
 
-Bates, A.W. &amp;  Sangrà, A. (2011). <em>Managing Technology: Strategies for Transforming Higher Education.</em> San Francisco: Jossey Bass, pp. 138-142.
-
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-6-2&snapshot=no/"target="_blank">Online Readings</a><br>Bates, A.W. &amp;  Sangrà, A. (2011). <em>Managing Technology: Strategies for Transforming Higher Education.</em> San Francisco: Jossey Bass, pp. 138-142.
+--- | ---  
 We take a fairly pragmatic approach to e-learning development. In most organizations, some combination of Lone Ranger and Project Management approaches is likely needed to allow for broad innovation and strategic implementation of e-learning. The following tables summarize relative advantages and disadvantages of the Lone Ranger and Project Management approach:
 <table border="1" width="448" cellspacing="0" cellpadding="0">
 <tbody>
@@ -216,9 +214,8 @@ You’ll recall the <a href="http://blogs.ubc.ca/etec520/files/2010/04/eLearning
 
 The UBC Distance Education &amp; Technology (DET),which no longer exists, used a quasi-project management approach to course development. The Project Development Handbook is a useful resource that illustrates what a project management approach looks like in practice.
 
-<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a><strong>
-Reading
-</strong>[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-6-2a?count=15/" num="10"]
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-6-2a&snapshot=no/" target="_blank">Online Readings</a>
+--- | ---
 
 ### 6.3 A Typical Project Team <a name="team"></a>
 What follows is a description of the types of people that are typically brought together for a project and whose work is organized within a managed process.
@@ -276,8 +273,10 @@ UBC recently launched its <a href="http://flexible.learning.ubc.ca/" target="_bl
 	<li>Improve university operating effectiveness through new learning models.</li>
 </ol>
 The flexible strategy, <a href="http://flexible-learning2015.sites.olt.ubc.ca/files/2015/04/fl_strategy_september_2014.pdf" target="_blank">Flexible Learning: Charting a Strategic Vision for UBC (Vancouver Campus) </a>was released in September 2014. This is a document worth reading and it charts a course for a strategic institutional initiative that has high level support and funding to the tune of $5 million.
-<h3><a href="http://blogs.ubc.ca/etec5202015/files/2010/04/question_icon-e1409267488306.png"><img class="alignleft size-full wp-image-3524" src="http://blogs.ubc.ca/etec5202015/files/2010/04/question_icon-e1409267488306.png" alt="question_icon-e1409267488306" width="83" height="83" /></a>Activity</h3>
-Read the UBC <a href="http://flexible-learning2015.sites.olt.ubc.ca/files/2015/04/fl_strategy_september_2014.pdf" target="_blank">Flexible Learning Strategy</a>.
+
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/question_icon-e1409267488306.png"><img class="alignleft size-full wp-image-3524" src="http://blogs.ubc.ca/etec5202015/files/2010/04/question_icon-e1409267488306.png" alt="question_icon-e1409267488306" width="83" height="83" /></a> | Read the UBC <a href="http://flexible-learning2015.sites.olt.ubc.ca/files/2015/04/fl_strategy_september_2014.pdf" target="_blank">Flexible Learning Strategy</a>.
+--- | ---
+
 <ol>
 	<li>Does it present a clear vision for the future?</li>
 	<li>Is the meaning of flexible learning clearly defined?</li>
