@@ -88,6 +88,7 @@ Equally important as understanding the meaning of e-learning is being clear abou
 
 3. Implications for Teaching & Learning<br>
 If e-learning is to be used effectively to increase access, improve quality and make higher education more cost-effective, we believe significant changes will be needed to how our institutions are organized. Without major changes to how programs are designed and delivered, adding technology to the mix will only add costs and will likely do little to address quality and access issues. Key to addressing access and costs is redesigning teaching so that different technologies and modes of delivery are exploited appropriately. Thus, in our view, e-learning is more than just enhancing teaching with technology. It implies<strong> re-thinking and re-designing learning and reorganizing institutions. It is, by definition, about integrating learning technologies into teaching and learning, not simply using them to enhance existing approaches.</strong>
+<hr/>
 
 ### 1.1 What is E-Learning <a name="elearning"></a>
 <a href="http://blogs.ubc.ca/etec5202015/files/2011/08/hourglass-icon1-e1403212651814.jpg"><img class="alignleft wp-image-3038 size-full" src="http://blogs.ubc.ca/etec5202015/files/2011/08/hourglass-icon1-e1403212651814.jpg" alt="" width="55" height="55" /></a>
