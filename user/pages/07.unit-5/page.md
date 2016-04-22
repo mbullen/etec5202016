@@ -47,19 +47,19 @@ Try to work to the following schedule:
 
 Week | Activity
 --- | ---  
-10 | Sections 5.1, 5.2 <br> Unit 5 Discussion
-11 | Sections 5.3, 5.4 <br> Unit 5 Discussion
+10 | Section 5.1: The Role of Government <br> Section 5.2: Government Planning Strategies <br> Unit 5 Discussion
+11 | Unit 5 Discussion <br> Section 5.3: Government Funding Strategies <br> Section 5.4: National Readiness for E-learning <br> Section 5.5: Conclusion
 
 
 ### Readings & Resources <a name="readings"></a>
-#### Recommended Readings
+#### Recommended
 * Bates, A.W. &amp; Sangrà, A. (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, pp. 228-232.
 * Bates, A.W. (2001). <a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em>National strategies for e-learning in post-secondary education and training. </em></a></span>Chapters 3-7. Paris: UNESCO/International Institute for Educational Planning.
 
 #### <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-5&snapshot=no" target="_blank">Online Resources</a>
 These include documents related to the BC post secondary system, the school system, federal government policy papers, and educational consortia.  
 
-#### Additional Readings & Resources
+#### Optional
 <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-5-4R&snapshot=no" target="_blank">Online Readings</a>
 
 ### Key Points <a name="keypoints"></a>
@@ -101,6 +101,7 @@ Governments also have a number of different funding strategies at their disposal
 E-learning is not cheap and, in the short term, governments should expect to spend more to invest in the development of e-learning in order to pay for the technical and human resource infrastructure. In the medium to long term, e-learning does provide opportunities to increase the cost-effectiveness of higher education by improving access and quality.
 #### 5. Readiness for E-learning  
 A key role for government in helping to stimulate and support the use of e-learning in the post secondary sector is understanding how "e-learning ready" the jurisdiction is and identifying what steps need to be taken to improve readiness. A useful framework for examining e-learning readiness is "the four Cs": Connectivity, Capability, Content and Culture.  
+<hr/>
 
 ### 5.1 The Role of Government <a name="role"></a>  
 In <em>National Strategies for E-Learning</em>, Bates (2001) examines the role of governments in planning and directing e-learning in higher education and some of the key strategies available to governments. He poses some key questions about access and connectivity within a country, the function and organization of education and training sectors (and how such existing organizations are under pressure due to the impact of e-learning), and new or radical ways to re-imagine the provision of education and training at the national level. The specific challenges and strategies that he highlights relate to key priorities that motivate governments to play a role in the planning and management. Bates lists the following priorities:
@@ -127,6 +128,7 @@ The conservative, radical and funding strategies are highlighted in the followin
 
 <a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Bates, A.W. (2001).<a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em> National strategies for E-learning</a>, Chapters 3, 4.
 --- | ---
+<hr/>
 
 ### 5.2 Government Planning Strategies <a name="planning"></a>
 #### Radical Strategies
@@ -207,6 +209,7 @@ The important role for governments if they wish to avoid unnecessary duplication
 <a href="http://www.open.ac.uk/" target="_blank">UK Open University</a>  
 <a href="http://www.wgu.edu/" target="_blank">Western Governors' University
 </a>
+<hr/>
 
 ### 5.3 Government Funding Strategies <a name="funding"></a>
 #### Bad News, Worse News and Good News
@@ -250,6 +253,7 @@ This last point is an extremely important one, as e-learning is not a panacea fo
 
 <a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Bates, A.W. (2001).<a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em> National strategies for E-learning</em></a>, Chapter 6.
 --- | ---
+<hr/>
 
 ### 5.4 National Readiness for E-learning <a name="national"></a>
 In 2003, <em>The Economist</em> prepared an extensive “e-readiness” survey of leading industrialized countries. The survey included a separate examination of e-learning readiness. While this survey is somewhat dated, the process and criteria used, and the issues that were identified are still relevant in 2015. According to the survey, the network, as well as the people to support it, is a critical precondition for the development and viability of e-learning:
@@ -279,8 +283,9 @@ So as you consider the role of government in planning e-learning, it is importan
 <a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Bates, A.W. (2001).<a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em> National strategies for E-learning</em></a>, Chapter 7.
 --- | ---
 
-#### Additional Readings & Resources
+#### Optional Readings & Resources
 <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-5-4R&snapshot=no" target="_blank">Online Readings</a>
+<hr/>
 
 ### 5.5 Conclusion <a name="conclusion"></a>
 Governments play a key role in the planning and management of e-learning. They provide the framework under which the post secondary institutions operate and they should provide a clear vision and concrete goals for the system. Institutional planning, then, needs to be aligned to these goals. Beyond that, governments have the opportunity to get more directly involved in helping to implement e-learning more broadly through a range of strategies than can include fairly conservative measures to adjust existing institutional arrangements to more radical approaches that involve restructuring, creating new institutions and using funding to achieve national or provincial/state e-learning goals. Underpinning these strategies is the jurisdiction’s e-learning readiness and governments need to factor in issues of connectivity, capability, content and culture in any policies designed to promote e-learning.
