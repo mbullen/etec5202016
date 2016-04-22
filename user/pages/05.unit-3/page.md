@@ -46,13 +46,12 @@ Upon completion of this unit you should be able to:
 	<li>Compare the strengths and weaknesses of different support models for e-learning;</li>
 	<li>Decide on appropriate e-learning support model in your institution.</li>
 </ol>
+
 ### Unit Schedule <a name="schedule"></a>
+
 Try to stick to the following schedule:
 
-
-
-Week 6
-
+Week | Activity
 --- | ---  
 6 | Section 3.1: Stages of E-Learning Integration <br> Section 3.2: Organizational Structure &amp; Governance <br> Unit 3 Discussion: Models of Support <br>
 7 | Unit 3 Discussion: Models of Support <br> Section 3.3: Models of Support <br> Section 3.4: Funding Models <br> Section 3.5: Conclusion
