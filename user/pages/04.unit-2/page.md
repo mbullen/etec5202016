@@ -54,7 +54,7 @@ Try to work to the following schedule:
 Week | Activity
 --- | ---  
 4 | Section 2.1: Costs &amp; Funding <br> Section 2.2: IT Infrastructure &amp; Support <br> Section 2.3: Organizational Culture <br> Section 2.4: The Impact of Organizational Culture <br> Unit 2 Discussion (end of week 2) <br>
-5 | Section 2.5: Faculty &amp; Learner Readiness <br> Section 2.6: Planning <br> Section 2.7: Organizational Structure <br> Section 2.8: Assessing Readiness for E-Learning <br> Unit 2 Discussion
+5 | Section 2.5: Faculty &amp; Learner Readiness <br> Section 2.6: Planning <br> Section 2.7: Organizational Structure <br> Section 2.8: Assessing Readiness for E-Learning <br> Section 2.9: Conclusion <br> Unit 2 Discussion
 
 ### Readings & Resources <a name="readings"></a>
 #### Recommended
@@ -77,6 +77,7 @@ Too often e-learning readiness is viewed in strictly technical terms. Does the o
 	<li>Faculty and learner readiness</li>
 	<li>Organizational structure</li>
 </ul>
+<hr/>
 
 ### 2.1 Cost & Funding <a name="costs"></a>
 <p style="text-align: left;">E-learning is not cheap. No matter what model is used to support it, in the short term, extra funding or reallocated funding will be needed if e-learning is implemented on a wide scale. The good news is that if e-learning is implemented properly, there can be cost savings or cost efficiencies in the longer term. However, in order to implement e-learning successfully, organizations need to decide how it will be funded and how that funding will be sustained. Many organizations launch e-learning initiatives with one-time start up funding without considering how the programs created will be sustained. Funding is a key readiness issue that organizations need to examine carefully. In order to make sound decisions about funding e-learning we need to have a good understanding of what it actually costs and what the benefits are. As you will read in chapter 7 of Bates &amp; Sangrà, our higher education institutions have very little understanding of the cost issues.</p>
@@ -123,6 +124,7 @@ Use the following questions to guide your thinking about the funding issues:
 	<li>Bates &amp; Sangrà argue strongly in favour of activity-based accounting in which revenues flow directly to the programs that generate them rather to a central institutional institutional account. While I understand the logic of this, I have serious concerns about what it might do to the institiution's identity and financial flexibility. Do you think this might reduce a college or university to a loosely organized group of independent business units without any overriding institutional purpose? What about the impact on its ability to support activities that don't fit neatly into one school or faculty?</li>
 	<li style="text-align: left;">As you can see from the business model example in chapter 7 of Bates &amp; Sangrà, the MET is self-funded through tuition fees. Should institutions focus on markets where e-learning can pay for itself, or should senior administrators ensure that all students, including state-subsidized undergraduates, have access to e-learning, even if this means closing some face-to-face programs to find the money? Are there other choices?</li>
 </ol>
+<hr/>
 
 ### 2.2 IT Infrastructure & Support <a name="it"></a>
 #### Infrastructure
@@ -136,6 +138,7 @@ The following video discusses some of the shortcomings of the learning managemen
 Another issue that needs to be addressed is technical support. The hardware and software is certainly much more user friendly than it used to be and faculty and students tend have more IT skills than they used to, but there is still a need for technical support. Things do break down and skill levels vary considerably among faculty and students.
 
 The traditional model of institutional IT support is a centralized department that is only open from 9-5 on weekdays and is usually situated in a remote part of the campus. This will not be sufficient if you are planning a wide-scale implementation of e-learning and you expect a significant proportion of your faculty and students to be using e-learning. They will need to have more accessible support which means it needs to be available after hours. Although most support can be provided remotely, there are times when it is just easier to talk to somebody face-to-face. In this case, the support should be in a relatively accessible location. Now, providing support after hours doesn't necessarily mean 24/7 support but it does mean more than 9-5. The key thing is to try to get some idea of what the support needs are and plan accordingly. For example, if you are delivering a lot of fully online courses to working students, chances are they will be studying in the evenings and on weekends. It would be important, then, to provide some level of support at these times.
+<hr/>
 
 ### 2.3 Organizational Culture <a name="orgculture"></a>
 All organizations have some basic, shared assumptions, values, and norms. This is what is called an organizational culture which is essentially the personality of an organizaiton. Organizational culture is expressed in how its members behave, how the organization promotes itself and what it values and rewards. So why does this matter to how we plan and manage e-learning? Well, as Bates &amp; Sangrà (2011) argue, organizational cultures develop to protect the core mission of an organization which means any changes that are perceived to undermine the core mission and values are often resisted because they are seen as threatening.
@@ -164,6 +167,7 @@ If you are interested in learning more about these six cultures, you should get 
 </ol>
 #### Reference
 * Bergquist, W.H. &amp; Pawlak, K. (2008). <em>Engaging the Six Cultures of the Academy.</em> San Francisco: Jossey Bass.
+<hr/>
 
 ### 2.4 The Impact of Organizational Culture <a name="cultureimpact"></a>
 #### Cultural Conflict
@@ -196,6 +200,7 @@ In <em>When Worlds Collide</em> I use the situation at UBC in the early 2000's t
 
 #### Reference
 Millett, J.D. (1962). <em>The Academic Community: An Essay on Organization</em>. New York: McGraw-Hill.
+<hr/>
 
 ### 2.5 Faculty & Learner Readiness <a name="facultylearner"></a>
 #### Faculty Readiness
@@ -242,11 +247,13 @@ The following are readiness surveys for instructors and students that will give 
 
 #### Optional Reading
 * Wilson, G. (2007). New Skills and Ways of Working: Faculty Development for E-Learning. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies &amp; Issues </em>(pp. 121-138). Hershey, PA: Information Science Publishing.
+<hr/>
 
 ### 2.6 Planning <a name="planning"></a>
 The conventional wisdom around e-learning is that for it to be sustainable and cost-effective there must be an institutional strategic plan for e-learning which is nested within the institution’s overall strategic plan. As I mentioned in the introduction, when I started teaching this course, I subscribed wholeheartedly to this view. But, over the years, my thinking has changed. My experience working in and with different institutions has led me to the conclusion that strategic planning for e-learning may not be necessary in all cases and may not produce the results that proponents think it will. Certainly an institutional e-learning strategy is not a precondition for e-learning as there are many examples of organizations that are using e-learning quite successfully without one. Now I haven't rejected strategic planning for e-learning but I do think we need to be much more flexible in our thinking about this and accept that different contexts demand different approaches.
 
 In a later unit we will examine planning in more detail and look at the components of a strategic plan and the steps in the strategic planning process. For the time being, we just want to highlight the value of proper planning but caution you to be pragmatic and flexible about how you approach planning. Like so much in education, context matters. Large organizations that want to implement system-wide e-learning are going to find it much more useful to develop a strategic plan for e-learning than a small organization that may just want to offer a few online courses or encourage their teachers to make more use of technology in their teaching. Just because you don't have a fully-developed e-learning strategy doesn't necessarily mean you aren't ready for e-learning.
+<hr/>
 
 ### 2.7 Organizational Structure <a name="orgstructure"></a>
 Institutions must have the appropriate organizational structures and governance mechanisms in place to ensure that e-learning is properly implemented. Bates &amp; Sangrà (2011) stress that the successful implementation of e-learning <em>“requires daily and continuous attention throughout the organization…[and]…ongoing mechanisms in place to deal with technology issues as they arise” (</em>p. 103).
@@ -259,6 +266,7 @@ We will cover organizational structure in more detail in a later unit. For now, 
 Clearly, it helps if e-learning is situated in the academic/educational portfolio as this is where the power lies in all academic organizations. However, the ideal organizational arrangement depends on how e-learning is going to be used and how widespread the proposed implementation will be. For large scale, institution-wide implementations of e-learning, well-funded, centralized support is essential. This may take the form of a centralized department that services the entire organization or, in very large institutions, it could take the form of large, well-funded centres that are based in each Faculty or school.
 
 Related to the structural issues is the question of who is supporting and championing e-learning in the organization. It's one thing to have the e-learning department strongly embedded in the organization and well-represented on governance committees and councils but it is also important that there are powerful e-learning champions within the organization These should be people with power and influence who are not seen has having a vested interest.
+<hr/>
 
 ### 2.8 Assessing Readiness for E-Learning <a name="assessing"></a>
 Now that you have an overview of the key readiness factors, you should be able to assess the readiness of an organization. Bates &amp; Sangrà have researched this issue by examining in depth how 11 different institutions have handled the implementation of e-learning. Based on their review they developed a set of nine criteria for assessing the success of learning technology integration. With some modifications, I think these can also be used to assess the the readiness of an institution for e-learning. These criteria are discussed fully on pp. 71-75 of Bates &amp; Sangrà. I have modified them slightly here to focus more specifically on e-learning readiness.
@@ -278,6 +286,7 @@ The 2013 EDUCAUSE report, <em>The State of E-learning Higher Education </em>repo
 
 <a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Bates, A.W. & Sangrà, A. (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning.</em> San Francisco: Jossey Bass, pp. 71-75.<br> <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2-8&snapshot=no" target="_blank">Online readings</a>
 --- | ---
+<hr/>
 
 ### 2.9 Conclusion <a name="conclusion"></a>
 
