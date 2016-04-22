@@ -48,8 +48,8 @@ After completing this unit you should be able to:
 	<li>Identify some of the elements necessary for the development and delivery of high quality e-learning.</li>
 </ol>
 ### Unit Schedule<a name="schedule"></a>
-
 Try to work to the following schedule:
+
 Week | Activity
 --- | ---  
 2 | Sections 1.1, 1.2 <br> Unit 1 Discussion (end of week 2)
