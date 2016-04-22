@@ -21,7 +21,7 @@ fontawesome: use_global
 * [Key Points](#keypoints)
 * [6.1 Program and Course Development](#programcourse)
 * [6.2 Course Development Models](#models)
-* [6.3 A Typical Projecdt Team](#team)
+* [6.3 A Typical Project Team](#team)
 * [6.4 The Production Cycle](#cycle)
 * [6.5 Blended Approaches to E-Learning](#blended)
 * [6.6 Conclusion](#conclusion)
@@ -64,8 +64,9 @@ Try to work to the following schedule:
 
 Week | Activity
 --- | ---  
-13 | Sections 6.1, 6.2, 6.3 <br> Unit 6 Discussion
-14 | Sections 6.4, 6.5, 6.6 <br> Unit 6 Discussion
+13 | Sections 6.1: Program and Course Development <br> Section 6.2: Course Development Models <br> Section 6.3: A Typical Project Team <br> Unit 6 Discussion
+14 | Unit 6 Discussion <br>
+Sections 6.4: The Production Cycle <br> Section 6.5:  Blended Approaches to E-Learning <br> Section 6.6: Conclusion
 
 ### Readings & Resources <a name="readings"></a>
 #### Recommended
@@ -107,6 +108,7 @@ Institutions need to use a systematic approach to faculty development that goes 
 	<li>Project work related to the design and delivery of an e-learning course</li>
 	<li>Electives that might include courses on research in teaching and learning, emerging technology, cultural and international issues and others.</li>
 </ul>
+<hr/>
 
 ### 6.1 Program and Course Development <a name="programcourse"></a>
 #### Identifying E-learning Projects for Development
@@ -125,6 +127,7 @@ We are going to refer to the process used by the now defunct Distance Education 
 
 <a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-6-1&snapshot=no/" target="_blank">Online Readings</a>
 --- | ---
+<hr/>
 
 ### 6.2 Course Development Models <a name="models"></a>
 The two most common approaches to e-learning course development are the "Do It Yourself" approach or what Bates calls the Lone Ranger approach and the Project Management approach. But these are really two ends of a continuum and there are variety of other approaches in between these two poles.
@@ -211,6 +214,7 @@ The UBC Distance Education &amp; Technology (DET),which no longer exists, used a
 
 <a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-6-2a&snapshot=no/" target="_blank">Online Readings</a>
 --- | ---
+<hr/>
 
 ### 6.3 A Typical Project Team <a name="team"></a>
 What follows is a description of the types of people that are typically brought together for a project and whose work is organized within a managed process.
@@ -230,6 +234,7 @@ Learner support professionals are, ideally, also available within a project team
 While specific configuration of a project team will vary from institution to institution and, even, within and between different departments in a single institution, it is important for roles and responsibilities to be clearly defined at the start of a project. The description of roles as listed above are typically required for projects, especially more complex ones, though the particular functions may be combined in single people. Some institutions use dedicated Project Mangers while others combine the roles of Project Manager and Instructional Designer, for example.
 #### Funding and Development Support
 The funding approach and how development is supported in an institution will also play a role in determining what kind of core project team can be brought together. For example, in many universities it is often common for project teams to be composed of people who are hired specifically for the project (typically on part-time or limited term contracts).  Because the money that supports the project is soft, i.e., it is short-term as opposed to long-term funding, it is not typically possible to create long-term positions. This has a negative impact on continuity, as it is difficult to retain those people who have gained experience working on a project year to year. However, the flexibility of this soft-funding makes it easier to hire and support students. Another common approach to supporting the development of fully online e-learning projects is to have them resourced using a combination of professors, whose time is acquired to work on a project through buy-out or course release, with the support of a professional development group from a centre that has long-term, permanent staff. By positioning such staff in a centre or unit to support e-learning development, an institution is able to maintain a consistent level of quality resources to support on-going development year-to-year. Such a resource, however, depends upon predictable, on-going funding from the institution.
+<hr/>
 
 ### 6.4 The Production Cycle <a name="cycle"></a>
 One of the disadvantages mentioned above in relation to the Lone Ranger approach is that such projects are typically short-term and difficult to sustain over time. With a Project Management approach, a key principle is that projects take place in a cyclical and iterative process. A project is understood to have a number of phases or steps with discrete activities that need to take place, and at the end of the cycle, the process repeats, to allow for courses and projects to be refined and maintained. The graphic below provides an example of the development cycle that is used at UBC for Distance Education projects.
@@ -237,6 +242,7 @@ One of the disadvantages mentioned above in relation to the Lone Ranger approach
 <a href="http://blogs.ubc.ca/etec520/files/2011/11/production-cycle.png"><img class="size-full wp-image-2163 aligncenter" src="http://blogs.ubc.ca/etec520/files/2011/11/production-cycle.png" alt="" width="432" height="225" /></a>
 
 For a description of each phase of the development cycle, you can look at pages 57-70 of <em>Preparing Distance Education Courses: A Guide for Course Authors</em>, which is in the second section of the <a href="http://www.box.com/shared/b5tzvdlds9">DET Project Development Manual</a> from UBC.
+<hr/>
 
 ### 6.5 Blended Approaches to E-Learning <a name="blended"></a>
 Earlier in this unit we mentioned  that as one moves from the left to the right on the <a href="http://blogs.ubc.ca/etec520/files/2010/04/eLearning-graphic-1.jpg" target="_blank">e-learning continuum</a> we introduced at the beginning of the course, the level of complexity and the need for a more managed approach to planning and development increases. In the middle of this continuum, is mixed-mode teaching, a blended or hybrid approach that involves a conscious reorganization of the time that students are asked to spend in the physical classroom as well as a strategic positioning of online materials and activities to effectively support student learning in ways not possible in the physical classroom alone.
@@ -283,6 +289,7 @@ The flexible strategy, <a href="http://flexible-learning2015.sites.olt.ubc.ca/fi
 <a href="http://flexible-learning2015.sites.olt.ubc.ca/files/2015/04/fl_strategy_september_2014.pdf" target="_blank">
 Flexible Learning Strategy
 </a>
+<hr/>
 
 ### 6.6 Conclusion <a name="conclusion"></a>
 In most Western universities and colleges, professors and instructors have a great deal of autonomy, which gives them freedom to chose both content and method of teaching. If teachers wish to work alone in their use of technology for teaching, this will take up a great deal more of their time. Also, working alone runs a very high risk of developing relatively poor quality courses. The alternative, working in a team in a project management model, may reduce the overall independence of instructors, but it provides technical support and a structure that enables them to control their time. Even more importantly, working with a team of professionals in a project management model is likely to increase the quality of the teaching and learning.
