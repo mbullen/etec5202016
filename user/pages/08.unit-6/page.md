@@ -284,7 +284,8 @@ The flexible strategy, <a href="http://flexible-learning2015.sites.olt.ubc.ca/fi
 	<li>Do you think this is something that the average faculty member will support?</li>
 </ol>
 #### Links
-<a href="http://flexible.learning.ubc.ca/" target="_blank">UBC Flexible Learning Initiative website</a><a href="http://flexible-learning2015.sites.olt.ubc.ca/files/2015/04/fl_strategy_september_2014.pdf" target="_blank">
+<a href="http://flexible.learning.ubc.ca/" target="_blank">UBC Flexible Learning Initiative website</a>  
+<a href="http://flexible-learning2015.sites.olt.ubc.ca/files/2015/04/fl_strategy_september_2014.pdf" target="_blank">
 Flexible Learning Strategy
 </a>
 
@@ -297,8 +298,5 @@ So, whether working as Lone Rangers or in a project team, instructors are going 
 
 To conclude this course, we highly recommend one last reading. This is another article by Sarah Guri-Rosenblit who identifies and explains what she considers to be eight inherent paradoxes that higher education institutions face as they try to implement e-learning.
 
-<img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" />
-
-#### Reading
-
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-6-6?count=30" num="30"]
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-6-6&snapshot=no/" target="_blank">Online Readings</a>
+--- | ---  
