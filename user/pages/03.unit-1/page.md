@@ -52,8 +52,8 @@ Try to work to the following schedule:
 
 Week | Activity
 --- | ---  
-2 | Sections 1.1, 1.2 <br> Unit 1 Discussion (end of week 2)
-3 | Sections 1.3, 1.4 <br> Unit 1 Discussion
+2 | Sections 1.1: What is E-Learning <br> Section 1.2: Rationales for E-Learning <br> Unit 1 Discussion (end of week 2)
+3 | Section 1.3: Overview of Learning Technologies <br>, Section 1.4: Implications for Teaching & Learning <br> Section 1.5: Conclusion  <br> Unit 1 Discussion
 
 
 ### Readings & Resources <a name="readings"></a>
