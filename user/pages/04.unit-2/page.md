@@ -62,7 +62,7 @@ Week | Activity
 * Bates, A.W. (2001). <span style="text-decoration: underline;"><a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em>National strategies for e-learning in post-secondary education and training. </em></a></span>Chapter 5. Paris: UNESCO/International Institute for Educational Planning.
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2&snapshot=no" target="_blank">Online readings</a>
 
- #### Optional
+#### Optional
 * Haughey, M. (2007). Organizational Models for Faculty Support: The Response of Canadian Universities. In M. Bullen &amp; D.P. Janes (Eds.)<em> Making the Transition to E-Learning: Strategies &amp; Issues</em> (pp. 17-32). Hershey, PA: Information Science Publishing.
 * Wilson, G. (2007). New Skills and Ways of Working: Faculty Development for E-Learning. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies &amp; Issues </em>(pp. 121-138). Hershey, PA: Information Science Publishing.
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2-1R&snapshot=no" target="_blank">Online readings</a>
@@ -106,7 +106,7 @@ These ideas are explained in more detail in chapter 7 of Bates &amp; Sangrà.
 
 <a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Bates, A.W. &amp; Sangrà, A. (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning.</em> San Francisco: Jossey Bass, chapter 7. <br> Bates, A.W. (2001). <span style="text-decoration: underline;"><a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em>National strategies for e-learning in post-secondary education and training. </em></a></span>Chapter 5. Paris: UNESCO/International Institute for Educational Planning.
 --- | ---
-#### Additional Reading
+#### Optional Reading
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2-1R&snapshot=no" target="_blank">Online readings</a>
 * Anya Kamenetz has written an excellent critique of the US higher education system. In chapters 3 and 4, of <a href="http://www.amazon.ca/DIY-Edupunks-Edupreneurs-Transformation-Education/dp/1603582347/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1265385331&amp;sr=8-1" target="_blank"><em>DIY U: Edupunks, Edupreneurs, and the Coming Transformation of Higher Education. </em></a>She examines some of the reasons for the spiraling cost of higher education in the US. She makes some interesting recommendations for how to address them that include the innovative use of e-learning.
 In these two short presentations, Anya Kamentz talks about some of issues around the rising cost of higher education and offers some solutions.
@@ -231,13 +231,15 @@ All too often we overlook the issue of learner readiness and assume that today's
 The following are readiness surveys for instructors and students that will give you an idea of what some of the basic skills are for both groups. Take a look at them and do your own readiness self-assessment:
 
 <a href="https://app.box.com/s/hwy0ans0y4h6l48hahf7" target="_blank">Learner E-Learning Readiness Survey
-</a><a href="https://app.box.com/s/1z3lehh1jbtmrfd22zni" target="_blank">Instructor E-Learning Readiness Survey</a>
+</a>
+<a href="https://app.box.com/s/1z3lehh1jbtmrfd22zni" target="_blank">Instructor E-Learning Readiness Survey</a>
+
 <a href="https://weblearning.psu.edu/FacultySelfAssessment/" target="_blank">Faculty Self-Assessment: Preparing for Online Teaching</a>
 
 <a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | Bates, A.W. & Sangrà, A. (2011). Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning. San Francisco: Jossey Bass, pp. 190-208. <br> <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2-5-2&snapshot=no" target="_blank">Online readings</a>
 --- | ---
 
-#### Additional Reading
+#### Optional Reading
 * Wilson, G. (2007). New Skills and Ways of Working: Faculty Development for E-Learning. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies &amp; Issues </em>(pp. 121-138). Hershey, PA: Information Science Publishing.
 
 ### 2.6 Planning <a name="planning"></a>
