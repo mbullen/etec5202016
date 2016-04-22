@@ -64,9 +64,10 @@ Try to work to the following schedule:
 
 Week | Activity
 --- | ---  
-13 | Sections 6.1: Program and Course Development <br> Section 6.2: Course Development Models <br> Section 6.3: A Typical Project Team <br> Unit 6 Discussion
+13 | Section 6.1: Program and Course Development <br> Section 6.2: Course Development Models <br> Section 6.3: A Typical Project Team <br> Unit 6 Discussion
 14 | Unit 6 Discussion <br>
-Sections 6.4: The Production Cycle <br> Section 6.5:  Blended Approaches to E-Learning <br> Section 6.6: Conclusion
+Section 6.4: The Production Cycle <br> Section 6.5: Blended Approaches to E-Learning <br> Section 6.6: Conclusion
+
 
 ### Readings & Resources <a name="readings"></a>
 #### Recommended
