@@ -47,35 +47,20 @@ After completing this unit you should be able to:
 	<li>Identify some of the elements necessary for the development and delivery of high quality e-learning.</li>
 </ol>
 ### Unit Schedule<a name="schedule"></a>
-Try to work to the following schedule:
 
-#### Week 2
-<ul>
-	<li>Section 1.1: What is E-Learning?,</li>
-	<li>Section 1.2: Rationales for E-Learning
-<ul>
-	<li><em>Discussion: The Meaning of E-Learning (end of Week 2)
-</em></li>
-</ul>
-</li>
-</ul>
-#### Week 3
-<ul>
-	<li>Section 1.3: Overview of Technologies<em>
-</em></li>
-	<li>Section 1.4: mplications for Teaching &amp; Learning;
-<ul>
-	<li><em>Discussion: The Meaning of E-Learning</em></li>
-</ul>
-</li>
-</ul>
+Try to work to the following schedule:
+Week | Activity
+--- | ---  
+2 | Sections 1.1, 1.2 <br> Unit 1 Discussion (end of week 2)
+3 | Sections 1.3, 1.4 <br> Unit 1 Discussion
+
 
 ### Readings & Resources <a name="readings"></a>
-#### Recommended Readings & Resources
+#### Recommended
 * Bates, A.W. &amp; Sangrà, A. (2011.) <em>Managing Technology in Higher Education: Strategies for Transforming Teaching &amp; Learning. </em>San Francisco: Jossey-Bass. Chapters 1 &amp; 2.
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-1&snapshot=no" target="_blank">Online readings</a>
 
-#### Additional Readings & Resources
+#### Optional
 * Bullen, M. &amp; Janes, D.P. (2007). Preface. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies and Issues</em>, pp. vii-xvi, Hershey, PA: Information Science Publishing.
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-1R&snapshot=no" target="_blank">Online readings</a>
 

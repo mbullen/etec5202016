@@ -72,7 +72,7 @@ Week | Activity
 <ul>
 	<li>Bates, A.W. &amp;  Sangrà, A. (2011). <em>Managing Technology: Strategies for Transforming Higher Education.</em> San Francisco: Jossey Bass, pp. 138-142.</li>
 </ul>
-<a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-6&snapshot=no" target="_blank">Online Readings</a>  
+* <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-6&snapshot=no" target="_blank">Online Readings</a>  
 
 #### Optional
 <ul>
