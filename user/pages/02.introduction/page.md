@@ -235,8 +235,8 @@ You can read a brief biography of your instructor by following the link below.
 <a href="http://localhost:8888/etec5202016/instructor-bios" target="_blank">Instructor Bios</a>
 <hr/>
 
-### Activities <a name="activities"></a>
-#### 9. Exploring the Resources
+### 9. Activities <a name="activities"></a>
+#### Exploring the Resources
 <ol>
 	<li>Spend some time browsing the various sources listed in <em>Resources</em>.</li>
 	<li>If you find articles or references that you think might be particularly useful for this course, add the URL to your bookmarks.</li>
