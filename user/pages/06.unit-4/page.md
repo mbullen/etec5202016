@@ -46,16 +46,16 @@ Try to work to the following schedule:
 
 Week | Activity
 --- | ---  
-8 | Section 4.1 <br> Unit 4 Discussion
-9 | Sections 4.2, 4.3 <br> Unit  4 Discussion
+8 | Section 4.1: Strategic Planning for e-Learning <br> Unit 4 Discussion
+9 | Unit  4 Discussion <br> Sections 4.2: The Elements of a Strategic Plan <br> Section 4.3: Conclusion
 
 ### Readings & Resources <a name="readings"></a>
-#### Recommended Readings & Resources  
+#### Recommended
 
 * Bates, A.W. &amp; Sangrà, A. (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, chapters 3, 4.
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-4R&snapshot=no" target="_blank">Online readings</a>
 
-#### Additional Reading & Resources  
+#### Optional
 
 * Bates, A.W. (2007). Strategic Planning for E-Learning in a Polytechnic. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies &amp; Issues </em>(pp. 47-65). Hershey, PA: Information Science Publishing.
 * Fritz, R. (1989). <em>The Path of Least Resistance</em>. New York: Columbine, pp.122-138.
@@ -74,6 +74,7 @@ Going through the planning process forces us to think about what we do, what we 
 Understanding the perspective of faculty is critical. This does not mean abandoning a systematic, strategic approach but it does mean ensuring that  faculty members feel involved. It also means that procedures and practices must be properly integrated into the academic core of the institution. This may mean devising new and innovative organizational structures that blend features of centralization with faculty-based support.  
 #### Change Will Be Necessary  
 If there is one key point we want to emphasize above all others in this unit it is that to effectively implement e-learning at an institutional level will require significant change. Strategic planning isn't always the answer and may not be necessary in all cases but at the very least every organization needs to be thinking about how it will be using e-learning, what changes will be needed to allow for its effective implementation.  
+<hr/>
 
 ### 4.1 Strategic Planning for E-Learning <a name="strategic"></a>  
 #### Planning vs Management  
@@ -102,10 +103,11 @@ Ideally strategic planning should be done at several different levels in an inst
 * Bates, A.W. &amp; Sangrà, A. (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, chapters 3, 4.
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-4-1&snapshot=no" target="_blank">Online readings</a>  
 
-#### Additional Reading  
+#### Optional Reading  
 * Bates, A.W.(2007). <em>Strategic Planning for E-Learning in a Polytechnic</em>. In M. Bullen &amp; D.P. Janes (Eds.) Making the Transition to E-Learning: Strategies and Issue (pp. 47-65). Hershey, PA: Information Science Publishing.
 * Fritz, R. (1989). <em>The Path of Least Resistance</em>. New York: Columbine, pp.122-138.
 * Kaufman, R. and Herman, J. (1997). ‘Strategic Planning, Schooling, and the Curriculum for Tomorrow’ in Dijkstra, S. et al. <em>Instructional Design: International Perspectives.</em> New York: Lawrence Erlbaum.
+<hr/>
 
 ### 4.2 The Elements of a Strategic Plan <a name="elements"></a>
 It is important to realize that, while terminology may differ, most strategic plans contain similar components. Sometimes the term “objectives” is used instead of “goals” or “outcomes”. Or purpose is used instead of goal. The concepts of a mission and vision are sometimes used differently in different plans. The point is that, regardless of the labels, most strategic plans contain the same type of information about the organization and in roughly the same order and framework.
@@ -143,9 +145,10 @@ Find two or three other strategic plans from different institutions or organizat
 <a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | <a href="https://app.box.com/s/r4xhmubg8udpzyql3dau" target="_blank">Sample E-Learning Strategies</a>
 --- | ---
 
-#### Additional  Reading
+#### Optional  Reading
  * Bates, A.W. (2007). Strategic Planning for E-Learning in a Polytechnic. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies &amp; Issues </em>(pp. 47-65). Hershey, PA: Information Science Publishing.  
  * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-4-2-R&snapshot=no" target="_blank">Online readings</a>  
+ <hr/>
 
 ### 4.3 Conclusion <a name="conclusion"></a>
 The use of e-learning opens up completely new possibilities for teaching, and thinking strategically is critical to the success of e-learning. This requires the development of a clear vision of how one would like to teach, given the opportunities opened up by new technologies, and from this the development particularly of departmental teaching plans that take into account not only content, but teaching methods and the role of technology in teaching.
