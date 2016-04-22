@@ -26,6 +26,7 @@ fontawesome: use_global
 * [6.5 Blended Approaches to E-Learning](#blended)
 * [6.6 Conclusion](#conclusion)
 <hr/>
+
 ### Introduction
 In this unit we are going to look at institutional readiness in terms of how e-learning is implemented and supported. The main players are the service units, departments or other such groups that play a role in making e-learning operational. These are the groups that are involved in organizational planning and management of courses and support services for learners or employees and faculty members or trainers. Individuals within these departments may also play a key role in the delivery of these courses and services as well.
 
@@ -41,7 +42,7 @@ By the end of this unit, participants will be able to:
 	<li>Explain the key phases of course development</li>
 	<li>Explain the roles and responsibilities of project team members</li>
 </ul>
-#### Guiding Questions
+#### Guiding Questions  
 Use the following questions to guide your thinking as you study this unit:
 <ol>
 	<li>Is there any evidence for what Bates &amp; Sangrà says about Lone Rangers? Does it match what is happening in your institution?</li>
@@ -57,7 +58,7 @@ If you are interested in following up on the quality control of technology-based
 	<li>Will the adoption of e-learning inevitably mean an increase in the workload of faculty who do this? What can be done to avoid or reduce e-learning-related workload?</li>
 	<li>In their article, <em>Faculty 2.0,</em> Hartman et al. suggest that faculty will have to adapt to the changing nature of students and how they use and think of technology. Do you agree with with their conclusions?</li>
 </ol>
-### Unit Schedule <a name="schedule"></a>
+### Unit Schedule <a name="schedule"></a>  
 Try to work to the following schedule:
 
 Week 13
@@ -76,13 +77,8 @@ Week 14
 <ul>
 	<li>Bates, A.W. &amp;  Sangrà, A. (2011). <em>Managing Technology: Strategies for Transforming Higher Education.</em> San Francisco: Jossey Bass, pp. 138-142.</li>
 </ul>
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-6-1?count=30" num="30"]
+<a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-6&snapshot=no" target="_blank">Online Readings</a>  
 
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-6-2?count=30" num="30"]
-
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-6-2a?count=30" num="30"]
-
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-6-6?count=30" num="30"]
 #### Additional Readings
 <ul>
 	<li>Kelly, O. (2007). Moving to Blended Delivery in a Polytechnic: Shifting the Mindset of Faculty and Institutions. In M. Bullen and D.P. Janes (Eds.), <em>Making the Transition to E-Learning: Strategies and Issues</em>, pp. 33-46, Hershey, PA: Information Science Publishing.</li>
@@ -102,6 +98,7 @@ When a project management approach is used, a project team. The following are th
 	<li>Media designer</li>
 	<li>Learner support specialist</li>
 </ul>
+
 #### 3. Funding and Development Support
 The funding approach and how development is supported in an institution will  play a role in determining what kind of core project team can be brought together. In many universities it is common for project teams to be composed of people who are hired specifically for the project (typically on part-time or limited term contracts).   This affects continuity, as it is difficult to retain those people who have gained experience working on a project year to year. Another common approach to supporting the development of fully online e-learning projects is to have them resourced using a combination of professors, whose time is acquired to work on a project through buy-out or course release, with the support of a professional development group from a centre that has long-term, permanent staff. By positioning such staff in a centre or unit to support e-learning development, an institution is able to maintain a consistent level of quality resources to support on-going development year-to-year. Such a resource, however, depends upon predictable, on-going funding from the institution.
 #### 4. Faculty Support
@@ -131,11 +128,8 @@ In many organizations there is no formal process used to select courses or proje
 
 We are going to refer to the process used by the now defunct Distance Education and Technology department at the University of British Columbia but also draw to your attention to the planning process used by the <a href="http://blended.online.ucf.edu/" target="_blank">University of Central Florida (UCF),</a> particularly when we consider development in a mixed-mode context.  Our intention here is to show you a couple of different models and policies concerning course development, and to help you to consider scenarios that might be productive in your own context.  As well, it is important to consider the process by which projects are identified and supported within an organization, as this will determine, to a large measure, the type of development environment that is created.
 
-<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a><strong>
-Reading</strong>
-<a href="https://delicious.com/markbullen/search/etec520-6-1" target="_blank">Blended Learning Toolkit, Faculty 2.0</a>
-
-[rss feed="https://www.diigo.com/rss/user/markbullen/etec520-6-1?count=15/" num="10"]
+<a href="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png"><img class="alignleft size-full wp-image-3032" src="http://blogs.ubc.ca/etec5202015/files/2010/04/reading-icon.png" alt="reading icon" width="80" height="104" /></a> | <a href="https://www.diigo.com/rss/user/markbullen/etec520-6-1?count=15/" target="_blank">Online Readings</a>
+--- | ---
 
 ### 6.2 Course Development Models <a name="models"></a>
 The two most common approaches to e-learning course development are the "Do It Yourself" approach or what Bates calls the Lone Ranger approach and the Project Management approach. But these are really two ends of a continuum and there are variety of other approaches in between these two poles.
