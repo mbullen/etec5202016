@@ -103,7 +103,7 @@ Ideally strategic planning should be done at several different levels in an inst
 * Bates, A.W. &amp; Sangrà, A. (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, chapters 3, 4.
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-4-1&snapshot=no" target="_blank">Online readings</a>  
 
-#### Optional Reading  
+#### Optional Readings  
 * Bates, A.W.(2007). <em>Strategic Planning for E-Learning in a Polytechnic</em>. In M. Bullen &amp; D.P. Janes (Eds.) Making the Transition to E-Learning: Strategies and Issue (pp. 47-65). Hershey, PA: Information Science Publishing.
 * Fritz, R. (1989). <em>The Path of Least Resistance</em>. New York: Columbine, pp.122-138.
 * Kaufman, R. and Herman, J. (1997). ‘Strategic Planning, Schooling, and the Curriculum for Tomorrow’ in Dijkstra, S. et al. <em>Instructional Design: International Perspectives.</em> New York: Lawrence Erlbaum.
