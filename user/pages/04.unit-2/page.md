@@ -50,29 +50,25 @@ Upon completion of this unit you should be able to:
 ### Unit Schedule <a name="schedule"></a>
 Try to work to the following schedule:
 
-Week 4
-<ul>
-	<li>Section 2.1: Costs &amp; Funding</li>
-	<li>Section 2.2: IT Infrastructure &amp; Support</li>
-	<li>Section 2.3: Organizational Culture</li>
-	<li>Section 2.4: The Impact of Organizational Culture</li>
-	<li>Unit 2 Discussion</li>
-</ul>
-Week 5
-<ul>
-	<li>Section 2.5: Faculty &amp; Learner Readiness</li>
-	<li>Section 2.6: Planning</li>
-	<li>Section 2.7: Organizational Structure</li>
-	<li>Section 2.8: Assessing Readiness for E-Learning</li>
-	<li>Unit 2 Discussion</li>
-</ul>
+Week | Activity
+--- | ---  
+4 |Section 2.1: Costs &amp; Funding <br>
+Section 2.2: IT Infrastructure &amp; Support <br>
+Section 2.3: Organizational Culture <br>
+Section 2.4: The Impact of Organizational Culture <br>
+Unit 2 Discussion (end of week 2)
+5 | SSection 2.5: Faculty &amp; Learner Readiness <br>
+Section 2.6: Planning <br>
+Section 2.7: Organizational Structure <br>
+Section 2.8: Assessing Readiness for E-Learning <br>
+Unit 2 Discussion
 
-### Recommended Reading & Resources <a name="readings"></a>
+### Recommended <a name="readings"></a>
 * Bates, A.W. &amp; Sangrà, A.  (2011). <em>Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning</em>. San Francisco: Jossey Bass, pp. 71-75; Chapter 7 and Chapter 8, pp. 182-208<strong><em>.</em></strong>
 * Bates, A.W. (2001). <span style="text-decoration: underline;"><a href="http://unesdoc.unesco.org/images/0012/001262/126230e.pdf" target="_blank"><em>National strategies for e-learning in post-secondary education and training. </em></a></span>Chapter 5. Paris: UNESCO/International Institute for Educational Planning.
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2&snapshot=no" target="_blank">Online readings</a>
 
- ### Additional Reading &amp; Resources
+ ### Optional
 * Haughey, M. (2007). Organizational Models for Faculty Support: The Response of Canadian Universities. In M. Bullen &amp; D.P. Janes (Eds.)<em> Making the Transition to E-Learning: Strategies &amp; Issues</em> (pp. 17-32). Hershey, PA: Information Science Publishing.
 * Wilson, G. (2007). New Skills and Ways of Working: Faculty Development for E-Learning. In M. Bullen &amp; D.P. Janes (Eds.) <em>Making the Transition to E-Learning: Strategies &amp; Issues </em>(pp. 121-138). Hershey, PA: Information Science Publishing.
 * <a href="https://www.diigo.com/search?adSScope=my&what=%23etec520-2-1R&snapshot=no" target="_blank">Online readings</a>
